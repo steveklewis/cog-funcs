@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import { PerceivingFunctions } from './PerceivingFunctions';
+import { JudgingFunctions } from './JudgingFunctions';
+import { CognitiveFunction } from './CognitiveFunction';
+
 class App extends Component {
   render() {
     return (
@@ -11,7 +15,8 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          <PerceivingFunctions />
+          <JudgingFunctions />
         </p>
       </div>
     );
