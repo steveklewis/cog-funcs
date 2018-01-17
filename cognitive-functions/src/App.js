@@ -6,8 +6,7 @@ import './App.css';
 import { Modal } from 'antd';
 import Button from 'antd/lib/button';
 
-import { PerceivingFunctions } from './PerceivingFunctions';
-import { JudgingFunctions } from './JudgingFunctions';
+import { CognitiveFunction } from './CognitiveFunction';
 
 class App extends Component {
 
@@ -51,6 +50,8 @@ class App extends Component {
 
   render() {
 
+    let hoverState = {};
+
     if (this.state.list) {
 
 
@@ -60,12 +61,23 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to React</h1>
         </header>
-        {/*
-        <p className="App-intro">
-          <PerceivingFunctions />
-          <JudgingFunctions />
-        </p>
-        */}
+          <div className="wrapper">
+            <div className="sensing-cell">Sensing</div>
+            <CognitiveFunction name="ExtravertedSensing" classNames={"se"} />
+            <CognitiveFunction name="IntrovertedSensing" classNames={"si"} />
+            <div className="intuition-cell">Intuition</div>
+            <CognitiveFunction name="ExtravertedIntuition" classNames={"ne"} />
+            <CognitiveFunction name="IntrovertedIntuition" classNames={"ni"} />
+
+            <div className="feeling-cell">Feeling</div>
+            <CognitiveFunction name={"IntrovertedFeeling"} hoverClasses={"introverted judging feeling"} classNames={"fi"} />
+            <CognitiveFunction name={"ExtravertedFeeling"} hoverClasses={"extraverted judging feeling"} classNames={"fe"} />
+            <div className="thinking-cell">Thinking</div>
+            <CognitiveFunction name={"IntrovertedThinking"} hoverClasses={"introverted judging thinking"} classNames={"ti"} hoverState={hoverState} />
+            <CognitiveFunction name={"ExtravertedThinking"} classNames={"te"} />
+            <div className="extraversion-cell">Extraversion</div>
+            <div className="introversion-cell">Introversion</div>
+          </div>
         <Button type="primary" onClick={this.showModal}>Open Modal</Button>
         <Modal title="Basic Modal" visible={this.state.showModal}>
           Hello
@@ -77,16 +89,10 @@ class App extends Component {
           <div className="perceiving-cell" 
                onClick={this.handleMouseOver.bind(this)}>Perceiving</div>
 
-          <div className="sensing-cell">Sensing</div>
-          <div className="sensing-row"></div>
-          <div className="se">Extraverted Sensing</div>
-          <div className="si">Introverted Sensing</div>
 
-          <div className="intuition-cell">Intuition</div>
           <div className="intuition-row"></div>
           <div className="ne">Extraverted Intuition</div>
           <div className="ni">Introverted Intuition</div>
-          <div className="thinking-cell">Thinking</div>
           <div className="thinking-row"></div>
           <div className="te">Extraverted Thinking</div>
           <div className="ti">Introverted Thinking</div>

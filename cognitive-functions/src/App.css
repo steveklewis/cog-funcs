@@ -119,3 +119,17 @@
   grid-row: 3/4;
   z-index: 1;
 }
+
+.feeling-cell {
+  grid-column: 2;
+  grid-row: 4;
+}
+
+.extraversion-cell {
+  grid-row: 5;
+  grid-column: 3;
+}
+.introversion-cell {
+  grid-row: 5;
+  grid-column: 4;
+}
