@@ -10,6 +10,18 @@ import { CognitiveFunction } from './CognitiveFunction';
 
 class App extends Component {
 
+
+  state = {
+    sensing: false,
+    intuiting: false,
+    perceiving: false,
+    thinking: false,
+    feeling: false,
+    judging: false,
+    introverting: false,
+    extraverting: false
+  }
+
   constructor(props) {
     super(props)
     this.state = {
