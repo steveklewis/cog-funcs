@@ -6,8 +6,6 @@ import './App.css';
 import { Modal } from 'antd';
 import Button from 'antd/lib/button';
 
-import { CognitiveFunction } from './CognitiveFunction';
-
 import styled from 'styled-components';
 
 const HighlightOnStates = styled.h1`
@@ -52,11 +50,6 @@ class App extends Component {
     });
   }
 
-  handleMouseOver() {
-    this.setState({
-     perceivingClasses: 'perceiving hoverme'
-    })
-  }
 
   handleMouseOut() {
     this.setState({
@@ -66,9 +59,7 @@ class App extends Component {
 
   render() {
 
-    let hoverState = {};
-
-    return (
+   return (
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
@@ -78,20 +69,25 @@ class App extends Component {
 
             <HighlightOnStates className="sensing-cell" onMouseEnter={e => { this.setState({sensing: true});}} onMouseLeave={e => { this.setState({sensing: false})}}>Sensing</HighlightOnStates>
             <HighlightOnStates className="se" states={[this.state.sensing, this.state.extraverting]}>Extraverted Sensing</HighlightOnStates>
-            <CognitiveFunction name="IntrovertedSensing" classNames={"si"} />
-            <div className="intuition-cell">Intuition</div>
-            <CognitiveFunction name="ExtravertedIntuition" classNames={"ne"} />
-            <CognitiveFunction name="IntrovertedIntuition" classNames={"ni"} />
+            <HighlightOnStates className="si" states={[this.state.sensing, this.state.introverting]}>Introverted Sensing</HighlightOnStates>
 
-            <div className="feeling-cell">Feeling</div>
-            <CognitiveFunction name={"IntrovertedFeeling"} hoverClasses={"introverted judging feeling"} classNames={"fi"} />
-            <CognitiveFunction name={"ExtravertedFeeling"} hoverClasses={"extraverted judging feeling"} classNames={"fe"} />
-            <div className="thinking-cell">Thinking</div>
-            <CognitiveFunction name={"IntrovertedThinking"} hoverClasses={"introverted judging thinking"} classNames={"ti"} hoverState={hoverState} />
-            <CognitiveFunction name={"ExtravertedThinking"} classNames={"te"} />
+            <HighlightOnStates className="intuition-cell" onMouseEnter={e => { this.setState({intuiting: true});}} onMouseLeave={e => { this.setState({intuiting: false})}}>Intuition</HighlightOnStates>
+            <HighlightOnStates className="ne" states={[this.state.intuiting, this.state.extraverting]}>Extraverted Intuition</HighlightOnStates>
+            <HighlightOnStates className="ni" states={[this.state.intuiting, this.state.introverting]}>Introverted Intuition</HighlightOnStates>
+
+
+            <HighlightOnStates className="feeling-cell" onMouseEnter={e => { this.setState({feeling: true});}} onMouseLeave={e => { this.setState({feeling: false})}}>Feeling</HighlightOnStates>
+            <HighlightOnStates className="fe" states={[this.state.feeling, this.state.extraverting]}>Extraverted Feeling</HighlightOnStates>
+            <HighlightOnStates className="fi" states={[this.state.feeling, this.state.introverting]}>Introverted Feeling</HighlightOnStates>
+
+
+            <HighlightOnStates className="thinking-cell" onMouseEnter={e => { this.setState({thinking: true});}} onMouseLeave={e => { this.setState({thinking: false})}}>Thinking</HighlightOnStates>
+
+            <HighlightOnStates className="te" states={[this.state.thinking, this.state.extraverting]}>Extraverted Thinking</HighlightOnStates>
+            <HighlightOnStates className="ti" states={[this.state.thinking, this.state.introverting]}>Introverted Thinking</HighlightOnStates>
 
             <HighlightOnStates className="extraversion-cell" onMouseEnter={e => { this.setState({extraverting: true});}} onMouseLeave={e => { this.setState({extraverting: false})}}>Extraversion</HighlightOnStates>
-            <div className="introversion-cell">Introversion</div>
+            <HighlightOnStates className="introversion-cell" onMouseEnter={e => { this.setState({introverting: true});}} onMouseLeave={e => { this.setState({introverting: false})}}>Introversion</HighlightOnStates>
           </div>
         <Button type="primary" onClick={this.showModal}>Open Modal</Button>
         <Modal title="Basic Modal" visible={this.state.showModal}>
@@ -99,19 +95,6 @@ class App extends Component {
         </Modal>
 
 
-        <div className="wrapper">
-          <div className={this.state.perceivingClasses}></div>
-          <div className="perceiving-cell" 
-               onClick={this.handleMouseOver.bind(this)}>Perceiving</div>
-
-
-          <div className="intuition-row"></div>
-          <div className="ne">Extraverted Intuition</div>
-          <div className="ni">Introverted Intuition</div>
-          <div className="thinking-row"></div>
-          <div className="te">Extraverted Thinking</div>
-          <div className="ti">Introverted Thinking</div>
-        </div>
       </div>
     );
   }
