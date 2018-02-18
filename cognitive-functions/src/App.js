@@ -8,6 +8,15 @@ import Button from 'antd/lib/button';
 
 import { CognitiveFunction } from './CognitiveFunction';
 
+import styled from 'styled-components';
+
+const HighlightOnStates = styled.h1`
+  background: ${props => props.states ? props.states.includes(true) ? 'palevioletred' : 'white' : 'white'};  font-size: 1.5em;
+  text-align: center;
+  color: palevioletred;
+`;
+
+
 class App extends Component {
 
 
@@ -19,28 +28,23 @@ class App extends Component {
     feeling: false,
     judging: false,
     introverting: false,
-    extraverting: false
+    extraverting: false,
+    showModal: false,
+    cogFuncs: [{
+      id: 'Fi',
+      name: 'Introverted Feeling',
+      orient: 'introverted',
+      kind: 'judging',
+      level: 'feeling'
+    }]
+}
+
+  toggle = (key) => {
+    this.setState({
+      key: !this.state[key]
+    })
   }
 
-  constructor(props) {
-    super(props)
-    this.state = {
-      showModal: false,
-      perceivingClasses: 'perceiving',
-      list: true,
-      cogFuncs: [{
-        id: 'Fi',
-        name: 'Introverted Feeling',
-        orient: 'introverted',
-        kind: 'judging',
-        level: 'feeling'
-      }
-
-
-      ]
-    }
-
-  }
 
   showModal = () => {
     this.setState({
@@ -64,9 +68,6 @@ class App extends Component {
 
     let hoverState = {};
 
-    if (this.state.list) {
-
-
     return (
       <div className="App">
         <header className="App-header">
@@ -74,8 +75,9 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
           <div className="wrapper">
-            <div className="sensing-cell">Sensing</div>
-            <CognitiveFunction name="ExtravertedSensing" classNames={"se"} />
+
+            <HighlightOnStates className="sensing-cell" onMouseEnter={e => { this.setState({sensing: true});}} onMouseLeave={e => { this.setState({sensing: false})}}>Sensing</HighlightOnStates>
+            <HighlightOnStates className="se" states={[this.state.sensing, this.state.extraverting]}>Extraverted Sensing</HighlightOnStates>
             <CognitiveFunction name="IntrovertedSensing" classNames={"si"} />
             <div className="intuition-cell">Intuition</div>
             <CognitiveFunction name="ExtravertedIntuition" classNames={"ne"} />
@@ -87,7 +89,8 @@ class App extends Component {
             <div className="thinking-cell">Thinking</div>
             <CognitiveFunction name={"IntrovertedThinking"} hoverClasses={"introverted judging thinking"} classNames={"ti"} hoverState={hoverState} />
             <CognitiveFunction name={"ExtravertedThinking"} classNames={"te"} />
-            <div className="extraversion-cell">Extraversion</div>
+
+            <HighlightOnStates className="extraversion-cell" onMouseEnter={e => { this.setState({extraverting: true});}} onMouseLeave={e => { this.setState({extraverting: false})}}>Extraversion</HighlightOnStates>
             <div className="introversion-cell">Introversion</div>
           </div>
         <Button type="primary" onClick={this.showModal}>Open Modal</Button>
@@ -111,7 +114,6 @@ class App extends Component {
         </div>
       </div>
     );
-    }
   }
 }
 
