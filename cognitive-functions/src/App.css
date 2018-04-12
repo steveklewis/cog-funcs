@@ -35,7 +35,9 @@
 
 .perceiving-cell {
   grid-column: 1;
-  grid-row: 1;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  z-index:1;
 }
 
 .sensing-cell {
@@ -46,11 +48,11 @@
 
 .se {
   grid-column: 3;
-  grid-row: 1/4;
+  grid-row: 1;
 }
 .si {
   grid-column: 4;
-  grid-row: 1/4;
+  grid-row: 1;
 }
 
 .intuition-cell {
@@ -60,11 +62,11 @@
 
 .ne {
   grid-column: 3;
-  grid-row: 2/4;
+  grid-row: 2;
 }
 .ni {
   grid-column: 4;
-  grid-row: 2/4;
+  grid-row: 2;
 }
 
 
