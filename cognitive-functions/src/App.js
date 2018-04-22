@@ -4,8 +4,6 @@ import './App.css';
 
 
 import { Modal } from 'antd';
-import Button from 'antd/lib/button';
-
 import styled from 'styled-components';
 
 const HighlightOnStates = styled.h1`
@@ -14,6 +12,18 @@ const HighlightOnStates = styled.h1`
   color: ${props => props.states ? props.states.includes(true) ? 'white' : 'palevioletred' : 'palevioletred'};
 `;
 
+
+class CognitiveFunction extends Component {
+  render() {
+    return (
+      <HighlightOnStates className={this.props.abbr} states={this.props.states}  onClick={e => {
+        this.props.showModal(this.props.abbr);
+      }}>
+      {this.props.heading}
+      </HighlightOnStates>
+    );
+  }
+}
 
 class App extends Component {
 
@@ -43,6 +53,14 @@ class App extends Component {
       sensing: {
         heading: 'Sensing',
         text: "Sensing - Sensing has to do with our basic animalistic ways of perceiving. Our five senses, and our memory. Through these we can perceive the moment and the past."
+      },
+      se: {
+        heading: 'Extraverted Sensing',
+        text: 'Extraverted Sensing - The Five Senses. Receiving information from what you can see, taste, hear, smell, and touch.'
+      },
+      si: {
+        heading: 'Introverted Sensing',
+        text: 'Introverted Sensing - Memory. What we have experienced, and what we know works from the past.'
       }
     }
 }
@@ -91,7 +109,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Welcome to Cognitive Functions</h1>
         </header>
           <div className="wrapper">
 
@@ -106,8 +124,11 @@ class App extends Component {
             }}>
             Sensing            
             </HighlightOnStates>
-            <HighlightOnStates className="se" states={[this.state.sensing, this.state.extraverting, this.state.perceiving]}>Extraverted Sensing</HighlightOnStates>
-            <HighlightOnStates className="si" states={[this.state.sensing, this.state.introverting, this.state.perceiving]}>Introverted Sensing</HighlightOnStates>
+
+            <CognitiveFunction className="se" abbr="se" states={[this.state.sensing, this.state.extraverting, this.state.perceiving]} content={this.state.content}  heading="Extraverted Sensing" showModal={this.showModal} />
+            <HighlightOnStates className="si" states={[this.state.sensing, this.state.introverting, this.state.perceiving]} onClick={e => {
+              this.showModal('si');
+            }}>Introverted Sensing</HighlightOnStates>
 
             <HighlightOnStates className="intuition-cell" states={[this.state.perceiving]} onMouseEnter={e => { this.setState({intuiting: true});}} onMouseLeave={e => { this.setState({intuiting: false})}}>Intuition</HighlightOnStates>
             <HighlightOnStates className="ne" states={[this.state.intuiting, this.state.extraverting, this.state.perceiving]}>Extraverted Intuition</HighlightOnStates>
