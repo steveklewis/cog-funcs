@@ -13,7 +13,7 @@ There are eight Jungian cognitive functions. They are:
 
 ## Perceiving Functions
 
-The Perceiving Functions are filters that limit the data we might pay attention to. Perceiving Functions are also differentiated by the manner of time involved. For instance, Introverted Sensing attends to concrete things that have happened in the past. Extraverted Sensing attends to concrete things that are happening right now in the world. Extraverted Intuition attends to abstract things that are happening right now in one's mind.
+The Perceiving Functions are filters that limit the data we might pay attention to. Perceiving Functions are also differentiated by the manner of time involved. For instance, Introverted Sensing attends to concrete things that have happened in the past. Extraverted Sensing attends to concrete things that are happening right now in the world. Extraverted Intuition attends to abstract things that are happening right now in one's mind. Introverted Intuition attends to abstract knowledge.
 
 
 
