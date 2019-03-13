@@ -74,7 +74,7 @@ function introvertedIntuitionFilter(data) {
 ## Judging Functions
 
 
-After filtering, the mind then judges each piece of data coming in. Is it true? Is it false? It is good? This sorting process is analagous to a mapping function is programming:
+After filtering, the mind then judges each piece of data coming in. Is it true? Is it false? It is good? This sorting process is analagous to a mapping function in programming:
 
 
 ### Extraverted Feeling
