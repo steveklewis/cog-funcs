@@ -11,6 +11,8 @@ There are eight Jungian cognitive functions. They are:
 * Extraverted Thinking
 * Introverted Thinking
 
+
+
 ## Perceiving Functions
 
 The Perceiving Functions are filters that limit the data we might pay attention to. Perceiving Functions are also differentiated by the manner of time involved. For instance, Introverted Sensing attends to concrete things that have happened in the past. Extraverted Sensing attends to concrete things that are happening right now in the world. Extraverted Intuition attends to abstract things that are happening right now in one's mind. Introverted Intuition attends to abstract knowledge.
@@ -67,3 +69,78 @@ function introvertedIntuitionFilter(data) {
 }
 
 ```
+
+
+## Judging Functions
+
+
+After filtering, the mind then judges each piece of data coming in. Is it true? Is it false? It is good? This sorting process is analagous to a mapping function is programming:
+
+
+### Extraverted Feeling
+
+```
+
+function extravertedFeelingMap(data) {
+
+  if (data.good && data.group) {
+    return true;
+  }
+  return false;
+}
+
+```
+
+### Introverted Feeling
+
+```
+
+function introvertedFeelingMap(data) {
+  if (data.good && data.individual) {
+    return true;
+  }
+  return false;
+}
+
+```
+
+
+
+### Extraverted Thinking
+
+```
+
+function extravertedThinkingMap(data) {
+  if (data.true && data.practical) {
+    return true;
+  }
+  return false;
+}
+
+```
+
+
+### Introverted Thinking
+
+```
+
+function introvertedThinkingMap(data) {
+  if (data.true && data.logical) {
+    return true;
+  }
+  return false;
+}
+
+```
+
+Inspired by:
+
+* Host Eric @ TwFP
+* DaveSuperPowers
+* Carolyn Zaikowski
+* Chad Crandall
+* Erik Thor
+* Geek Psychology
+* Personality Hacker
+* Personality Junkie
+* Leon @ Type Tips
