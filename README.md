@@ -133,6 +133,41 @@ function introvertedThinkingMap(data) {
 
 ```
 
+
+## Storing Our Judgments
+
+After judging each piece of data that comes in, we store it internally into a growing database of experiences. This database represents the knowledge we have accumulated over time. Similarly, a filtering mechanism is used to figure out which store we put it in:
+
+###
+
+Introverted Sensing
+
+```
+
+function storeInIntrovertedSensingFilter(data) {
+  return data.concrete;
+}
+
+```
+
+If the data has a mostly concrete nature, we store that piece of data, with its judgement, into our memories.
+
+
+###
+
+Introverted Intuition
+
+```
+
+function storeInIntrovertedIntuitionFilter(data) {
+  return data.abstract;
+}
+
+```
+
+If the data has a mostly abstract nature, we store that piece of data, with its associated judgement, into our knowledge base of abstractions.
+
+
 Inspired by:
 
 * Host Eric @ TwFP
