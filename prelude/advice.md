@@ -22,7 +22,7 @@ Another point when advice is unhelpful is when it involves the wrong sphere of a
 
 There are many reasons advice doesn't hit home. I've outlined three, but my primary point is that all of these things that keep advice from helping you mean that you need to consume 100 to 1000 times more advice than you will be able to digest. Without that amount of data you may not get what you need. And no one can force-feed you all the various solutions in the world. There's not enough hours spent at church, or on a therapist's couch in a week to get you the amount of advice that you need. Even if an advisor were available an hour a day, it's still too small a stream of information, when you need a river.
 
-If you are at a point of burnout, as I was, you will need to give yourself extra time to sort through this information. You are slower than usual at both taking in and processing new information. For me, it has taken me years. But that level of time and effort is worth it so you can get to the other side. No one else can do it for you, unfortunately.
+If you are at a point of burnout, as I was, you will need to give yourself extra time to sort through the many possibilities. You are slower than usual at both taking in and processing new advice, or old advice you previously ignored. For me, it has taken me years. But that level of time and effort is worth it so you can get to the other side. No one else can do it for you, unfortunately.
 
 ## Systematizing Advice
 
