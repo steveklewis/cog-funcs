@@ -24,4 +24,4 @@ In a future article I will be discussing the skills I've learned about in dealin
 
 ## Using Abstractions and Emotions
 
-In my previous article on advice, I discussed how you need to be able to create an internal direction-finding machine. The advice is the information that goes into the machine, and the abstract tools and emotions are the things that actually process that advice. From that processing you build upa store of proven and reliable abstract knowledge and concrete experiences that you can rely on and reference as you work to select a path forward.
+In my previous article on advice, I discussed how you need to be able to create an internal direction-finding machine. The advice is the information that goes into the machine, and the abstract tools and emotions are the things that actually process that advice. From that processing you build up a store of proven and reliable abstract knowledge and concrete experiences that you can rely on and reference as you work to select a path forward.
