@@ -22,4 +22,4 @@ At a super-basic level, emotions are programs. When our body or brain recognizes
 
 ## Using Abstractions and Emotions
 
-In my previous article on advice, I discussed how you need to be able to create an internal direction-finding machine. The advice is the information that goes into the machine, and the abstract tools and emotions are the things that actually process that advice. From that processing you build up a store of proven and reliable abstract knowledge and concrete experiences that you can rely on and reference as you work to select a path forward.
+In my previous article on advice, I discussed how you need to be able to create an internal direction-finding machine. The advice is the information that goes into the machine, and the abstract tools and emotions are the things that actually process that advice. From that processing you build up a store of proven abstract knowledge and concrete experiences that you can rely on and reference as you work to select a path forward.
