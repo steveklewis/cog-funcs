@@ -14,7 +14,7 @@ Over the years I've become a collector of small cognitive systems. After I'm don
 
 ## Emotional Skills
 
-Almost no one teaches how to handle emotions in a systematic way. I needed a conceptual framework for emotionals, almost a mathematical model in its rigor of what emotions were. The world expects you to know how to handle your emotions. But it doesn't actually teach you how. You might find a course on anger management or listen to something on how to deal with your anxiety, but there's not a comprehensive approach to emotion and what it does for us as humans.
+Almost no one teaches how to handle emotions in a systematic way. I needed a conceptual framework for emotions, almost a mathematical model in its rigor of what emotions were. The world expects you to know how to handle your emotions. But it doesn't actually teach you how. You might find a course on anger management or listen to something on how to deal with your anxiety, but there's not a comprehensive approach to emotion and what it does for us as humans.
 
 Emotion is actually a very hot scientific field right now, but it's in the earliest stages of connecting the basic physiology to what comes out as conscious feeling. Scientists aren't even in agreement of how many emotions there are and what they would consist of. But that's okay, because we can get a good idea of what emotions are for with some help.
 
