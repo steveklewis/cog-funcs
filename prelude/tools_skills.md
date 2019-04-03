@@ -14,13 +14,11 @@ Over the years I've become a collector of small cognitive systems. After I'm don
 
 ## Emotional Skills
 
-Almost no one teaches how to handle emotions in a systematic way. I needed a conceptual framework for emotions, almost a mathematical model in its rigor of what emotions were. The world expects you to know how to handle your emotions. But it doesn't actually teach you how. You might find a course on anger management or listen to something on how to deal with your anxiety, but there's not a comprehensive approach to emotion and what it does for us as humans.
+Almost no one teaches how to handle emotions in a systematic way. I needed a conceptual framework for emotions, almost a mathematical model in its rigor, of what emotions were. The world expects you to know how to handle your emotions. But it doesn't actually teach you how. You might find a course on anger management or listen to something on how to deal with your anxiety, but there's not a comprehensive approach to emotion and what it does for us as humans.
 
-Emotion is actually a very hot scientific field right now, but it's in the earliest stages of connecting the basic physiology to what comes out as conscious feeling. Scientists aren't even in agreement of how many emotions there are and what they would consist of. But that's okay, because we can get a good idea of what emotions are for with some help.
+Emotion is actually a very hot scientific field right now, but it's in the earliest stages of connecting the basic physiology to what comes out as conscious feeling. Scientists aren't even in agreement of how many emotions there are and what they would consist of. But that's okay, because we can get a good idea of what emotions are for with some help. In future articles I will discuss specific skills, but I want to give an overview of what emotions are and what we will be aiming for:
 
 At a super-basic level, emotions are programs. When our body or brain recognizes a particular type of situation, an emotional program gets executed. We can't even help it. It just happens. But how we respond to that emotion is where we can improve our skills. We don't want to over-express our emotions. That annoys people and doesn't really ever solve the problem. We don't want to ignore or repress our emotions, either. That creates other kinds of problems. We want to find a way to flow with our emotions, observing what they are trying to tell us about a particular situation, and glean the value judgments that are carried within our emotions.
-
-In a future article I will be discussing the skills I've learned about in dealing with my emotions.
 
 ## Using Abstractions and Emotions
 
