@@ -1,6 +1,6 @@
 # You Need Cognitive Tools and Emotional Skills
 
-When you're feeling lost, you lose the clarity of thought and feeling necessary to find a path forward. Something happened that clobbered you and it makes you question not only what happened, but your previous understanding of the world and yourself. I found that I needed to pick up new ways of categorizing the world, and I had to begin to recalibrate my emotions. It was a long and painful process, but I had to get my mind right and I had to get my emotions right. In order to select a path forward, I had to be able to consider multiple possibilities, from multiple categories. But without abstractions, you can't categorize. And without emotions, you can't prioritize.
+When you're feeling lost, you lose the clarity of thought and feeling necessary to find a path forward. Something happened that clobbered you and it makes you question not only what happened, but your previous understanding of the world and yourself. I found that I needed to pick up new ways of categorizing the world, and I had to begin to recalibrate my emotions. It was a long and painful process, but I had to get my mind right and I had to get my emotions right. In order to select a path forward, I had to be able to consider multiple possible priorities from multiple categories. But without abstractions, you can't categorize. And without emotions, you can't prioritize.
 
 ## Cognitive Tools
 
