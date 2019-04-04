@@ -12,7 +12,7 @@ A lot of the advice one can get may come in the form of platitudes or cliches. T
 
 A different kind of problem with advice is that it can come as too concrete. It might be good advice, like "brush your teeth," but it fails to address the bigger picture. In addition, if it's too concrete, if it's too scientifically accurate to my person and situation, I lose the sense of choosing a path out of my free will. I need a little wiggle-room. Even if I can't accept certain things today, I may be able to accept them in time, but if it feels like an inevitable destiny, I will probably tend to resist it. That's just human nature.
 
-We need enough advice and enough kinds of advice that allows us to move up and down the ladder of abstraction. Without that we are stuck either at a too-low resolution or a too-high resolution with no connection in between.
+We need enough advice and enough kinds of advice that allow us to move up and down the ladder of abstraction. Without that we are stuck either at a too-low resolution or a too-high resolution with no connection in between.
 
 ## Category Errors Within Advice
 
