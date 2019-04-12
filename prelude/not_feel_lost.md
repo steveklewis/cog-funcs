@@ -1,6 +1,6 @@
 # You Need to Know Your Strengths and Weaknesses
 
-After my first article on advice, I began to write up some of the things I've learned in my own process towards clarity. But then, a question posed itself to me: what would it take for someone to not feel lost? Perhaps it is different for each person. But in a general sense the basic structure seems to be the same: in order to find a new direction you need to figure out what strengths you have and how to leverage those in a different way from what you are used to doing.
+After my first article on advice, I began to write up some of the things I've learned in my own process away from confusion and towards clarity. But then, a question posed itself to me: what would it take for someone to not feel lost? Perhaps it is different for each person. But in a general sense the basic structure seems to be the same: in order to find a new direction you need to figure out what strengths you have and how to leverage those in a different way from what you are used to doing.
 
 ## Advice About Strengths
 
@@ -15,7 +15,7 @@ I remember years ago taking the MBTI and getting INFP as the result. Which seeme
 
 A few years later I began to really study the intricacies of personality traits and personality types, and I discovered that strengths are abstractions, and you have to do the work to fill in the blanks. By themselves, without some serious self-analysis, you won't be able to connect your strengths to a new mission.
 
-Part of the reason strengths are abstract to us is because we use our strengths without thinking about them. Our strengths are like axioms. They are the assumptions you bring to your career. Without them you wouldn't have even gotten into your career. But there is a strength or multiple strengths that you have that you aren't leveraging. There is immense potential in those strengths if you can make the time to identify them. It's the part of you that if you really pressed the pedal to the medal, your strengths could take you further and faster than you have been going.
+Part of the reason strengths are abstract to us is because we use our strengths without thinking about them. Our strengths are like axioms. They are the assumptions you bring to your career. Without them you wouldn't have even gotten into your career. But there is a strength or multiple strengths that you have that you aren't fully leveraging, where you can find new applications of the strengths you already have. There is immense potential in those strengths if you can make the time to identify them. It's the part of you that if you really pressed the pedal to the medal, your strengths could take you further and faster than you have been going.
 
 
 ## Weaknesses Are Concrete
@@ -23,20 +23,19 @@ Part of the reason strengths are abstract to us is because we use our strengths 
 Everyone knows what their weaknesses are. We consciously focus on our weaknesses all the time, because they kick our butts on a regular basis. The funny thing is we try to give our weaknesses the least amount of attention possible. But there are certain kinds of weaknesses that become strengths because we focus on them consistently over a long period of time. One day we wake up and the thing that's most difficult for us is the thing we can teach others about, and since it's a weakness, we can connect with others over it. That kind of weakness I'm going to call a mastered weakness.
 
 
-## Attention Determines Your Strengths and Weaknesses
+## Your Habits of Attention Determine Your Strengths and Weaknesses
 
-You've already been honing your strengths. It's the manner in which you pay attention. Whatever you pay attention to, that general direction of your attention will get stronger.
-Whatever you pay attention to, you'll get stronger, until you've exhausted a particular aspect of reality. Then you can keep doing it again and again, but it won't get stronger, it will just stay the same. To get stronger you have to do something slightly different, to use your strength...
+The question is how to find a new direction. But you've already been choosing your direction, in a general way. You've already been honing your strengths. It's the habitual way in which you pay attention. Your soul may be infinite, but your attention span is not. Your finite attention span already has its habits. You like to work with your hands. Or you love languages and you love expressing yourself. Something general enough that can be applied between skills and between fields. 
 
-One of the things I didn't understand was that strengths stand in contradistinction to weaknesses. Certain strengths require certain weaknesses, and vice versa.
+And because you are used to paying attention in certain ways, the ways in which you do not pay attention end up making up your weaknesses. We have a finite attention span, and there's a tradeoff. That's one of the things I didn't understand when I first got my results from StrengthsFinder. Strengths imply weaknesses. When it comes to attention, you can't have your cake and eat it too. You can't be strong in everything.
 
-
+Some habits of attention we find enjoyable, and others we find disagreeable. Maybe we hate the process of paying bills. Or maybe we love being organized.
 
 ## Making Strengths Concrete
 
-Focusing your strength on something concrete is like choosing a college major in mid-life. You've already specialized to a certain extent, and you would like to specialize in something else, possibly. Now, as we know from scientific studies, skills aren't transferable. You can't study chess and become a better programmer. But patterns of attention are transferable. If we enjoy paying attention in a certain way to task A, and task B requires the same manner of attention, we may not be good at it yet, but we will enjoy the process of getting good at it. That's why if you can view a strength as a pattern of attention, you can take that pattern and apply it to a totally different field.
+What does it mean to make a strength concrete? It's to realize that your abstract strength applies to a new situation you haven't considered before. Focusing your strength on something different is like choosing a college major in mid-life. You've already specialized to a certain extent, and you would like to specialize in something else, possibly. Now, as we know from scientific studies, skills aren't transferable. You can't study chess and become a better programmer. But habits of attention are transferable. If we enjoy paying attention in a certain way to task A, and task B requires the same habit of attention, we may not be good at it yet, but we will enjoy the process of getting good at it. That's why if you can view a strength as a habit of attention, you can take that pattern and apply it to a totally different field. Recognizing a new application of an old strength allows you to breathe new life into the old you, without sacrificing all the hard work you've put in, in the past.
 
-
+Now there are many different ways to categorize one's habits of attention. I've mentioned a few categories, but I'll leave it to a later article to discuss my favorite schemas for categorizing one's attention.
 
 
 ## Making Weaknesses Abstract
@@ -45,7 +44,7 @@ Your mastered weakness can give direction. It can give purpose, to help others w
 
 
 
-## Your Innate Strengths And Your Mastered Weaknesses Give You Direction
+## Your Habitual Strengths And Your Mastered Weaknesses Give You Direction
 
 Your innate strengths and mastered weaknesses narrow down your range of options. That, by itself, makes you less lost, even if you don't feel it yet.
 
