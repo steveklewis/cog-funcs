@@ -18,6 +18,8 @@ A few years later I began to really study the intricacies of personality traits 
 Part of the reason strengths are abstract to us is because we use our strengths without thinking about them. Our strengths are like axioms. They are the assumptions you bring to your career. Without them you wouldn't have even gotten into your career. But there is a strength or multiple strengths that you have that you aren't fully leveraging, where you can find new applications of the strengths you already have. There is immense potential in those strengths if you can make the time to identify them. It's the part of you that if you really pressed the pedal to the medal, your strengths could take you further and faster than you have been going.
 
 
+(images/strengths_skills.png "Abstract Strengths and Concrete Skills")
+
 ## Weaknesses Are Concrete
 
 Everyone knows what their weaknesses are. We consciously focus on our weaknesses all the time, because they kick our butts on a regular basis. The funny thing is we try to give our weaknesses the least amount of attention possible. But there are certain kinds of weaknesses that become strengths because we focus on them consistently over a long period of time. One day we wake up and the thing that's most difficult for us is the thing we can teach others about, and since it's a weakness, we can connect with others over it. That kind of weakness I'm going to call a mastered weakness.
