@@ -10,6 +10,7 @@ At some point a little later on I went and took the StrengthsFinder test, and go
 
 I remember years ago taking the MBTI and getting INFP as the result. Which seemed right, but I didn't know what to do with it. I was idealistic, yes, but trying to translate that into the business world seemed like an impossibility. And I sure didn't connect to the career suggestions for INFPs. I wasn't an artist. I wasn't going to be a therapist. I wasn't a teacher. I wasn't a writer. I was in the health-care industry, which did feed a certain amount of my innate values. But overall, the MBTI didn't seem to be much help.
 
+![Figure 1](images/strengths_initial.png "Abstract Strengths")
 
 ## Skills are Concrete, but Strengths Are Abstract
 
@@ -18,7 +19,7 @@ One of the things I didn't fully understand was that programming isn't a strengt
 Part of the reason strengths are abstract to us is because we use our strengths without thinking about them. Our strengths are like axioms. They are the assumptions you bring to your career. Without them you wouldn't have even gotten into your career. But there is a strength or multiple strengths that you have that you aren't fully leveraging, where you can find new skills. There is immense potential in those strengths if you can make the time to identify them. It's the part of you that if you really pressed the pedal to the medal, your strengths could take you further and faster than you have been going.
 
 
-![Figure 1](images/strengths_skills.png "Abstract Strengths and Concrete Skills")
+![Figure 2](images/strengths_skills.png "Abstract Strengths and Concrete Skills")
 
 
 ## Your Habits of Attention Have Already Determined Your Strengths
