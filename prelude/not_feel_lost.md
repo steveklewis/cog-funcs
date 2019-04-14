@@ -26,9 +26,7 @@ Part of the reason strengths are abstract to us is because we use our strengths 
 
 The question is how to find a new direction. But you've already been choosing your direction, in a general way. You've already been honing your strengths. It's the habitual way in which you pay attention. Your soul may be infinite, but your attention span is not. Your finite attention span already has its habits. You like to work with your hands. Or you love languages and you love expressing yourself. Something general enough that can be applied across different skills.
 
-And because you are used to paying attention in certain ways, the ways in which you do not pay attention end up making up your weaknesses. We have a finite attention span, and there's a tradeoff. That's one of the things I didn't understand when I first got my results from StrengthsFinder. Strengths imply weaknesses. When it comes to attention, you can't have your cake and eat it too. You can't be strong in everything.
-
-Some habits of attention we find enjoyable, and others we find disagreeable. Maybe we hate the process of paying bills. Or maybe we love being organized.
+![Figure 3](images/strengths_examples.png "Examples of Strengths to Fill In the Unknown Skill")
 
 ## Making Strengths Concrete By Finding New Skills
 
@@ -38,7 +36,6 @@ What does it mean to make a strength concrete? It's to realize that your abstrac
 
 ## Your Habitual Strengths And Your Choice of New Skills Give You Direction
 
-Your innate strengths and mastered weaknesses narrow down your range of options. That, by itself, makes you less lost, even if you don't feel it yet.
 
 One of my strengths is that I'm very close to my own emotions. I don't handle them well, and I don't always pay attention to what they're saying, but I'm a feeler and I know exactly how I'm feeling. But there are times when it gets too intense and gets more confusing than clarifying. I had to find a better way of understanding my emotions, because for me, without that, I was just going to keep getting stuck in them. That closeness is an innate strength that I wasn't leveraging. I needed to learn how to navigate my emotions with more wisdom.
 
