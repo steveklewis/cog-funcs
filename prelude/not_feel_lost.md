@@ -18,21 +18,19 @@ One of the things I didn't fully understand was that programming isn't a strengt
 
 Part of the reason strengths are abstract to us is because we use our strengths without thinking about them. Our strengths are like axioms. They are the assumptions you bring to your career. Without them you wouldn't have even gotten into your career. But there is a strength or multiple strengths that you have that you aren't fully leveraging, where you can find new skills. There is immense potential in those strengths if you can make the time to identify them. It's the part of you that if you really pressed the pedal to the medal, your strengths could take you further and faster than you have been going.
 
+The question is how to find a new direction. But you've already been choosing your direction, in a general way. You've already been honing your strengths. You like to work with your hands. Or you love languages and you love expressing yourself. Something general enough that can be applied across different skills.
 
 ![Figure 2](images/strengths_skills.png "Abstract Strengths and Concrete Skills")
 
 
-## Your Habits of Attention Have Already Determined Your Strengths
-
-The question is how to find a new direction. But you've already been choosing your direction, in a general way. You've already been honing your strengths. It's the habitual way in which you pay attention. Your soul may be infinite, but your attention span is not. Your finite attention span already has its habits. You like to work with your hands. Or you love languages and you love expressing yourself. Something general enough that can be applied across different skills.
-
-![Figure 3](images/strengths_examples.png "Examples of Strengths to Fill In the Unknown Skill")
 
 ## Making Strengths Concrete By Finding New Skills
 
 What does it mean to make a strength concrete? It's to realize that your abstract strength applies to a new situation you haven't considered before. Focusing your strength on something different is like choosing a college major in mid-life. You've already specialized to a certain extent, and you would like to specialize in something else, possibly. Now, as we know from scientific studies, skills aren't transferable. You can't study chess and become a better programmer. But habits of attention are transferable. If we enjoy paying attention in a certain way to task A, and task B requires the same habit of attention, we may not be good at it yet, but we will enjoy the process of getting good at it. That's why if you can view a strength as a habit of attention, you can take that pattern and apply it to a totally different field. Recognizing a new application of an old strength allows you to breathe new life into the old you, without sacrificing all the hard work you've put in, in the past.
 
+As an example, let's take the strength of Intellection defined by StrengthsFinder 2.0 that I got as one of my strengths. In theory, I could use it to try to help me find a skill that also requires Intellection. Or, we could take the strength of Empathy to find a skill that's sort of like programming, but requires more Empathy.
 
+![Figure 3](images/strengths_examples.png "Examples of Strengths to Fill In the Unknown Skill")
 
 ## Your Habitual Strengths And Your Choice of New Skills Give You Direction
 
