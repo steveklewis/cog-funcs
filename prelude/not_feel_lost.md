@@ -10,7 +10,6 @@ At some point a little later on I went and took the StrengthsFinder test, and go
 
 I remember years ago taking the MBTI and getting INFP as the result. Which seemed right, but I didn't know what to do with it. I was idealistic, yes, but trying to translate that into the business world seemed like an impossibility. And I sure didn't connect to the career suggestions for INFPs. I wasn't an artist. I wasn't going to be a therapist. I wasn't a teacher. I wasn't a writer. I was in the health-care industry, which did feed a certain amount of my innate values. But overall, the MBTI didn't seem to be much help.
 
-![Figure 1](images/strengths_initial.png "Abstract Strengths")
 
 ## Skills are Concrete, but Strengths Are Abstract
 
@@ -20,7 +19,7 @@ Part of the reason strengths are abstract to us is because we use our strengths 
 
 The question is how to find a new direction. But you've already been choosing your direction, in a general way. You've already been honing your strengths. You like to work with your hands. Or you love languages and you love expressing yourself. Something general enough that can be applied across different skills.
 
-![Figure 2](images/strengths_skills.png "Abstract Strengths and Concrete Skills")
+![Figure 1](images/strengths_initial.png "Abstract Strengths")
 
 
 
@@ -30,7 +29,7 @@ What does it mean to make a strength concrete? It's to realize that your abstrac
 
 As an example, let's take the strength of Intellection defined by StrengthsFinder 2.0 that I got as one of my strengths. In theory, I could use it to try to help me find a skill that also requires Intellection. Or, we could take the strength of Empathy to find a skill that's sort of like programming, but requires more Empathy.
 
-![Figure 3](images/strengths_examples.png "Examples of Strengths to Fill In the Unknown Skill")
+![Figure 2](images/strengths_skills.png "Abstract Strengths and Concrete Skills")
 
 ## Your Chosen New Skills Give You Direction
 
@@ -38,3 +37,5 @@ As an example, let's take the strength of Intellection defined by StrengthsFinde
 One of my strengths is that I'm very close to my own emotions (i.e. the Empathy skill mentioned above). I don't handle them well, and I don't always pay attention to what they're saying, but I'm a feeler and I know exactly how I'm feeling. But there are times when it gets too intense and gets more confusing than clarifying. I had to find a better way of understanding my emotions, because for me, without that, I was just going to keep getting stuck in them. That closeness is an innate strength that I wasn't leveraging. I needed to learn how to navigate my emotions with more wisdom. Becoming more emotionally skilled has given me a particular direction that has ended up helping me in so many other areas.
 
 Recently, I took another personality type test called StandOut 2.0. My top two results were "Teacher" and "Provider." Those two strengths I wasn't aware of before, but I can see skills that I can learn to make better use of them. As a provider, I like to make a space for ideas that haven't been heard before. And as a teacher, I need to communicate the things I've learned, even without changing my career.
+
+![Figure 3](images/strengths_examples.png "Examples of Strengths to Fill In the Unknown Skill")
