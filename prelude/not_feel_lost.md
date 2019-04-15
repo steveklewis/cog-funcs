@@ -1,4 +1,4 @@
-# You Need to Know Your Strengths and Weaknesses
+# You Need to Know Your Strengths Are Abstract
 
 After my first article on advice, I began to write up some of the things I've learned in my own process away from confusion and towards clarity. But then, a question posed itself to me: what would it take for someone to not feel lost? Perhaps it is different for each person. But in a general sense the basic structure seems to be the same: in order to find a new direction you need to figure out what strengths you have and how to leverage those in a different way from what you are used to doing.
 
@@ -32,9 +32,9 @@ As an example, let's take the strength of Intellection defined by StrengthsFinde
 
 ![Figure 3](images/strengths_examples.png "Examples of Strengths to Fill In the Unknown Skill")
 
-## Your Habitual Strengths And Your Choice of New Skills Give You Direction
+## Your Chosen New Skills Give You Direction
 
 
-One of my strengths is that I'm very close to my own emotions. I don't handle them well, and I don't always pay attention to what they're saying, but I'm a feeler and I know exactly how I'm feeling. But there are times when it gets too intense and gets more confusing than clarifying. I had to find a better way of understanding my emotions, because for me, without that, I was just going to keep getting stuck in them. That closeness is an innate strength that I wasn't leveraging. I needed to learn how to navigate my emotions with more wisdom.
+One of my strengths is that I'm very close to my own emotions (i.e. the Empathy skill mentioned above). I don't handle them well, and I don't always pay attention to what they're saying, but I'm a feeler and I know exactly how I'm feeling. But there are times when it gets too intense and gets more confusing than clarifying. I had to find a better way of understanding my emotions, because for me, without that, I was just going to keep getting stuck in them. That closeness is an innate strength that I wasn't leveraging. I needed to learn how to navigate my emotions with more wisdom. Becoming more emotionally skilled has given me a particular direction that has ended up helping me in so many other areas.
 
-Recently, I took another personality type test called StandOut 2.0. My top two results were "Teacher" and "Provider." 
+Recently, I took another personality type test called StandOut 2.0. My top two results were "Teacher" and "Provider." Those two strengths I wasn't aware of before, but I can see skills that I can learn to make better use of them. As a provider, I like to make a space for ideas that haven't been heard before. And as a teacher, I need to communicate the things I've learned, even without changing my career.
