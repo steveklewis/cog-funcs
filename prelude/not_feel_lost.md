@@ -27,9 +27,11 @@ The question is how to find a new direction. But you've already been choosing yo
 
 What does it mean to make a strength concrete? It's to realize that your abstract strength applies to a new situation you haven't considered before. Focusing your strength on something different is like choosing a college major in mid-life. You've already specialized to a certain extent, and you would like to specialize in something else, possibly. Now, as we know from scientific studies, skills aren't transferable. You can't study chess and become a better programmer. But habits of attention are transferable. If we enjoy paying attention in a certain way to task A, and task B requires the same habit of attention, we may not be good at it yet, but we will enjoy the process of getting good at it. That's why if you can view a strength as a habit of attention, you can take that pattern and apply it to a totally different field. Recognizing a new application of an old strength allows you to breathe new life into the old you, without sacrificing all the hard work you've put in, in the past.
 
+![Figure 2](images/strengths_skills.png "Abstract Strengths and Concrete Skills")
+
 As an example, let's take the strength of Intellection defined by StrengthsFinder 2.0 that I got as one of my strengths. In theory, I could use it to try to help me find a skill that also requires Intellection. Or, we could take the strength of Empathy to find a skill that's sort of like programming, but requires more Empathy.
 
-![Figure 2](images/strengths_skills.png "Abstract Strengths and Concrete Skills")
+![Figure 3](images/strengths_examples.png "Examples of Strengths to Fill In the Unknown Skill")
 
 ## Your Chosen New Skills Give You Direction
 
@@ -38,4 +40,3 @@ One of my strengths is that I'm very close to my own emotions (i.e. the Empathy 
 
 Recently, I took another personality type test called StandOut 2.0. My top two results were "Teacher" and "Provider." Those two strengths I wasn't aware of before, but I can see skills that I can learn to make better use of them. As a provider, I like to make a space for ideas that haven't been heard before. And as a teacher, I need to communicate the things I've learned, even without changing my career.
 
-![Figure 3](images/strengths_examples.png "Examples of Strengths to Fill In the Unknown Skill")
