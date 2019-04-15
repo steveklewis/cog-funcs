@@ -19,7 +19,7 @@ Part of the reason strengths are abstract to us is because we use our strengths 
 
 The question is how to find a new direction. But you've already been choosing your direction, in a general way. You've already been honing your strengths. You like to work with your hands. Or you love languages and you love expressing yourself. Something general enough that can be applied across different skills.
 
-![Figure 1](images/strengths_initial.png "Abstract Strengths")
+![Figure 1](images/strengths_programming.png "Abstract Strengths")
 
 
 
