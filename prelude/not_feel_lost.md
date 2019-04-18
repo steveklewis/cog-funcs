@@ -40,6 +40,6 @@ Recently, I took another personality type test called StandOut 2.0. My top two r
 
 ![Figure 4](images/concrete_skills.png "Examples of Concrete Skills")
 
-Hopefully you can see the pattern, and you can see how you can follow it in different ways. One way is to begin from the concrete skill you already know, figure out something you want to do, and calculate the abstract strength from that, and see if it makes sense. But most people who feel lost don't know what they want to do, so they will probably follow the second path. The second way is to figure out your strengths and see what kind of new skills they might suggest. This second way is the one that I've taken, and it's taken me a long time to work through all that abstraction, but I had to, because I didn't know what I wanted. I just knew I wanted something different at work.
+Hopefully you can see the pattern, and you can see how you can follow it. That is the path that I've had to take to make more sense of my life at work. It hasn't been an easy or a quick route, precisely because it was so abstract, but I didn't know what I wanted. I just knew I wanted something different at work.
 
-![Figure 4](images/two_paths.png "Paths to Follow")
+![Figure 4](images/my_path.png "My Path")
