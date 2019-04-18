@@ -1,6 +1,6 @@
 # You Need to Know Your Strengths Are Abstract
 
-After my first article on advice, I began to write up some of the things I've learned in my own process away from confusion and towards clarity. But then, a question posed itself to me: what would it take for someone to not feel lost? Perhaps it is different for each person. But in a general sense the basic structure seems to be the same: in order to find a new direction you need to figure out what strengths you have and how to leverage those in a different way from what you are used to doing.
+After my first article on [advice](advice.md), I began to write up some of the things I've learned in my own process away from confusion and towards clarity. But then, a question posed itself to me: what would it take for someone to not feel lost? Perhaps it is different for each person. But in a general sense the basic structure seems to be the same: in order to find a new direction you need to figure out what strengths you have and how to leverage those in a different way from what you are used to doing.
 
 ## Advice About Strengths
 
