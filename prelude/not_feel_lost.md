@@ -13,13 +13,18 @@ I remember years ago taking the MBTI and getting INFP as the result. Which seeme
 
 ## Skills are Concrete, but Strengths Are Abstract
 
-One of the things I didn't fully understand was that programming isn't a strength. It's a skill. Strengths are like rooms in a house, and skills are the things that you do in that room. A room can contain multiple opportunities to practice a skill. A few years later I began to really study the intricacies of personality traits and personality types, and I discovered that strengths are abstractions, and you have to do the work to fill in the blanks. By themselves, without some serious self-analysis, you won't be able to connect your strengths to picking up a new skill.
+A few years later I began to really study the intricacies of personality traits and personality types, and I discovered that strengths are abstractions. One of the things I didn't fully understand was that programming isn't a strength. It's a skill. Strengths are like rooms in a house, and skills are the things that you do in that room. A room can contain multiple opportunities to practice a skill. 
+
+![Figure 1](images/floorplan1.png "Strengths are like rooms")
+
+Now, 
+
+![Figure 1](images/floorplan2.png "Skills are performed within a room")
 
 Part of the reason strengths are abstract to us is because we use our strengths without thinking about them. Our strengths are like axioms. They are the assumptions you bring to your career. Without them you wouldn't have even gotten into your career. But there is a strength or multiple strengths that you have that you aren't fully leveraging, where you can find new skills. There is immense potential in those strengths if you can make the time to identify them. It's the part of you that if you really pressed the pedal to the medal, your strengths could take you further and faster than you have been going.
 
 The question is how to find a new direction. But you've already been choosing your direction, in a general way. You've already been honing your strengths. You like to work with your hands. Or you love languages and you love expressing yourself. Something general enough that can be applied across different skills.
 
-![Figure 1](images/floorplan1.png "Strengths are like rooms")
 
 
 
