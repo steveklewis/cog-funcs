@@ -51,4 +51,4 @@ Recently, I took another personality type test called StandOut 2.0. My top two r
 
 Hopefully you can see the pattern, and you can see how you can follow it. That is the path that I've had to take to make more sense of my life at work. It hasn't been an easy or a quick route, precisely because it was so abstract, but I didn't know what I wanted. I just knew I wanted something different at work.
 
-![Figure 4](images/my_path.png "My Path")
+![Figure 4](images/floorplan5.png "My Path")
