@@ -21,17 +21,9 @@ What happens when you walk into a room? What do you see? What do you expect? Who
 
 From a certain perspective, it makes sense to categorize programming as an abstraction at the level of a room. After all, there are many ways to program. You can use various programming languages, work on various problems, in various business verticals, using various operating systems, with different databases, and so on. It's not one concrete thing. But just because programming can be considered as an abstraction, doesn't mean that it's at the same level of abstraction as a strength.  
 
-
-There's no one activity that sums up the strength of Connectedness. It can be applied to many different situations.
-
-
-
-You want to pair your existing skill with another skill that falls within the same strength. For instance, you probably wouldn't pair something like programming with underwater basketweaving. There's not enough commonality, even at an abstract level. Finding another skill that falls within the same strength allows you to synthesize in a meaningful way the two skills so that each is more fluent, more flexible, and more nuanced.
-
 ![Figure 1](images/floorplan2.png "Skills are performed within a room")
 
-Now, 
-
+This distinction is important, otherwise you will confuse your skills and your strengths, and you won't be able to recognize your strengths as pointers to new skills. You want to pair your existing skill with another skill that falls within the same strength. For instance, you probably wouldn't pair something like programming with underwater basketweaving. There's not enough commonality, even at an abstract level. Finding another skill that falls within the same strength allows you to synthesize in a meaningful way the two skills so that each is more fluent, more flexible, and more nuanced.
 
 Part of the reason strengths are abstract to us is because we use our strengths without thinking about them. Our strengths are like axioms. They are the assumptions you bring to your career. Without them you wouldn't have even gotten into your career. But there is a strength or multiple strengths that you have that you aren't fully leveraging, where you can find new skills. There is immense potential in those strengths if you can make the time to identify them. It's the part of you that if you really pressed the pedal to the medal, your strengths could take you further and faster than you have been going.
 
