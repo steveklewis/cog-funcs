@@ -47,7 +47,7 @@ One of my strengths is that I'm very close to my own emotions (i.e. the Empathy 
 
 Recently, I took another personality type test called StandOut 2.0. My top two results were "Teacher" and "Provider." Those two strengths I wasn't aware of before, but I can see skills that I can learn to make better use of them. As a provider, I like to make a space for ideas that haven't been heard before. And as a teacher, I need to communicate the things I've learned, even without changing my career.
 
-![Figure 4](images/concrete_skills.png "Examples of Concrete Skills")
+![Figure 4](images/floorplan4.png "Examples of Concrete Skills")
 
 Hopefully you can see the pattern, and you can see how you can follow it. That is the path that I've had to take to make more sense of my life at work. It hasn't been an easy or a quick route, precisely because it was so abstract, but I didn't know what I wanted. I just knew I wanted something different at work.
 
