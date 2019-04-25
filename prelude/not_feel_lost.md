@@ -38,7 +38,7 @@ What does it mean to make a strength interesting? It's to realize that your abst
 
 As an example, let's take the strength of Intellection defined by StrengthsFinder 2.0 that I got as one of my strengths. In theory, I could use it to try to help me find a skill that also requires Intellection. Or, we could take the strength of Empathy to find a skill that's sort of like programming, but requires more Empathy.
 
-![Figure 3](images/strengths_examples.png "Examples of Strengths to Fill In the Unknown Skill")
+![Figure 3](images/floorplan3.png "Examples of Strengths to Fill In the Unknown Skill")
 
 ## Your Chosen New Skills Give You Direction
 
