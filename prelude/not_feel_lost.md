@@ -13,7 +13,18 @@ I remember years ago taking the MBTI and getting INFP as the result. Which seeme
 
 ## Skills are Concrete, but Strengths Are Abstract
 
-A few years later I began to really study the intricacies of personality traits and personality types, and I discovered that strengths are abstractions. One of the things I didn't fully understand was that programming isn't a strength. It's a skill. Strengths are like rooms in a house, and skills are the things that you do in that room. A room can contain multiple opportunities to practice a skill. 
+A few years later I began to really study the intricacies of personality traits and personality types, and I discovered that strengths are abstractions. One of the things I didn't fully understand was that programming isn't a strength. It's a skill. Strengths are like rooms in a house, and skills are the things that you do in that room.
+
+What happens when you walk into a room? What do you see? What do you expect? Who is there? Why are you there? What is the room for? Does it have a single function? Or a list of functions you could choose from? Let's take a kitchen. There's no one concrete thing that you do in a kitchen. In general it's for preparing food, but it's also for storing food, in the refrigerator, and storing utensils and pots and pans. You can cook in kitchen. You can clean in a kitchen. You can wash dishes in a kitchen. There's no one activity that sums up what a kitchen is. That's how a strength is. 
+
+From a certain perspective, it makes sense to categorize programming as an abstraction at the level of a room. After all, there are many ways to program. You can use various programming languages, work on various problems, in various business verticals, using various operating systems, with different databases, and so on. It's not one concrete thing. But just because programming can be considered as an abstraction, doesn't mean that it's at the same level of abstraction as a strength.  
+
+
+There's no one activity that sums up the strength of Connectedness. It can be applied to many different situations.
+
+
+
+You want to pair your existing skill with another skill that falls within the same strength. For instance, you probably wouldn't pair something like programming with underwater basketweaving. There's not enough commonality, even at an abstract level. Finding another skill that falls within the same strength allows you to synthesize in a meaningful way the two skills so that each is more fluent, more flexible, and more nuanced.
 
 ![Figure 1](images/floorplan1.png "Strengths are like rooms")
 
