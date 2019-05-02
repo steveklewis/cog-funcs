@@ -15,7 +15,7 @@ I remember years ago taking the MBTI and getting INFP as the result. Which seeme
 
 A few years later I began to really study the intricacies of personality traits and personality types, and I discovered that strengths are abstractions. One of the things I didn't fully understand was that programming isn't a strength. It's a skill. Strengths are like rooms in a house, and skills are the things that you do in that room.
 
-What happens when you walk into a room? What do you see? What do you expect? Who is there? Why are you there? What is the room for? Does it have a single function? Or a list of functions you could choose from? Let's take a kitchen. There's no one concrete thing that you do in a kitchen. In general it's for preparing food, but it's also for storing food, in the refrigerator, and storing utensils and pots and pans. You can cook in kitchen. You can clean in a kitchen. You can wash dishes in a kitchen. There's no one activity that sums up what a kitchen is. That's how a strength is. 
+What happens when you walk into a room? What do you see? What do you expect? Who is there? Why are you there? What is the room for? Does it have a single function? Or a list of functions you could choose from? Let's take a kitchen. There's no one concrete thing that you do in a kitchen. In general it's for preparing food, but it's also for storing food, in the refrigerator, and storing utensils and pots and pans. You can cook in kitchen. You can clean in a kitchen. You can wash dishes in a kitchen. There's no one kitchen-related skill that you could master that sums up what a kitchen is. That's how a strength is. 
 
 ![Figure 1](images/floorplan1.png "Strengths are like rooms")
 
