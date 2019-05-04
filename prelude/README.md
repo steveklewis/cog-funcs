@@ -5,4 +5,4 @@ I'm coming out of a multi-year period of feeling lost. Some might call it a mid-
 This particular set of articles covers some meta-recommendations, where in a later series I will cover the concrete, specific, advice that has helped me.
 
 * [You Need 100 Times More Advice Than You Think You Need](advice.md)
-* [You Need Cognitive Tools and Emotional Skills](tools_skills.md)
+* [You Need To Know Your Strengths are Abstract](not_feel_lost.md)
