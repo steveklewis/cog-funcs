@@ -16,7 +16,13 @@ Cognitive Functions are not scientific. They don't model the world in a way that
 
 ## Cognitive Functions as Model
 
-As software programmers, we deal with models everyday. Programming models, models of the world, data models, behavioral models.
+As software programmers, we deal with models everyday. Programming models, models of the world, data models, behavioral models. But not everyone loves models. In their book, <u>Nine Lies About Work</u>, Marcus Buckingham and Ashley Goodall talk about how training and development can seem exciting at first, when hearing about dynamic leaders, and then "a facilitator steps to the front of the room and explains <i>the model</i>. The model takes whatever we've just seen and experienced and makes it boring" (p. 222). Which is funny, because I'm wanting to introduce you to a model. Cognitive functions describe a model of attention that says certain things about attention:
+
+1. We can't pay attention to everything at once.
+1. Certain kinds of attention can go together. Certain kinds of attention are exclusive.
+1. These different kinds of attention allow us to develop our strengths, and conversly, our weaknesses.
+
+
 
 Not everybody wants to learn a model, even if it might improve their lives. And most 
 
