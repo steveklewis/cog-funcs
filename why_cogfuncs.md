@@ -2,9 +2,9 @@
 
 Why learn about cognitive functions? Why take the time to learn an inaccurate and fuzzy model of personality
 
-## Cognitive Functions as Weird Categories.
+## Cognitive Functions as Relational Categories.
 
-Categories are crucial for making sense of the world. They allow us to perceive different kinds of things, as well as attaching significance to the things that we perceive.
+Categories are crucial for making sense of the world. They allow us to perceive different kinds of things, as well as attaching significance to the things that we perceive. The cognitive functions, in particular, are categories that describe how we relate to the world, ourselves, and other people. And the cognitive functions are weird categories. They're unlike anything I've ever run across in my life. But only the weirdest categories can make you look at the world in a different way.
 
 
 
@@ -22,6 +22,8 @@ As software programmers, we deal with models everyday. Programming models, model
 1. We can't pay attention to everything at once.
 1. Certain kinds of attention can go together. Certain kinds of attention are exclusive.
 1. These different kinds of attention allow us to develop our strengths, and conversly, our weaknesses.
+1. Different people preferring different kinds of attention leads to conflict.
+1. Understanding what other people use as categories can go a long way in reducing conflict.
 
 
 
