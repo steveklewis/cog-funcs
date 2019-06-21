@@ -4,15 +4,16 @@ Why learn about cognitive functions? Why take the time to learn an inaccurate an
 
 ## Cognitive Functions as Weird Categories.
 
-Categories are crucial for making sense of the world. 
+Categories are crucial for making sense of the world. They allow us to perceive different kinds of things, as well as attaching significance to the things that we perceive.
 
 
 
 
-## Cognitive Functions as Lingo
+## Cognitive Functions as Jargon
 
 Cognitive Functions are not scientific. They don't model the world in a way that's scientifically predictable. If anything, they are philosophical categories. But I want to emphasize cognitive functions as a cultural tool, a common lingo for talking about attention. Because that in itself is valuable if I have a way to communicate to you and to my coworkers about what I'm paying attention to. Perhaps I'm paying attention to the wrong thing. Perhaps you can help direct my attention to something that will more quickly help me do my job.
 
+As programmers, we deal with jargon all the time. We know that naming things is one of the hardest things to do, and we try our best to choose names that make the most sense and don't collide with other important concepts that we're also using.
 
 ## Cognitive Functions as Model
 
