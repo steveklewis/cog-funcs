@@ -4,7 +4,9 @@ Why learn about cognitive functions? Why take the time to learn an inaccurate an
 
 ## Cognitive Functions as Relational Categories
 
-Categories are crucial for making sense of the world. They allow us to perceive different kinds of things, as well as attaching significance to the things that we perceive. The cognitive functions, in particular, are categories that describe how we relate to the world, ourselves, and other people. And the cognitive functions are weird categories. They're unlike anything I've ever run across in my life. But only the weirdest categories can make you look at the world in a different way.
+Categories are crucial for making sense of the world. They allow us to perceive different kinds of things, as well as attaching significance to the things that we perceive. The cognitive functions, in particular, are categories that describe how we relate to the world, ourselves, and other people. Cognitive functions are relational categories. 
+
+And the cognitive functions are weird categories. They're unlike anything I've ever run across in my life. But only the weirdest categories can make you look at the world in a different way.
 
 
 
