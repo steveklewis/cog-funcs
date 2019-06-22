@@ -13,9 +13,10 @@ And the cognitive functions are weird categories. They're unlike anything I've e
 
 ## Cognitive Functions as Jargon
 
-Cognitive Functions are not scientific. They don't model the world in a way that's scientifically predictable. If anything, they are philosophical categories. But I want to emphasize cognitive functions as a cultural tool, a common lingo for talking about attention. Because that in itself is valuable if I have a way to communicate to you and to my coworkers about what I'm paying attention to. Perhaps I'm paying attention to the wrong thing. Perhaps you can help direct my attention to something that will more quickly help me do my job.
+As programmers, we deal with jargon all the time. We know that naming things is one of the hardest things to do, and we try our best to choose names that make the most sense and don't collide with other important concepts that we're also using. We also know that we can't start the naming process over every time we want to hash things out. And so, over time, a technical jargon is constructed that contains the common concepts that we need to draw from in order to communicate effectively and efficiently.
 
-As programmers, we deal with jargon all the time. We know that naming things is one of the hardest things to do, and we try our best to choose names that make the most sense and don't collide with other important concepts that we're also using.
+You may know that personality typing systems, like the MBTI, are loosely based on the original cognitive functions as defined by Carl Jung. The MBTI has been criticized over the years for not being scientific enough. But for some reason the MBTI keeps humming along because it helps people on teams get to know each other better, and discuss things that aren't always easy to discuss like personal perspectives. Similarly, cognitive Functions are not scientific. They don't model the world in a way that's scientifically predictable. If anything, they are philosophical categories. But I want to emphasize cognitive functions as a cultural tool, a common lingo for talking about attention. Because that in itself is valuable if I have a way to communicate to you and to my coworkers about what I'm paying attention to. Perhaps I'm paying attention to the wrong thing. Perhaps you can help direct my attention to something that will more quickly help me do my job.
+
 
 ## Cognitive Functions as Model
 
