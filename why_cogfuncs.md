@@ -1,6 +1,6 @@
 # Why Cognitive Functions?
 
-Why learn about cognitive functions? Why take the time to learn an inaccurate and fuzzy model of personality
+Several years ago I was going through a very difficult time, personally and professionally. It made me ask questions I thought I'd never ask, like, "Do I want to be a programmer anymore?" I always thought I'd want to code until I'm 80. I'm not close to 80, and I had picked up a few helpful tools over the years, but I was in a mental space where my old tools for navigating the world weren't adequate. I needed something more powerful. I tried a few different tools, in learning about myself, but the most valuable tool I've picked up was learning about Carl Jung's cognitive functions. I use them all the time now, at work and at home.
 
 ## Cognitive Functions as Relational Categories
 
