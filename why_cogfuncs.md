@@ -1,6 +1,10 @@
 # Why Cognitive Functions?
 
-Several years ago I was going through a very difficult time, personally and professionally. It made me ask questions I thought I'd never ask, like, "Do I want to be a programmer anymore?" I always thought I'd want to code until I'm 80 years old. I'm not close to 80, and I had picked up a few helpful tools over the years, but I was in a mental space where my old tools for navigating the world weren't adequate. I needed something more powerful. I tried a few different tools, in learning about myself, but the most valuable tool I've picked up was learning about Carl Jung's cognitive functions. I use them all the time now, at work and at home.
+I didn't want to code anymore. I was bored, frustrated, annoyed, tired. I wasn't having fun anymore. Which was too bad, because that's a good part of the reason I went into software: because I enjoyed it, and I was halfway decent at it. It made me ask questions I thought I'd never ask, like, "Do I want to be a programmer anymore?" I always thought I'd want to code until I'm 80 years old. I'm telling you my story because it turns out alright; the ending is a good ending. And since it has a good ending, I will recount what I learned on that journey. It was hard for me to figure out how I'd even gotten to that difficult point in my life, personally and professionally. But I began to search for better tools that would help me out of my predicament, and the most powerful tool I ran across in my search were the eight cognitive functions, first defined by Carl Jung.
+
+## Categorizing the World, Myself, and Others
+
+
 
 ## Cognitive Functions as Relational Categories
 
