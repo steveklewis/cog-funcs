@@ -2,17 +2,18 @@
 
 I didn't want to code anymore. I was bored, frustrated, annoyed, tired. I wasn't having fun anymore. Which was too bad, because that's a good part of the reason I went into software: because I enjoyed it, and I was halfway decent at it. These feelings made me ask questions I thought I'd never ask, like, "Do I want to be a programmer anymore?" I always thought I'd want to code until I'm 80 years old. I'm telling you my story because it turns out alright; the ending is a good ending. And since it has a good ending, I will recount what I learned on that journey. It was hard for me to figure out how I'd even gotten to that difficult point in my life, personally and professionally. But I began to search for better tools that would help me out of my predicament, and the most powerful tool I ran across in my search were the eight cognitive functions, first defined by Carl Jung.
 
-## A Programmer's Journey
+## A Programmer's Journey - Which Path?
 
-So what did the cognitive functions bring? Clarity. Clarity of thought. I was a mess of emotions and I didn't know how to sort them out. I was anxious about the future, confused about the past. I didn't have a way to sort through which thoughts were which. I didn't have a way to figure out the things I had been ignoring, to my own detriment. I didn't have a way to figure out I was focusing too much on certain things and needed some sort of balance, but also balance in the right amount.
+So what did the cognitive functions bring? Clarity. Clarity of thought. I was a mess of emotions and I didn't know how to sort them out. I was anxious about the future, confused about the past. I didn't have a way to sort through which thoughts were which. I didn't have a way to figure out the things I had been ignoring, to my own detriment. I didn't have a method or any tools by which to either stay on the path I already was on or to select a new path. Cognitively, I was way fuzzier than I needed to be to make effective decisions. 
 
+And this question, "Which path should I take?" is one that we, as programmers, have to answer on a regular basis. New technologies come out, new features need to be written, our team sees people come and go, and sometimes we're the one that leaves one team and joins another. Sometimes we look up from what we were doing and find ourselves on no team at all. So we need tools for pathfinding. I believe that the cognitive functions are effective as a tool for pathfinding because they are a small set of categories.
 
 ## Cognitive Functions as Relational Categories
 
 Categories are crucial for making sense of the world. They allow us to perceive different kinds of things, as well as attaching significance to the things that we perceive. The cognitive functions, in particular, are categories that describe how we relate to the world, ourselves, and other people. Cognitive functions are relational categories. 
 
 And the cognitive functions are weird categories. They're unlike anything I've ever run across in my life. But only the weirdest categories can make you look at the world in a different way. Categories provide clarity.
-Also, I was the kind of person that just hated boundaries and hated when people put me or others into a box. I thought I was too complex. What I didn't understand was an unwillingness to pick up some useful categories was making me appear too simple. And you can't stay simple in a complex world.
+Also, I was the kind of person that just hated boundaries and hated when people put me or others into a box. I can be very idealistic. I thought I was too complex. What I didn't understand was an unwillingness to pick up some useful categories was making me appear too simple. And you can't stay simple in a complex world.
 
 
 Another way to get familiar with these categories is to think of them as jargon. As programmers, we deal with jargon all the time. We know that naming things is one of the hardest things to do, and we try our best to choose names that make the most sense and don't collide with other important concepts that we're also using. We also know that we can't start the naming process over every time we want to hash things out. And so, over time, a technical jargon is constructed that contains the common concepts that we need to draw from in order to communicate effectively and efficiently.
