@@ -1,5 +1,7 @@
 # Intro to Cognitive Functions for Programmers
 
+* [The scope of this course: what you will learn](scope.md)
+
 * [Why Cognitive Functions](why_cogfuncs.md)
 
 
