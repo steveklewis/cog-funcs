@@ -3,7 +3,7 @@
 ## What You will learn in this Course
 
 1. The value of Cognitive Functions as a tool for categorization.
-1. What categories make up the Cognitive Functions.
+1. What categories make up the Cognitive Functions. The tradeoffs within each category.
 1. How to categorize using Cognitive Functions, for finding pathways in life and in the execution of software projects.
 
 ## What you will NOT learn in this course
