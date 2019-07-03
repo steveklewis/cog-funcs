@@ -8,10 +8,6 @@ So what did the cognitive functions bring? Clarity. Clarity of thought. I was a 
 
 And this question, "Which path should I take?" is one that we, as programmers, have to answer on a regular basis. New technologies come out, new features need to be written, our team sees people come and go, and sometimes we're the one that leaves one team and joins another. Sometimes we look up from what we were doing and find ourselves on no team at all. So we need tools for pathfinding. I believe that the cognitive functions are effective as a tool for pathfinding because they are a small set of categories.
 
-### The Dangers in Choosing a Path
-
-There are two primary problems when choosing a path. First, you can choose a path and not be flexible enough to change it. Second, you can bounce around between paths so often you don't actually get anywhere. Cognitive Functions allow you to select a path that isn't too broad, but also not too narrow. And it also gives you a way to figure out if you are missing something as you go along your path.
-
 ## Cognitive Functions as Relational Categories
 
 Categories are crucial for making sense of the world. They allow us to perceive different kinds of things, as well as attaching significance to the things that we perceive. The cognitive functions, in particular, are categories that describe how we relate to the world, ourselves, and other people. Cognitive functions are relational categories. 
