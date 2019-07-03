@@ -30,7 +30,7 @@ This list of lists makes up a model that describes how we relate to the world, o
 1. Different people preferring different kinds of attention leads to conflict.
 1. Understanding what other people use as categories can go a long way in reducing conflict.
 
-This model also explains why we can get into trouble in software projects. Sometimes it's a technical issue. Many times it's an interpersonal issue. But we have to be able to see the situations we find ourselves in, in a different way. We're having to be creative to implement features within the constraints we are given, we need new methods and new tools to find the right paths. I believe understanding this model of cognitive functions can give us extra problem-solving power, by paying attention to how we pay attention. 
+This model also explains why we can get into trouble in software projects. Sometimes it's a technical issue. Many times it's an interpersonal issue. But we have to be able to see the situations we find ourselves in, in a different way. We're having to be creative to implement features within the constraints we are given, we need new methods and new tools to find the right paths. I believe understanding this model of cognitive functions can give us extra pathfinding power, by paying attention to how we pay attention. 
 
 
 Copyright 2019 Steve Lewis All Rights Reserved
