@@ -14,7 +14,7 @@ I'm not telling you about cognitive functions to change your behavior, I'm not e
 
 As I've said previously, cognitive functions are categories that describe relationships. Here are the primary relationships:
 
-Two functions for interacting with the world: 
+Two functions for interacting with the world, and navigating oneself within that world: 
 
 1. Between two concrete objects. (Te)
 1. Between two people, not including yourself. (Fe)
@@ -43,7 +43,7 @@ As you can see, these are very, very, very abstract categories. I don't care abo
 1. Extraverted Sensing - facts
 
 1. Introverted Thinking - logic
-1. Introverted Feeling - values
+1. Introverted Feeling - subjectivity 
 1. Extraverted Thinking - systems 
 1. Extraverted Feeling - collaboration
 
