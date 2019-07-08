@@ -28,7 +28,7 @@ Two functions for storing and retrieving knowledge:
 
 ### Cognitive Functions, as Applied to Software Development
 
-As you can see, these are very, very, very abstract categories. They get their power from being abstract. I've really tried to boil away any unnecessary part to get to the essence and power of cognitive functions, so that we can apply them to the field of software development. For now, the definitions above are too abstract to understand without several examples, so let me give you some others that will be easier to grasp until I get into more detail when I cover each function individually:
+As you can see, these are very, very, very abstract categories. They get their power from being abstract. I've really tried to boil away any unnecessary part to get to the essence and power of cognitive functions, so that we can apply them to the field of software development. For now, the definitions above are too abstract to understand without several examples, so let me give you some representative relationships that will be easier to grasp until I get into more detail when I cover each function individually:
 
 1. Introverted Intuition - abstractions
 1. Introverted Sensing - artifacts
@@ -39,6 +39,8 @@ As you can see, these are very, very, very abstract categories. They get their p
 1. Introverted Feeling - programmer comfort
 1. Extraverted Thinking - systems 
 1. Extraverted Feeling - collaboration
+
+Again, these are not definitions for the cognitive functions themselves. But they act as a representative sample of aspects we find within a software project that puts a little more meat on the bones of the actual definitions.
 
 ## Relationships Between Cognitive Functions Manifest as Tradeoffs
 
