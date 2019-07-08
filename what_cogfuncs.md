@@ -40,9 +40,9 @@ As you can see, these are very, very, very abstract categories. They get their p
 1. Extraverted Thinking - systems 
 1. Extraverted Feeling - collaboration
 
+## Relationships Between Cognitive Functions Manifest as Tradeoffs
 
-
-## Tradeoffs Manifest as Function Axes
+Okay, so what? How do these categories choose a path? There are two primary problems when choosing a path. First, you can choose a path and not be flexible enough to change it. Second, you can bounce around between paths so often you don't actually get anywhere. These categories also have relationships between each other, such that they define a set of tradeoffs that we don't always notice:
 
 There are several kinds of tradeoffs we can encounter. We should be aware about them and notice what we may be giving up when we depend on one function too much, to the detriment of our projects.
 
@@ -57,10 +57,9 @@ There are two other axes that have to do with the data that we deal with:
 
 1. Ni/Si - Abstract knowledge/concrete knowledge
 1. Ne/Se - Abstract world/concrete world
+1. Ni/Se - Abstract knowledge/concrete world
+1. Ne/Si - Abstract world/concrete knowledge
 
-
-### The Dangers in Choosing a Path
-
-There are two primary problems when choosing a path. First, you can choose a path and not be flexible enough to change it. Second, you can bounce around between paths so often you don't actually get anywhere. Cognitive Functions allow you to select a path that isn't too broad, but also not too narrow. And it also gives you a way to figure out if you are missing something as you go along your path.
+These tradeoffs, when made conscious and explicit, help us to figure out which path we've chosen by our decisions, and which kinds of things we have prioritized.
 
 Copyright 2019 Steve Lewis All Rights Reserved
