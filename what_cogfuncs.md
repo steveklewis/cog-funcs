@@ -4,24 +4,24 @@ Cognitive functions describe relationships, so that we can focus on the relation
 
 ## Cognitive Functions as Relational Categories
 
-As I've said previously, cognitive functions are categories that describe relationships. Here are the primary relationships:
+As I've said previously, cognitive functions are categories that describe relationships. Here they are, in the most abstract form possible:
 
-Two functions for interacting with the world, and navigating within that world: 
+Two functions for interacting with the world, and navigating within that world -
 
 1. Between two concrete objects. (Extraverted Thinking - Te)
 1. Between two people, not including yourself. (Extraverted Feeling - Fe)
 
-Two functions for decision-making:
+Two functions for decision-making -
 
 1. Between two abstract objects, not people. (Introverted Thinking - Ti)
 1. Between a concrete object or person and yourself. (Introverted Feeling - Fi)
 
-Two functions for attending to the world:
+Two functions for attending to the world -
 
 1. Between you and the physical world. (Extraverted Sensing - Se)
 1. Between you and the abstract world. (Extraverted Intuition - Ne)
 
-Two functions for storing and retrieving knowledge:
+Two functions for storing and retrieving knowledge -
 
 1. Between you and the library of concrete knowledge. (Introverted Sensing - Si)
 1. Between you and the library of abstract knowledge. (Introverted Inutiotion - Ni)
