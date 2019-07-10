@@ -6,10 +6,10 @@ Cognitive functions describe relationships, so that we can focus on the relation
 
 As I've said previously, cognitive functions are categories that describe relationships. Here they are, in the most abstract form possible:
 
-Two functions for interacting with the world, and navigating within that world -
+> Two functions for interacting with the world, and navigating within that world -
 
-1. Between two concrete objects. (Extraverted Thinking - Te)
-1. Between two people, not including yourself. (Extraverted Feeling - Fe)
+> 1. Between two concrete objects. (Extraverted Thinking - Te)
+> 1. Between two people, not including yourself. (Extraverted Feeling - Fe)
 
 Two functions for decision-making -
 
