@@ -4,6 +4,8 @@
 
 * [Why Cognitive Functions](why_cogfuncs.md)
 
+* [What Are Cognitive Functions](what_cogfuncs.md)
+
 
 Inspired by:
 
