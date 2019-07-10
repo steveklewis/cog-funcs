@@ -32,7 +32,7 @@ As you can see, these are very, very, very abstract categories. They get their p
 
 1. Introverted Intuition (Ni) - abstractions
 1. Introverted Sensing (Si) - artifacts
-1. Extraverted Intuition (Ne) - connections
+1. Extraverted Intuition (Ne) - path generation
 1. Extraverted Sensing (Se) - facts/events
 
 1. Introverted Thinking (Ti) - logic
