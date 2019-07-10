@@ -30,21 +30,21 @@ Two functions for storing and retrieving knowledge -
 
 As you can see, these are very, very, very abstract categories. They get their power from being abstract. I've really tried to boil away any unnecessary part to get to the essence and power of cognitive functions, so that we can apply them to the field of software development. For now, the definitions above are too abstract to understand without several examples, so let me give you some representative relationships that will be easier to grasp until I get into more detail when I cover each function individually:
 
-1. Introverted Intuition - abstractions
-1. Introverted Sensing - artifacts
-1. Extraverted Intuition - connections
-1. Extraverted Sensing - facts/events
+1. Introverted Intuition (Ni) - abstractions
+1. Introverted Sensing (Si) - artifacts
+1. Extraverted Intuition (Ne) - connections
+1. Extraverted Sensing (Se) - facts/events
 
-1. Introverted Thinking - logic
-1. Introverted Feeling - programmer comfort
-1. Extraverted Thinking - systems 
-1. Extraverted Feeling - collaboration
+1. Introverted Thinking (Ti) - logic
+1. Introverted Feeling (Fi) - programmer comfort
+1. Extraverted Thinking (Te) - systems 
+1. Extraverted Feeling (Fe) - collaboration
 
 Again, these are not definitions for the cognitive functions themselves. But they act as a representative sample of aspects we find within a software project that puts a little more meat on the bones of the actual definitions.
 
-## Relationships Between Cognitive Functions Manifest as Tradeoffs
+## Pathfinding and Tradeoffs
 
-Okay, so what? How do these categories choose a path? There are two primary problems when choosing a path. First, you can choose a path and not be flexible enough to change it. Second, you can bounce around between paths so often you don't actually get anywhere. These categories also have relationships between each other, such that they define a set of tradeoffs that we don't always notice:
+Okay, so what? How do these categories help us choose a path? There are two primary problems when choosing a path. First, you can choose a path and not be flexible enough to change it. Second, you can bounce around between paths so often you don't actually get anywhere. You need something to let you know which path you have chosen, and which path you've not chosen. These categories can tell you those things because also have relationships between each other, such that they define a set of tradeoffs that we don't always notice:
 
 There are several kinds of tradeoffs we can encounter. We should be aware about them and notice what we may be giving up when we depend on one function too much, to the detriment of our projects.
 
