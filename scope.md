@@ -5,6 +5,7 @@
 1. The value of Cognitive Functions as a tool for categorization.
 1. What categories make up the Cognitive Functions. The tradeoffs within each category.
 1. How to categorize using Cognitive Functions, for finding pathways in life and in the execution of software projects.
+1. Understand the software team's strengths and in what conditions the team can really excel.
 
 ## What you will NOT learn in this course
 
