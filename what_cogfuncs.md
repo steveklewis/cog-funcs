@@ -28,17 +28,17 @@ Two functions for storing and retrieving knowledge -
 
 ### Cognitive Functions, as Applied to Software Development
 
-As you can see, these are very, very, very abstract categories. They get their power from being abstract. I've really tried to boil away any unnecessary part to get to the essence and power of cognitive functions, so that we can apply them to the field of software development. For now, the definitions above are too abstract to understand without several examples, so let me give you some representative relationships that will be easier to grasp until I get into more detail when I cover each function individually:
+As you can see, these are very, very, very abstract categories. They get their power from being abstract. I've really tried to boil away any unnecessary part to get to the essence and power of cognitive functions, so that we can apply them to the field of software development. For now, the definitions above are too abstract to understand without several examples, so let me describe in terms of pathfinding, since that, ultimately, is why we're here:
 
-1. Introverted Intuition (Ni) - abstractions
-1. Introverted Sensing (Si) - artifacts
-1. Extraverted Intuition (Ne) - path generation
-1. Extraverted Sensing (Se) - facts/events
+1. Introverted Intuition (Ni) - old abstract paths (abstractions/patterns)
+1. Introverted Sensing (Si) - old concrete paths (artifacts)
+1. Extraverted Intuition (Ne) - new abstract paths (path generation)
+1. Extraverted Sensing (Se) - new concrete paths (facts/events)
 
-1. Introverted Thinking (Ti) - logic
-1. Introverted Feeling (Fi) - programmer comfort
-1. Extraverted Thinking (Te) - systems 
-1. Extraverted Feeling (Fe) - collaboration
+1. Introverted Thinking (Ti) - choosing paths based on logic
+1. Introverted Feeling (Fi) - choosing paths based on value
+1. Extraverted Thinking (Te) - choosing paths based on practicality
+1. Extraverted Feeling (Fe) - choosing paths based on collaboration
 
 Again, these are not definitions for the cognitive functions themselves. But they act as a representative sample of aspects we find within a software project that puts a little more meat on the bones of the actual definitions.
 
