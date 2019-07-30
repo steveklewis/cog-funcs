@@ -1,6 +1,6 @@
 # Extraverted Intuition - Path Generation in the Abstract World
 
-When I was unsure if I wanted to become a programmer or not, the biggest thing that helped me was to figure out what kind of creativity would be a strength. The distinction between concrete and abstract creation made me realize that even if there were parts of software development that I didn't love, at a basic level it gave me a lot of freedom to create, abstractly. As ideas pop in and out of my imagination, I'm able to generate possible solutions, and run simulations, in my mind, until I find a solution. If there's anything I love to do, it's to stare at the ideas in my mind. And being a programmer affords me plenty of time to play with abstractions.
+When I was unsure if I wanted to continue as a programmer or not, the biggest thing that helped me, was to figure out what kind of creativity I had as a strength. The distinction between concrete and abstract creation made me realize that even if there were parts of software development that I didn't love, at a basic level it gave me a lot of freedom to create, abstractly. As ideas pop in and out of my imagination, I'm able to generate possible solutions, and run simulations, in my mind, until I find a solution. If there's anything I love to do, it's to stare at the ideas in my mind. And being a programmer affords me plenty of time to play with abstractions.
 
 ## Staying Focused on the Abstract World
 
@@ -11,6 +11,7 @@ We are creators in the abstract world. It is our stage. We juggle rules, data, a
 However, by itself, Extraverted Intuition will not select from a set of alternatives. All it can do is generate options. Once we have a new path, we can figure out if it's plausible by submitting it to one of our judging functions.
 
 
+What I have learned from recognizing myself as an abstract creator is how to become willing to expand my set of skills, simply because they are also contained within the category of abstract creation. I used to hate writing. But I have become more willing to do it and enjoy the process of it much more than I used to. I have learned to see myself as a writer.
 
 
 
@@ -31,4 +32,4 @@ I could use Fi or Te to skim through each option and consider the probability of
 
 
 
-
+Add "writer" as a role because of realization of abstract creation.
