@@ -15,3 +15,5 @@ Enneagram Nines lose a fundamental engine of motivation if they avoid anger. It 
 ## Anger and Clarity
 
 Without anger your thinking tends to be fuzzy, as well. If you have no boundaries for yourself, it's also difficult to maneuver boundaries in and around ideas. Things seem to look similar, if you squint hard enough. Tapping into a healthy anger brings clarity to yourself, your ideas, and to social situations because you know where you begin and where you end. You know where you stand in relation to something or someone else. You can't get clarity without anger.
+
+Copyright 2019 Steve Lewis All Rights Reserved
