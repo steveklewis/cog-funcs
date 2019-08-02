@@ -19,3 +19,5 @@ Now, there may be valid reasons for finding oneself in this predicament. Lack of
 ## Being Half of a Good Friend
 
 As one can see, there are a few reasons why my personality type might end up being a bad friend. But the news isn't all bad. People with my personality type can be great listeners, and can be very accepting of people who are different. The world is full of people who have the ability to be great friends and shun those not like them. But there needs to be some balance, so that a person can figure out the appropriate times to attend to oneself and the appropriate times to tend to others.
+
+Copyright 2019 Steve Lewis All Rights Reserved
