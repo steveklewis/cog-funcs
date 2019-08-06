@@ -6,3 +6,4 @@ This particular set of articles covers some meta-recommendations, where in a lat
 
 * [You Need 100 Times More Advice Than You Think You Need](advice.md)
 * [You Need To Know Your Strengths are Abstract](not_feel_lost.md)
+* [You Need To Feel Your Feelings](feel_feelings.md)
