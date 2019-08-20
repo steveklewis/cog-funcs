@@ -14,7 +14,7 @@ Two functions for interacting with the world, and navigating within that world -
 Two functions for decision-making -
 
 1. Between two abstract objects, not people. (Introverted Thinking - Ti)
-1. Between a concrete object or person and yourself. (Introverted Feeling - Fi)
+1. Between a thing, idea or person and yourself. (Introverted Feeling - Fi)
 
 Two functions for attending to the world -
 
