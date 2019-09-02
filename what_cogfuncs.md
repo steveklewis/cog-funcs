@@ -26,7 +26,7 @@ Two functions for storing and retrieving knowledge -
 1. Between you and the library of concrete knowledge. (Introverted Sensing - Si)
 1. Between you and the library of abstract knowledge. (Introverted Inutiotion - Ni)
 
-### Cognitive Functions, as Applied to Software Development
+### Cognitive Functions as a Higher-Level Logic
 
 As you can see, these are very, very, very abstract categories. They get their power from being abstract. I've really tried to boil away any unnecessary part to get to the essence and power of cognitive functions, so that we can apply them to the field of software development. For now, the definitions above are too abstract to understand without several examples, so let me describe in terms of pathfinding, since that, ultimately, is why we're here:
 
