@@ -6,6 +6,6 @@ The hardest part, but most necessary part, in defining a goal, is to answer the 
 
 It requires a lot of clearing away the cobwebs of your habits, and the things you've gone along with, in order to survive as a member of society. This is where I believe Cognitive Functions can be especially helpful, when you are trying to get clarity on a particular question and you need to whittle things down to a single category. The answer to what one wants becomes the goal, and then you can analyze if it's a worthwhile goal, a good goal, if others might want the same goal, and if you might help others along the way in pursuit of your goal. But the first thing is to find the goal. It probably won't be your ultimate goal, but the process will help clarify what your next best step ought to be.
 
-Because when you know what you want, it shines forth like a star in the sky to help keep you focused on your goal. Your goal is above you, ahead of you, but you've internalized it as a guiding force within you.
+Because when you know what you want, it shines forth like a star in the sky to help keep you focused on your goal. Your goal is above you, ahead of you, but you've internalized it as a guiding force within you. It is an intuition that you grasp, internally, that no one can take away from you.
 
 Copyright 2019 Steve Lewis All Rights Reserved
