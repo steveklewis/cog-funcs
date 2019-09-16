@@ -1,10 +1,34 @@
 # What are Cognitive Functions?
 
-Cognitive functions describe relationships, so that we can focus on the relationship, not necessarily on the thing at each end of the relationship. To categorize things isn't really that interesting. It's only when we examine the things in relationships that things truly get interesting.
+Many people have tried to define Jung's original cognitive functions with more familiar and easier terminology. One example of this is Antonia Dodge and Joel Mark Witt from [Personality Hacker](https://personalityhacker.com/nicknames-for-8-jungian-cognitive-functions/). They use these definitions:
+
+* Introverted Sensing - "Memory"
+* Extraverted Sensing - "Sensation"
+* Introverted Intuition - "Perspectives"
+* Extraverted Intuition - "Exploration"
+* Extraverted Feeling - "Harmony"
+* Introverted Feeling - "Authenticity"
+* Extraverted Thinking - "Effectiveness"
+* Introverted Thinking - "Accuracy"
+
+Now, these aren't bad definitions. The people at Personality Hacker are trying to make things easier by finding helpful metaphors for what are very abstract ideas. But it comes at a cost. That cost is a loss of precision when explaining the cognitive functions. That loss of precision can lead us to miscategorize certain things in the wrong congitive function category. So what I'm trying to do is to keep the power and precision of the abstractions, so that a miscategorization doesn't lead us astry. If anything, I'm trying to make things not easier, but more difficult. But I believe you're up to the task.
+
+[John Beebe](https://www.amazon.com/Energies-Patterns-Psychological-Type-Beebe/dp/1138922285) has put forward his attempt in a similar vein which outlines each function with three verbs:
+
+* Introverted Sensing - implementing, verifying, accounting
+* Extraverted Sensing - engaging, experiencing, enjoying
+* Introverted Intuition - imagining, knowing, divining
+* Extraverted Intuition - entertaining, envisioning, enabling
+* Extraverted Feeling - validating, affirming, relating
+* Introverted Feeling - judging, appraising, establishing the value
+* Extraverted Thinking - regulating, planning, enforcing
+* Introverted Thinking - naming, defining, understanding
+
+As you can see, this is more helpful, but also more complex. What I'd like to do is boil down the cognitive functions to the most abstract definition possible so there is less room for miscategorization. So, here we go.
 
 ## Cognitive Functions as Relational Categories
 
-As I've said previously, cognitive functions are categories that describe relationships. Here they are, in the most abstract form possible:
+Cognitive functions describe relationships, so that we can focus on the relationship, not necessarily on the thing at each end of the relationship. To categorize things isn't really that interesting. It's only when we examine the things in relationships that things truly get interesting. Here they are, in the most abstract form possible:
 
 Two functions for interacting with the world, and navigating within that world -
 
@@ -26,7 +50,7 @@ Two functions for storing and retrieving knowledge -
 1. Between you and the library of concrete knowledge. (Introverted Sensing - Si)
 1. Between you and the library of abstract knowledge. (Introverted Inutiotion - Ni)
 
-### Cognitive Functions as a Higher-Level Logic
+### Cognitive Functions as a Higher-Order Logic
 
 As you can see, these are very, very, very abstract categories. They get their power from being abstract. I've really tried to boil away any unnecessary part to get to the essence and power of cognitive functions, so that we can apply them to the field of software development. For now, the definitions above are too abstract to understand without several examples, so let me describe in terms of pathfinding, since that, ultimately, is why we're here:
 
@@ -63,5 +87,10 @@ There are two other axes that have to do with the data that we deal with:
 1. Ne/Si - Abstract world/concrete knowledge
 
 These tradeoffs, when made conscious and explicit, help us to figure out which path we've chosen by our decisions, and which kinds of things we have prioritized.
+
+
+
+
+
 
 Copyright 2019 Steve Lewis All Rights Reserved
