@@ -50,6 +50,9 @@ Two functions for storing and retrieving knowledge -
 1. Between you and the library of concrete knowledge. (Introverted Sensing - Si)
 1. Between you and the library of abstract knowledge. (Introverted Inutiotion - Ni)
 
+As you can see, these are very, very, very abstract categories. But I believe that abstraction is necessary in order to properly categorize the world within and around us. It is much easier to find your way out of being lost if your categories are as precise as you can get them.
+
+
 <!--
 ### Cognitive Functions as a Higher-Order Logic
 
