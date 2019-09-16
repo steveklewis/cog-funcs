@@ -50,6 +50,7 @@ Two functions for storing and retrieving knowledge -
 1. Between you and the library of concrete knowledge. (Introverted Sensing - Si)
 1. Between you and the library of abstract knowledge. (Introverted Inutiotion - Ni)
 
+<!--
 ### Cognitive Functions as a Higher-Order Logic
 
 As you can see, these are very, very, very abstract categories. They get their power from being abstract. I've really tried to boil away any unnecessary part to get to the essence and power of cognitive functions, so that we can apply them to the field of software development. For now, the definitions above are too abstract to understand without several examples, so let me describe in terms of pathfinding, since that, ultimately, is why we're here:
@@ -65,6 +66,7 @@ As you can see, these are very, very, very abstract categories. They get their p
 1. Extraverted Feeling (Fe) - choosing paths based on collaboration
 
 Again, these are not definitions for the cognitive functions themselves. But they act as a representative sample of aspects we find within a software project that puts a little more meat on the bones of the actual definitions.
+
 
 ## Pathfinding and Tradeoffs
 
@@ -89,7 +91,7 @@ There are two other axes that have to do with the data that we deal with:
 These tradeoffs, when made conscious and explicit, help us to figure out which path we've chosen by our decisions, and which kinds of things we have prioritized.
 
 
-
+-->
 
 
 
