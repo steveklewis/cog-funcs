@@ -16,26 +16,16 @@ Without a proper relationship to fear, we don't have access to the information w
 
 The interesting move here is that it's a redefinition of fear into a more general capability. The information within fear is available in all kinds of situations, and it comes with varying degrees of intensity.  We're not using fear only when we are terrified of being eaten by zombies. It's a power within us that is always on and always available. Even when it's just a quiet sense within us. This generalization of fear allows one to really pay attention when you're actually using fear, and it puts normal use of fear into perspective, so you're not as afraid of fear.
 
-What this understanding of fear has allowed me to do is be more tolerant of feeling low-intensity fear. I recognize I need to do something about that low emotional hum within me, so that it doesn't become stronger and eventually overwhelming. And being able to catch it early brings benefits: "When you can channel your fear properly, it will contribute a sense of self-preservation while it pushes you to study, prepare, and renew your understanding of courage as the capacity to live life on your own terms, rather than throw yourself headlong into fearless or daredevilish behaviors" (243). And this awareness of fear allows me to channel that energy into something creative.
+What this understanding of fear has allowed me to do is be more tolerant of feeling low-intensity fear. I recognize I need to do something about that low emotional hum within me, so that it doesn't become stronger and eventually overwhelming. And being able to catch it early brings benefits: "When you can channel your fear properly, it will contribute a sense of self-preservation while it pushes you to study, prepare, and renew your understanding of courage as the capacity to live life on your own terms, rather than throw yourself headlong into fearless or daredevilish behaviors" (243). And this awareness of fear allows one to channel that energy into something creative.
 
-## What Can Fear Create?
+## Fear and the Enneagram Nine
 
-Okay. Now I want to layer another set of categories onto this view of fear as a more generalized capacity. If fear can be applied and deployed in different situations, what are the primary categories in which fear can manifest as something creative? One of the most effective tools I've discovered in my wanderings the past few years has been the Enneagram. It's especially helpful around the motivation of fear. Three of the numbers within the Enneagram are primarily motivated by fear. Types [five](https://www.enneagraminstitute.com/type-5), [six](https://www.enneagraminstitute.com/type-6), and [seven](https://www.enneagraminstitute.com/type-7) are each motivated by fear, but have different expressions of that motivation. When we're motivated by fear, we have three options in converting that fear into something creative. We can create knowledge, actions, or words.
+Learning I was an Enneagram Nine helped me to resolve a further part of the mystery involved in the emotion of fear. Nines, when they're unhealthy, since they suppress anger, tend to be very fear-based when motivated by others. Fear is like a special button to get an unhealthy Nine to do anything you want. Just make them afraid. And I found that true in my own life, at work and at home, and after that button-pushing event I would just feel terrible about myself.
 
-## Creating Knowledge
-
-For most of us, fear is to be avoided. But we all have different strategies and habits for avoiding fear. For the Enneagram Type Five, that strategy is to learn as much as one can about various topics so that one can be safe. To be safe, one has to see where the dangers lie, and construct a library of knowledge on how to avoid danger, and a set of tactics to get out of danger if one gets into a sticky situation.
-
-## Acting Creatively
-
-The Enneagram Type Six, rather than creating knowledge, uses fear to avoid decisions that could lead to danger. From a certain perspective, a kind of conservatism could creep in, but the Type Six, as they become so accustomed to living with fear, are able to actually discern which choices actually lead to danger, and act freely because they are prepared for the worst. Karla McLaren identifies the primary question that fear asks as, "What action should be taken?" Type Sixes are all about intuitive action.
-
-## Speaking Creatively
-
-The Enneagram Type Seven loves to avoid fear. They will go on endless adventures or talk incessantly to avoid focusing on the fear. But if they can stand a little fear they can become extremely good at finding the right words. This attention to the verbal world allows Sevens to be gregarious and fun-loving, always looking for the new thing to distract them.
+Enneagram Nines, as they gain a connection to their inner anger, find that fear doesn't have such a stranglehold on their lives. They learn they can act without having to be more scared than is necessary, and they can focus on things that are realistic rather than possible dreaded outcomes.
 
 ## The Information Within Fear
 
-As you can see, there are both positives and negatives to being able to create using the energy within fear. Fear is risky. But the goal is to have a healthy understanding and expression of fear so we can be more creative in a healthy way. Fear is a motivational energy that comes in many intensities and can be deployed in many situations to help you focus and pay attention to what you need to attend to. At its essence, fear is attention.
+Fear is risky. But the goal is to have a healthy understanding and expression of fear so we can be more creative in a healthy way. Fear is a motivational energy that comes in many intensities and can be deployed in many situations to help you focus and pay attention to what you need to attend to.
 
 Copyright 2019 Steve Lewis All Rights Reserved
