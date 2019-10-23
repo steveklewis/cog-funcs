@@ -14,7 +14,7 @@ I couldn't deal with my anger around being bored at work, and so boredom allowed
 
 > Apathy is a dissociated state, usually related to being stuck in the wrong environment for your needs. Because it masks emotion, though, apathy is powerless; it longs for change, but it doesn't have the emotional agility to make conscious change happen. (191)
 
-That was me. I was stuck. Unable to find a better environment, but also unable to improve myself within my current environment. I've written before about dissociation and the need to [../prelude/feel_feelings.md](feel your feelings) but I think in the book McLaren goes further and tells you what could be covering up those emotions.
+That was me. I was stuck. Unable to find a better environment, but also unable to improve myself within my current environment. I've written before about dissociation and the need to [feel your feelings](../prelude/feel_feelings.md) but I think in the book McLaren goes further and tells you what could be covering up those emotions.
 
 > Apathy points to a loss of boundaries, and to a distinct and urgent need for change, but it does so in an ineffectual and distractible way. (192-3)
 
