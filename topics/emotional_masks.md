@@ -22,11 +22,11 @@ Change. I needed a change. But what should I change? Where should I begin? Was i
 
 > Boredom is a sign of becoming a product or a victim of your environment, instead of an active and aware participant. (193)
 
-I think this is really interesting, because there wasn't especially egregious about my job. In many ways, I got stuck because it was so good, and because it was so safe and comfortable. But I made myself a victim by staying, and not finding something else.
+I think this is really interesting, because there wasn't especially egregious about my job. In many ways, I got stuck because it was so good, and because it was so safe and comfortable. But I made myself a victim by staying, and not finding something else where I could be more engaged.
 
 ## Confusion, the Mask of Fear
 
-So I stayed too long, got bored. Inevitably, I got a bad review at work. But I didn't understand. It was a shock and a surprise. Maybe I should have expected it. But I didn't. I was confused. I didn't even know who I could trust. I thought I knew what was what at work. And suddenly I didn't. I realize now I should have left. But I had spread myself too thin, I was burned out, I didn't have a solid specialty as a generalist, and I had no idea what it meant to have a strength. I had a right to be afraid, but I didn't know how to process that fear so I stayed, confused, at the job for another two years. Karla McLaren identifies what is going on with confusion:
+So I stayed too long, and I got bored. Inevitably, eventually, I got a bad review at work. And at first, I didn't understand why. It was a shock and a surprise. Maybe I should have expected it. But I didn't. I was confused. I didn't even know who I could trust. I thought I knew what was what at work. And suddenly I didn't. I realize now I should have left. But I had spread myself too thin, I was burned out, I didn't have a solid specialty as a generalist, and I had no idea what it meant to have a strength. I had a right to be afraid, but I didn't know how to process that fear so I stayed, confused, at the job for another two years. Karla McLaren identifies what is going on with confusion:
 
 > Confusion is essentially a form of dissociation that takes you out of commission when you've lost your way. It's a bit like apathy, which is also a masking state, but instead of being bored or lusting after shiny things, you can't decide what you want. (258)
 
@@ -34,8 +34,7 @@ The chapter on the emotion of confusion in The Language of Emotions is one of th
 
 "What do you want?" For a person experiencing confusion, it can be a very hard question to answer. We become so disconnected from our desires, wants, and needs that we don't even know what we want. And we don't have a good way of discovering what we want, since the fog is so thick and we've grown so accustomed to it.
 
-Finding out what you want isn't easy. It's a multi-step process. You have to figure out what's available, which option might be best for you, and then figure out what you really want from those realistic choices. But one of the most necessary things in this process is to feel the fear, accept the fear, and listen to what it's telling you.
-
+Finding out what you want isn't easy. It's a multi-step process. You have to figure out what's available, which option might be best for you, and then figure out what you really want from those realistic choices. But one of the most necessary things in this process is to feel the fear, accept the fear, and listen to what it's telling you. And as we move through this process, we begin to get our bearings back:
 
 > Our confusion lifts, our real feelings come forward, our focus and grounding come back, and we become able to think coherently and stand upright again. (258)
 
@@ -43,4 +42,4 @@ Finding out what you want isn't easy. It's a multi-step process. You have to fig
 
 If the [essence of anger](essence_anger.md) is "No," then the essence of the mask of anger is "Yes," but not a healthy "Yes," but rather a deceptive and self-deceptive agreeableness. A person can only say "Yes" with anger when that person knows what they want and has said "No" to the alternatives.
 
-If the essence of fear is attention, then the essence of the mask of fear is lack of attention.
+If the essence of fear is attention, then the essence of the mask of fear is lack of attention. To me, confusion is a more fundamental and pernicious mask than apathy and boredom, because there's no clarity in perceiving the world or oneself and others. Boredom and apathy sees the world as gray, but there is definition. Confusion sees the world as gray, but also as a fog. There's no contrast at all.
