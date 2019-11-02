@@ -18,10 +18,11 @@ That was me. I was stuck. Unable to find a better environment, but also unable t
 
 > Apathy points to a loss of boundaries, and to a distinct and urgent need for change, but it does so in an ineffectual and distractible way. (192-3)
 
+Change. I needed a change. But what should I change? Where should I begin? Was it really necessary to leave my current job? Or could I tweak something and get a similar result? I wasn't sure what I even wanted.
+
 > Boredom is a sign of becoming a product or a victim of your environment, instead of an active and aware participant. (193)
 
-
-
+I think this is really interesting, because there wasn't especially egregious about my job. In many ways, I got stuck because it was so good, and because it was so safe and comfortable. But I made myself a victim by staying, and not finding something else.
 
 ## Confusion, the Mask of Fear
 
@@ -29,8 +30,17 @@ So I stayed too long, got bored. Inevitably, I got a bad review at work. But I d
 
 > Confusion is essentially a form of dissociation that takes you out of commission when you've lost your way. It's a bit like apathy, which is also a masking state, but instead of being bored or lusting after shiny things, you can't decide what you want. (258)
 
+The chapter on the emotion of confusion in The Language of Emotions is one of the shortest of the whole book, but it's a very important chapter that covers a lot of ground quickly. "You can't decide what you want." That's how I felt. I had stayed too long at that job, and gotten bored, but I couldn't move on because I didn't know what I wanted. I didn't even know what was available to want, and I didn't know what was worth wanting. I couldn't imagine what might be out there, and even if I could generate some possibilities in my head, I had no way of picking and choosing from among them.
+
 "What do you want?" For a person experiencing confusion, it can be a very hard question to answer. We become so disconnected from our desires, wants, and needs that we don't even know what we want. And we don't have a good way of discovering what we want, since the fog is so thick and we've grown so accustomed to it.
 
+Finding out what you want isn't easy. It's a multi-step process. You have to figure out what's available, which option might be best for you, and then figure out what you really want from those realistic choices. But one of the most necessary things in this process is to feel the fear, accept the fear, and listen to what it's telling you.
 
 
 > Our confusion lifts, our real feelings come forward, our focus and grounding come back, and we become able to think coherently and stand upright again. (258)
+
+## The Essence of Emotional Masks
+
+If the [essence of anger](essence_anger.md) is "No," then the essence of the mask of anger is "Yes," but not a healthy "Yes," but rather a deceptive and self-deceptive agreeableness. A person can only say "Yes" with anger when that person knows what they want and has said "No" to the alternatives.
+
+If the essence of fear is attention, then the essence of the mask of fear is lack of attention.
