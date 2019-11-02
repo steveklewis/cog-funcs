@@ -1,6 +1,6 @@
 # The Emotional Masks
 
-For an unhealthy Enneagram Nine, apathy, boredom, and confusion are constant companions. At their unhealthiest, both healthy anger and healthy fear can't get through the fog of these other feelings of apathy, boredom, and confusion that mask deeper emotions. The signal is garbled and we can't get any useful information out of our most helpful emotions. But even these masks tell us something: that we're angry or afraid and aren't ready to face reality.  They act as shields, to protect us from the full, raw force of the underlying emotions, emotions that we're not ready to face or emotions we're incapable of facing.
+For an unhealthy Enneagram Nine, apathy, boredom, and confusion are constant companions. At their unhealthiest, healthy anger and healthy fear can't get through the fog of these other feelings of apathy, boredom, and confusion that mask deeper emotions. The signal is garbled and we can't get any useful information out of our most helpful emotions. But even these masks tell us something: that we're angry or afraid and aren't ready to face reality.  They act as shields, to protect us from the full, raw force of the underlying emotions, emotions that we're not ready to face or emotions we're incapable of facing.
 
 By staying in the safer emotions of apathy and confusion, the Enneagram Nine can keep her or his perspective of reality that everything is fine, everything is okay. And that's how I was, at work and at home, before I understood I was an Enneagram Nine.
 
