@@ -1,10 +1,16 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { Spring } from 'react-spring/renderprops';
 
 function App() {
   return (
-    <div className="App">
+
+    <Spring from={{ opacity : 0, marginTop: -1000}} to={{ opacity: 1, marginTop: 0 }}>
+          { props => (
+
+    <div className="App" style={ props} >
+      <div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -20,6 +26,9 @@ function App() {
         </a>
       </header>
     </div>
+    </div>
+    )}
+    </Spring>
   );
 }
 
