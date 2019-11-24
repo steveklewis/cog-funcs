@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import { Spring } from 'react-spring/renderprops';
 
+import Counter from './components/Counter';
+
 function App() {
   return (
 
@@ -24,6 +26,8 @@ function App() {
         >
           Learn React
         </a>
+
+        <Counter />
       </header>
     </div>
     </div>
