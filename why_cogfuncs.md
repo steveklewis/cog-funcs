@@ -25,6 +25,8 @@ Categories are crucial for making sense of the world. They allow us to perceive 
 1. What are my strengths?
 1. What should I focus on?
 
-I've found, in my own life, that Cognitive Functions have been invaluable in helping me to decide to stick it out as a software programmer. And I find myself thinking in the categories of the Cognitive Functions to help me sort out the "empirical material." I hope now you can see why one might want to get to know the Cognitive Functions. Next, we'll cover what they actually consist of.
+## Cognitive Functions Bring Clarity
+
+I've found, in my own life, that Cognitive Functions have been invaluable in helping me to decide to stick it out as a software programmer. I've rediscovered the joy I found in paying attention to the ideas in my head so that I can solve a programming problem. Central to that rediscovery was learning how to think through the categories of the Cognitive Functions so that I could sort out the "empirical material." I hope now you can see why one might want to get to know the Cognitive Functions. Next, we'll cover what they actually consist of.
 
 Copyright 2019 Steve Lewis All Rights Reserved
