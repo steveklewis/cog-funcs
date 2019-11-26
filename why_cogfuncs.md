@@ -12,15 +12,18 @@ John Beebe has explained what Jung viewed as the point of congitive functions:
 
 > "... (Jung) had emphasized that the theory of psychological types should not be used as a way of classifying people but for "sorting out the empirical material" that comes up in the course of a therapeutic analysis. The method of analysis that results has the advantage of enabling a patient to see where a particular complex lives in the psyche."
 
-## Cognitive Functions are for Sorting
+## Cognitive Functions Are For Sorting
 
 As software programmers, we deal with sorting every day. But we get a lot of empirical data in our jobs. Some related to our systems, some related to the people we work with, and some related to ourselves. The job is complicated. Many times the categories we use to sort things out are fully adequate, and we know what we're doing. But sometimes we need a different way of looking at things, to make sense of the information that's coming in. The Cognitive Functions are categories, made for sorting.
 
-Categories are crucial for making sense of the world. They allow us to perceive different kinds of things, as well as attaching significance to the things that we perceive. The cognitive functions, in particular, are categories that describe how we relate to the world, ourselves, and other people.
+Categories are crucial for making sense of the world. They allow us to perceive different kinds of things, as well as attaching significance to the things that we perceive. The cognitive functions, in particular, are categories that describe how we relate to the world, ourselves, and other people. They can help answer questions we encounter every day, in software development and in the real world, such as:
 
-Another way to understand these categories is to think of them as jargon. As programmers, we deal with jargon all the time. We know that naming things is one of the hardest things to do, and we try our best to choose names that make the most sense and don't collide with other important concepts that we're also using. We also know that we can't start the naming process over every time we want to hash things out. And so, over time, a technical jargon is constructed that contains the common concepts that we need to draw from in order to communicate effectively and efficiently. Similarly, I have found that Cognitive Functions are a very useful set of terminology, as it helps people on teams get to know each other better, and discuss things that aren't always easy to discuss like personal perspectives. Accordingly, I want to emphasize cognitive functions as a cultural tool, a common lingo for talking about attention. Because that in itself is valuable if I have a way to communicate to you and to my coworkers about what I'm paying attention to. Perhaps I'm paying attention to the wrong thing. Perhaps you can help direct my attention to something that will more quickly help me do my job.
-
-## Sorting Out the Path
+1. What just happened?
+1. What is going on?
+1. What might happen?
+1. What did I miss?
+1. What are my strengths?
+1. What should I focus on?
 
 I've found, in my own life, that Cognitive Functions have been invaluable in helping me to decide to stick it out as a software programmer. And I find myself thinking in the categories of the Cognitive Functions to help me sort out the "empirical material." I hope now you can see why one might want to get to know the Cognitive Functions. Next, we'll cover what they actually consist of.
 
