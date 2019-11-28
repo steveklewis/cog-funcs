@@ -4,6 +4,7 @@ import './App.css';
 import { Spring } from 'react-spring/renderprops';
 
 import Counter from './components/Counter';
+import HookedComponent from './components/Hooks';
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
         </a>
 
         <Counter />
+        <HookedComponent />
       </header>
     </div>
     </div>
