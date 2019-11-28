@@ -5,6 +5,7 @@ import { Spring } from 'react-spring/renderprops';
 
 import Counter from './components/Counter';
 import HookedComponent from './components/Hooks';
+import Enneagram from './components/Enneagram';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
 
         <Counter />
         <HookedComponent />
+        <Enneagram />
       </header>
     </div>
     </div>
