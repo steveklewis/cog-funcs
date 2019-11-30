@@ -1,37 +1,39 @@
-import React from 'react';
+import React, { useState} from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Spring } from 'react-spring/renderprops';
 
-import Counter from './components/Counter';
-import HookedComponent from './components/Hooks';
+
+
+
 import Enneagram from './components/Enneagram';
+import Legend from './components/Legend';
+
+
+// takes an array of numbers to highlight
+function highlightNumbers(numbersToHighlight) {
+
+}
+
+
+
 
 function App() {
+
+  const [explanation, setExplanation] = useState('Welcome to the Enneagram');
+
   return (
 
     <Spring from={{ opacity : 0, marginTop: -1000}} to={{ opacity: 1, marginTop: 0 }}>
           { props => (
 
     <div className="App" style={ props} >
+        <Legend setExplanation={setExplanation}/>
       <div>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-
-        <Counter />
-        <HookedComponent />
-        <Enneagram />
+        <title>Enneagram</title>
+        <p class="whitetext"> {explanation}</p>
+        <Enneagram explain={explanation} color="white" />
       </header>
     </div>
     </div>
