@@ -1,12 +1,17 @@
 import React from 'react';
-import {useSpring, animated} from 'react-spring'
+import {useSpring, animated } from 'react-spring'
 
 
-const Enneagram = () => {
+const Enneagram = (props) => {
+const colorProps = useSpring({stroke: "white", from: {stroke: "blue"}, delay: '2000'});
 
-const props = useSpring({stroke: "white", from: {stroke: "blue"}, delay: '2000'});
+const oneProps = useSpring({
+    x: !props.angerLegend ? "77.1345131623847" : "90.1345131623847",
+    fontSize: props.angerLegend ? "30pt": "18pt"
+});
 
-return <animated.svg xmlnsCc="http://creativecommons.org/ns#" xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" width="300" height="300" stroke={props.stroke}>
+
+return <animated.svg xmlnsCc="http://creativecommons.org/ns#" xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" width="300" height="300" stroke={colorProps.stroke}>
 
 <title>Enneagram</title>
 <p class="whitetext"> {props.explain}</p>
@@ -34,7 +39,8 @@ return <animated.svg xmlnsCc="http://creativecommons.org/ns#" xmlnsDc="http://pu
 
 
 <g transform="translate(0,9)">
-<text x="77.1345131623847" y="-91.9253331742774" font-size="18pt" text-anchor="middle" font-family="serif">1</text>
+<animated.text x={oneProps.x} y="-91.9253331742774" font-size={oneProps.fontSize} text-anchor="middle" font-family="serif">1</animated.text> 
+
 <text x="118.176930361465" y="-20.8377813200316" font-size="18pt" text-anchor="middle" font-family="serif">2</text>
 <text x="103.923048454133" y="60" font-size="18pt" text-anchor="middle" font-family="serif">3</text>
 <text x="41.0424171990803" y="112.763114494309" font-size="18pt" text-anchor="middle" font-family="serif">4</text>

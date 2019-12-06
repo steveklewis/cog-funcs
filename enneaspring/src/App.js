@@ -21,6 +21,9 @@ function highlightNumbers(numbersToHighlight) {
 function App() {
 
   const [explanation, setExplanation] = useState('Welcome to the Enneagram');
+  const [legend, focusLegend] = useState('');
+
+  const [angerLegend, toggleAnger] = useState(false);
 
   return (
 
@@ -28,14 +31,16 @@ function App() {
           { props => (
 
     <div className="App" style={ props} >
-        <Legend setExplanation={setExplanation}/>
+        <Legend setExplanation={setExplanation} focusLegend={focusLegend} toggleAnger={toggleAnger} />
       <div>
       <header className="App-header">
         <title>Enneagram</title>
         <p class="whitetext"> {explanation}</p>
-        <Enneagram explain={explanation} color="white" />
+        <Enneagram legend={legend} explain={explanation} color="white" angerLegend={angerLegend} />
+
       </header>
     </div>
+    {legend}
     </div>
     )}
     </Spring>

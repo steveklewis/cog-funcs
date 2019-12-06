@@ -14,14 +14,20 @@ const Legend = (props) => {
   };
 
   function hoverFear() {
+    props.focusLegend('fear');
+    props.toggleAnger(false);
     props.setExplanation(explanations.fear);
   }
 
   function hoverShame() {
+    props.focusLegend('shame');
+    props.toggleAnger(false);
     props.setExplanation(explanations.shame);
   }
 
   function hoverAnger() {
+    props.toggleAnger(true);
+    props.focusLegend('anger');
     props.setExplanation(explanations.anger);
   }
   return <div class="legend">
