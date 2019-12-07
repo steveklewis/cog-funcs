@@ -23,7 +23,8 @@ function App() {
   const [explanation, setExplanation] = useState('Welcome to the Enneagram');
   const [legend, focusLegend] = useState('');
 
-  const [angerLegend, toggleAnger] = useState(false);
+  const [angerActive, toggleAnger] = useState(false);
+  const [shameActive, toggleShame] = useState(false);
 
   return (
 
@@ -31,12 +32,12 @@ function App() {
           { props => (
 
     <div className="App" style={ props} >
-        <Legend setExplanation={setExplanation} focusLegend={focusLegend} toggleAnger={toggleAnger} />
+        <Legend setExplanation={setExplanation} focusLegend={focusLegend} toggleAnger={toggleAnger} toggleShame={toggleShame} />
       <div>
       <header className="App-header">
         <title>Enneagram</title>
         <p class="whitetext"> {explanation}</p>
-        <Enneagram legend={legend} explain={explanation} color="white" angerLegend={angerLegend} />
+        <Enneagram legend={legend} explain={explanation} color="white" angerActive={angerActive} shameActive={shameActive} />
 
       </header>
     </div>
