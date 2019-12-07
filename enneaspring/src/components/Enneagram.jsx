@@ -26,10 +26,22 @@ const threeProps = useSpring({
     fontSize: props.shameActive ? "30pt": "18pt"
 });
 
+
+let fourText = props.shameActive ? '4 - Over-expresses shame': '4';
 const fourProps = useSpring({
-    x: !props.shameActive ? "41.0424171990803" : "90.1345131623847",
+    x: !props.shameActive ? "41.0424171990803" : "339",
+    y: !props.shameActive ? "112.763114494309" : "10",
     fontSize: props.shameActive ? "30pt": "18pt"
 });
+
+
+let fiveText = props.fearActive ? '5 - Over-expresses fear': '5';
+const fiveProps = useSpring({
+    x: !props.fearActive ? "-41.0424171990803" : "339",
+    y: !props.fearActive ? "112.763114494309" : "-90",
+    fontSize: props.fearActive ? "30pt": "18pt"
+});
+
 
 let eightText = props.angerActive ? '8 - Over-expresses Anger' : '8';
 
@@ -79,8 +91,8 @@ return <animated.svg xmlnsCc="http://creativecommons.org/ns#" xmlnsDc="http://pu
 <animated.text x={oneProps.x} y={oneProps.y} font-size={oneProps.fontSize} text-anchor="middle" font-family="serif">{oneText}</animated.text>
 <animated.text x={twoProps.x} y={twoProps.y} font-size={twoProps.fontSize} text-anchor="middle" font-family="serif">{twoText}</animated.text>
 <animated.text x={threeProps.x} y={threeProps.y} font-size={threeProps.fontSize} text-anchor="middle" font-family="serif">{threeText}</animated.text>
-<animated.text x={fourProps.x} y="112.763114494309" font-size={fourProps.fontSize} text-anchor="middle" font-family="serif">4</animated.text>
-<text x="-41.0424171990803" y="112.763114494309" font-size="18pt" text-anchor="middle" font-family="serif">5</text>
+<animated.text x={fourProps.x} y={fourProps.y} font-size={fourProps.fontSize} text-anchor="middle" font-family="serif">{fourText}</animated.text>
+<animated.text x={fiveProps.x} y={fiveProps.y} font-size={fiveProps.fontSize} text-anchor="middle" font-family="serif">{fiveText}</animated.text>
 <text x="-103.923048454133" y="60" font-size="18pt" text-anchor="middle" font-family="serif">6</text>
 <text x="-118.176930361465" y="-20.8377813200316" font-size="18pt" text-anchor="middle" font-family="serif">7</text>
 <animated.text x={eightProps.x} y={eightProps.y} font-size={eightProps.fontSize} text-anchor="middle" font-family="serif">{eightText}</animated.text>
