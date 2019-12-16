@@ -42,31 +42,62 @@ const threeProps = useSpring({
 
 
 let fourText = props.shameActive ? '4 - Over-expresses shame': '4';
+let fourX = (props.shameActive || props.fourActive) ? "339" : "41.0424171990803";
+let fourY = (props.shameActive || props.fourActive) ? "10": "112.763114494309";
+if (props.fourActive) {
+    fourText = '4 - Expresses shame as identity crisis.';
+    fourY = "-90";
+    fourX = "330";
+}
 const fourProps = useSpring({
-    x: !props.shameActive ? "41.0424171990803" : "339",
-    y: !props.shameActive ? "112.763114494309" : "10",
+    x: fourX,
+    y: fourY,
     fontSize: props.shameActive ? "30pt": "18pt"
 });
 
 
 let fiveText = props.fearActive ? '5 - Over-expresses fear': '5';
+let fiveX = (props.fearActive || props.fiveActive) ? "339" : "-41.0424171990803";
+let fiveY = (props.fearActive || props.fiveActive) ? "-90" : "112.763114494309";
+
+if (props.fiveActive) {
+    fiveText = '5 - Expresses fear as useless knowledge.';
+    fiveY = "-90";
+    fiveX = "330";
+}
 const fiveProps = useSpring({
-    x: !props.fearActive ? "-41.0424171990803" : "339",
-    y: !props.fearActive ? "112.763114494309" : "-90",
+    x: fiveX,
+    y: fiveY,
     fontSize: props.fearActive ? "30pt": "18pt"
 });
 
 let sixText = props.fearActive ? '6 - Over-controls fear': '6';
+let sixX = props.fearActive ? "327" : "-103.923048454133";
+let sixY = props.fearActive ? "-40" : "60";
+if (props.sixActive) {
+    sixText = '6 - Expresses fear as criticism.';
+    sixY = "-90";
+    sixX = "330";
+}
 const sixProps = useSpring({
-    x: !props.fearActive ? "-103.923048454133" : "327",
-    y: !props.fearActive ? "60" : "-40",
+    x: sixX,
+    y: sixY,
     fontSize: props.fearActive ? "30pt": "18pt"
 });
 
+
+
 let sevenText = props.fearActive ? '7 - Avoids fear': '7';
+let sevenX = !props.fearActive ? "-118.176930361465" : "153";
+let sevenY = !props.fearActive ? "-20.8377813200316" : "10";
+if (props.sevenActive) {
+    sevenText = '7 - Expresses fear as distraction.';
+    sevenY = "-90";
+    sevenX = "170";
+}
 const sevenProps = useSpring({
-    x: !props.fearActive ? "-118.176930361465" : "153",
-    y: !props.fearActive ? "-20.8377813200316" : "10",
+    x: sevenX,
+    y: sevenY,
     fontSize: props.fearActive ? "30pt": "18pt"
 });
 
@@ -87,25 +118,51 @@ const nineProps = useSpring({
 });
 
 function hoverOne() {
-  props.setExplanation("Ones need to get out of their body and move to Seven to get a healthier connection to their minds.");
+  props.setExplanation("Ones need to re-connect to their fear and move to Seven to get a healthier connection to who they are, without needless comparison to an ideal..");
   hoverNone();
   props.toggleOne(true);
 }
 
 function hoverTwo() {
+  props.setExplanation("Twos need to redirect their shame and move to Four to get a healthier connection to who they are, apart from everyone else.");
   hoverNone();
   props.toggleTwo(true);
 }
 
 function hoverThree() {
+  props.setExplanation("Threes need to re-connect to their fear and move to Six to get a healthier connection to who they are, apart from what they've accomplished.");
   hoverNone();
   props.toggleThree(true);
+}
+
+function hoverFour() {
+  hoverNone();
+  props.toggleFour(true);
+}
+
+function hoverFive() {
+  hoverNone();
+  props.toggleFive(true);
+}
+
+function hoverSix() {
+  hoverNone();
+  props.toggleSix(true);
+}
+
+function hoverSeven() {
+  hoverNone();
+  props.toggleSeven(true);
 }
 
 function hoverNone() {
   props.toggleOne(false);
   props.toggleTwo(false);
   props.toggleThree(false);
+  props.toggleFour(false);
+  props.toggleFive(false);
+  props.toggleSix(false);
+  props.toggleSeven(false);
   props.toggleFear(false);
   props.toggleShame(false);
   props.toggleAnger(false);
@@ -147,10 +204,10 @@ return (<animated.svg xmlnsCc="http://creativecommons.org/ns#" xmlnsDc="http://p
 <animated.text x={oneProps.x} y={oneProps.y} font-size={oneProps.fontSize} text-anchor="middle" font-family="serif" onMouseEnter={hoverOne}>{oneText}</animated.text>
 <animated.text x={twoProps.x} y={twoProps.y} font-size={twoProps.fontSize} text-anchor="middle" font-family="serif" onMouseEnter={hoverTwo}>{twoText}</animated.text>
 <animated.text x={threeProps.x} y={threeProps.y} font-size={threeProps.fontSize} text-anchor="middle" font-family="serif" onMouseEnter={hoverThree}>{threeText}</animated.text>
-<animated.text x={fourProps.x} y={fourProps.y} font-size={fourProps.fontSize} text-anchor="middle" font-family="serif">{fourText}</animated.text>
-<animated.text x={fiveProps.x} y={fiveProps.y} font-size={fiveProps.fontSize} text-anchor="middle" font-family="serif">{fiveText}</animated.text>
-<animated.text x={sixProps.x} y={sixProps.y} font-size={sixProps.fontSize} text-anchor="middle" font-family="serif">{sixText}</animated.text>
-<animated.text x={sevenProps.x} y={sevenProps.y} font-size={sevenProps.fontSize} text-anchor="left" font-family="serif">{sevenText}</animated.text>
+<animated.text x={fourProps.x} y={fourProps.y} font-size={fourProps.fontSize} text-anchor="middle" font-family="serif" onMouseEnter={hoverFour}>{fourText}</animated.text>
+<animated.text x={fiveProps.x} y={fiveProps.y} font-size={fiveProps.fontSize} text-anchor="middle" font-family="serif" onMouseEnter={hoverFive}>{fiveText}</animated.text>
+<animated.text x={sixProps.x} y={sixProps.y} font-size={sixProps.fontSize} text-anchor="middle" font-family="serif" onMouseEnter={hoverSix}>{sixText}</animated.text>
+<animated.text x={sevenProps.x} y={sevenProps.y} font-size={sevenProps.fontSize} text-anchor="left" font-family="serif" onMouseEnter={hoverSeven}>{sevenText}</animated.text>
 <animated.text x={eightProps.x} y={eightProps.y} font-size={eightProps.fontSize} text-anchor="middle" font-family="serif">{eightText}</animated.text>
 <animated.text x={nineProps.x} y={nineProps.y} font-size={nineProps.fontSize} text-anchor="middle" font-family="serif">{nineText}</animated.text>
 </g>

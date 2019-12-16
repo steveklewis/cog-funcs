@@ -12,7 +12,7 @@ const Legend = (props) => {
     'anger': 'Anger is the motivation for Enneagram Types Eight, Nine, and One.',
     'shame': 'Shame is the motivation for Enneagram Types Two, Three, and Four.',
     'one': "Enneagram One expresses anger as perfectionism.",
-    'none': ' '
+    'none': '---'
   };
 
   function hoverFear() {
@@ -52,6 +52,9 @@ const Legend = (props) => {
     props.toggleShame(false);
     props.toggleFear(false);
     props.toggleOne(false);
+    props.toggleTwo(false);
+    props.toggleThree(false);
+    props.toggleFour(false);
     props.setExplanation(explanations.none);
   }
 
@@ -69,9 +72,7 @@ const Legend = (props) => {
             </ul>
             <p>Behaviors</p>
             <ul>
-              <li onMouseEnter={hoverShame}>False identity</li>
-              <li onMouseEnter={hoverShame}>Useless knowledge</li>
-              <li onMouseEnter={hoverShame}></li>
+              <li onMouseEnter={hoverShame}>Unconstructive Criticism</li>
               <li onMouseEnter={hoverShame}>Distracted</li>
               <li onMouseEnter={hoverShame}>Bullying</li>
               <li onMouseEnter={hoverShame}>Conflict-avoiding</li>
