@@ -102,18 +102,31 @@ const sevenProps = useSpring({
 });
 
 let eightText = props.angerActive ? '8 - Over-expresses Anger' : '8';
-
+let eightX = !props.angerActive ? "-77.1345131623847" : "345";
+let eightY = !props.angerActive ? "-91.9253331742774" : "-40";
+if (props.eightActive) {
+    eightText = '8 - Expresses anger as bullying.';
+    eightY = "-90";
+    eightX = "330";
+}
 const eightProps = useSpring({
-    x: !props.angerActive ? "-77.1345131623847" : "345",
-    y: !props.angerActive ? "-91.9253331742774" : "-40",
+    x: eightX,
+    y: eightY,
     fontSize: props.angerActive ? "30pt": "18pt"
 });
 
 let nineText = props.angerActive ? '9 - Avoids Anger' : '9';
+let nineX = !props.angerActive ? "0" : "280";
+let nineY = !props.angerActive ? "-120" : "10";
 
+if (props.nineActive) {
+    nineText = '9 - Expresses anger as avoidance.';
+    nineY = "-90";
+    nineX = "330";
+}
 const nineProps = useSpring({
-    x: !props.angerActive ? "0" : "280",
-    y: !props.angerActive ? "-120" : "10",
+    x: nineX,
+    y: nineY,
     fontSize: props.angerActive ? "30pt": "18pt"
 });
 
@@ -155,6 +168,16 @@ function hoverSeven() {
   props.toggleSeven(true);
 }
 
+function hoverEight() {
+  hoverNone();
+  props.toggleEight(true);
+}
+
+function hoverNine() {
+  hoverNone();
+  props.toggleNine(true);
+}
+
 function hoverNone() {
   props.toggleOne(false);
   props.toggleTwo(false);
@@ -163,6 +186,8 @@ function hoverNone() {
   props.toggleFive(false);
   props.toggleSix(false);
   props.toggleSeven(false);
+  props.toggleEight(false);
+  props.toggleNine(false);
   props.toggleFear(false);
   props.toggleShame(false);
   props.toggleAnger(false);
@@ -208,8 +233,8 @@ return (<animated.svg xmlnsCc="http://creativecommons.org/ns#" xmlnsDc="http://p
 <animated.text x={fiveProps.x} y={fiveProps.y} font-size={fiveProps.fontSize} text-anchor="middle" font-family="serif" onMouseEnter={hoverFive}>{fiveText}</animated.text>
 <animated.text x={sixProps.x} y={sixProps.y} font-size={sixProps.fontSize} text-anchor="middle" font-family="serif" onMouseEnter={hoverSix}>{sixText}</animated.text>
 <animated.text x={sevenProps.x} y={sevenProps.y} font-size={sevenProps.fontSize} text-anchor="left" font-family="serif" onMouseEnter={hoverSeven}>{sevenText}</animated.text>
-<animated.text x={eightProps.x} y={eightProps.y} font-size={eightProps.fontSize} text-anchor="middle" font-family="serif">{eightText}</animated.text>
-<animated.text x={nineProps.x} y={nineProps.y} font-size={nineProps.fontSize} text-anchor="middle" font-family="serif">{nineText}</animated.text>
+<animated.text x={eightProps.x} y={eightProps.y} font-size={eightProps.fontSize} text-anchor="middle" font-family="serif" onMouseEnter={hoverEight}>{eightText}</animated.text>
+<animated.text x={nineProps.x} y={nineProps.y} font-size={nineProps.fontSize} text-anchor="middle" font-family="serif" onMouseEnter={hoverNine}>{nineText}</animated.text>
 </g>
 
 

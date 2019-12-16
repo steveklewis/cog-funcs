@@ -70,13 +70,6 @@ const Legend = (props) => {
               <li onMouseEnter={hoverAnger}>Anger</li>
               <li onMouseEnter={hoverShame}>Shame</li>
             </ul>
-            <p>Behaviors</p>
-            <ul>
-              <li onMouseEnter={hoverShame}>Unconstructive Criticism</li>
-              <li onMouseEnter={hoverShame}>Distracted</li>
-              <li onMouseEnter={hoverShame}>Bullying</li>
-              <li onMouseEnter={hoverShame}>Conflict-avoiding</li>
-            </ul>
             <p>Parts of the Self</p>
             <ul>
               <li>Head</li>

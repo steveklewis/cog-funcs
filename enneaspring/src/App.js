@@ -46,7 +46,7 @@ function App() {
       <div>
       <header className="App-header">
         <title>Enneagram</title>
-        <p class="whitetext"> The Enneagram is a simple tool that defines a mapping between motivation and behavior.</p>
+        <p class="whitetext"> The Enneagram is a simple tool that defines a mapping between motivation and behavior, and a mapping between motivation and parts of the self..</p>
         <Enneagram legend={legend} explain={explanation} setExplanation={setExplanation} color="white" angerActive={angerActive} shameActive={shameActive} fearActive={fearActive} oneActive={oneActive} twoActive={twoActive} threeActive={threeActive} fourActive={fourActive} fiveActive={fiveActive} sixActive={sixActive} sevenActive={sevenActive} eightActive={eightActive} nineActive={nineActive} toggleOne={toggleOne} toggleTwo={toggleTwo} toggleThree={toggleThree} toggleFour={toggleFour} toggleFive={toggleFive} toggleSix={toggleSix} toggleSeven={toggleSeven} toggleEight={toggleEight} toggleNine={toggleNine} toggleAnger={toggleAnger} toggleFear={toggleFear} toggleShame={toggleShame} />
 
         <p class="whitetext"> {explanation}</p>
