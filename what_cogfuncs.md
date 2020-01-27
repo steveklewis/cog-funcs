@@ -47,7 +47,7 @@ Two functions for attending to the world -
 
 Two functions for storing and retrieving knowledge -
 
-1. Between you and the things that happen in the concrete world. (Introverted Sensing - Si)
+1. Between you and the things that happen in the physical, concrete world. (Introverted Sensing - Si)
 1. Between you and the things that happen in the abstract world. (Introverted Intuition - Ni)
 
 As you can see, these are very, very, very abstract categories. But I believe that abstraction is necessary in order to properly categorize the world within and around us. It is much easier to find your way out of being lost if your categories are as precise as you can get them.
