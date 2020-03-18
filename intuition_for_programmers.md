@@ -10,24 +10,26 @@ Whether we know it or not, programmers use intuition every day. I believe it wou
 
 ## What is Intuition?
 
-Intuition is immediately grasped knowledge. Within the sphere of software programming, we experience it primarily as a solution to a problem that comes to us instantly and suddenly. We are stuck on a problem, we go away for a little while, or overnight, and the next thing we know, the solution comes to us, without any serious number crunching and almost, it seems, without effort.
+Intuition is immediately grasped knowledge. The source of this knowledge is not our eyes, or ears, or any sort of machination that we can break down and analyze. Intuition seems to skip all of that machinery and upload knowledge directly into our minds. Within the sphere of software programming, we experience it primarily as a solution to a problem that comes to us instantly and suddenly. We are stuck on a problem, we go away for a little while, or overnight, and the next thing we know, the solution comes to us, without any serious number crunching and almost, it seems, without effort. Somehow, our mind searches for a solution and appears to skip the actual execution of the search algorithm. It almost seems like we're plugged into a different reality. 
 
-These experiences are some of the most rewarding and satisfying experiences we can have as programmers. Without occasional realizations of solutions, programming can get dull and dreary, as we have to grind on a problem. We lose our ability to think quickly and trudge along in 
-
+These experiences are some of the most rewarding and satisfying experiences we can have as programmers. Without occasional realizations of solutions, programming can get dull and dreary, as we have to grind on a problem. We lose our ability to think quickly and trudge along as our slower, logical mind tries to catch up by verifying the validity of our intuitions, and the consistency of our conclusions against our assumptions. For the most part, these intuitions lie outside of our direct control. But there are things we can do to allow our intuitions to more effectively help us find solutions, which leads us to an analysis of the nature of intuitions.
 
 ## The Kinds of Intuition
 
-
-Carl Jung categorized intuition as an irrational, or non-rational function. Carl Jung made a distinction between two kinds of intuition based on an intuition's orientation: extraverted intuitions and introverted intuitions.
+Carl Jung made a distinction between two kinds of intuition based on an intuition's orientation: extraverted intuitions and introverted intuitions.
 
 ### Introverted Intuition
 
-Introverted Intuition is a further breakdown of the category of intuition. For us, as programmers, we would experience it as the abstractions that we are all familiar with, that we use everyday. The design patterns, best practices, business rules. Introverted Intuition is already-known abstractions. They are conclusions that come after years of experience and practice that have been abstracted out into wise rules for programming. 
+Introverted Intuition is a further breakdown of the category of intuition. For us, as programmers, we would experience it as the abstractions that we are all familiar with, that we use everyday. The design patterns, best practices, business rules. Introverted Intuition is already-known abstractions. They are conclusions that come after years of experience and practice that have been abstracted out into wise rules for programming. In software terms, introverted intuition is previously-stored abstract data. This is the knowledge that has stood the test of time.
 
+static, synthesized
 
 ### Extraverted Intuition
 
 Extraverted Intuition is the power of intuition oriented towards an external world. This external world is not physical. It is the abstract stream of consciousness that plays words in your head, reminds you of embarassing things, and shows you solutions to difficult software problems.
+
+dynamic, synthesizing
+
 
 The thing about intuitions is that they are separated from the physical world. There are good things and bad things about that. But they appear to us primarily as abstractions, and so aren't as fully grounded as the facts of sensation.
 
@@ -42,7 +44,14 @@ The Sweet-Spot for Intuition
 
 
 
-The Limits of Intuition
+## The Limits of Intuition
+
+
+### The Limits of Introverted Intuition
+
+The danger with an over-reliance on intuition is that you won't be able to tackle new problems. By focusing on best practices and already-received solutions, new solutions won't come to the fore.
+
+### The Limits of Extraverted Intuition
 
 The thing about intuitions is that they're all in our head. As programmers, we are used to, and can quite enjoy, living inside our head. While intuitions have a reality about them, compared to the outside world that we can see and hear and touch, intuitions are abstractions. They symbolize things and relationships that we find in the concrete world.
 
