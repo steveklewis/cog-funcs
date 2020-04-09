@@ -10,6 +10,20 @@ Whether we know it or not, programmers use intuition every day. I believe it wou
 
 ## What is Intuition?
 
+Intuition is a real place. It's the place of ideas, imagination, and abstractions. And it's the place where we tap into our creativity. Within that world lies the force that powers creativity. And just like any other world, there are laws and rules and a logic that applies to that world. 
+
+
+
+That power within intuition generates possibilities for creative activities. Without the ability to pose possibilities, creativity would never get going. We would be stuck with the status quo. Luckily, we are not stuck, but we have a stage on which our creativity can play, and that is the sphere of intuition. Intuition is a world of its own, with laws of its own, and requiring certain inputs to drive creativity, so that we can get the outputs that we can use in our creative endeavors. Intuition shows up in certain forms, and we need to be able to recognize it when we are and when we are not intuiting. This allows us to decipher when we are in a mode that will encourage creativity.
+
+In many ways, as programmers, we are familiar with the world of intuition. It is the world of abstractions 
+
+One of the difficult things about intuition is its unpredictability. It's not a simple matter of input and output, like a program. It's not a machine where all of its movements can be understood and outlined.
+
+
+
+I want to go over the shape of things that go into intuition, the shape of things that come out of intuition, and the terrain of intuition itself.
+
 The product of intuition is immediately grasped knowledge. The source of this knowledge is not our eyes, or ears, or any sort of machination that we can break down and analyze. Intuition seems to skip all of that machinery and upload mental connections directly into our minds. Within the sphere of software programming, we experience it primarily as a solution to a problem that comes to us instantly and suddenly. We are stuck on a problem, we go away for a little while, or overnight, and the next thing we know, the solution comes to us, without any serious number crunching and almost, it seems, without effort. Somehow, our mind searches for a solution and appears to skip the actual execution of the search algorithm. It almost seems like we're plugged into a different reality. 
 
 If I were to give a definition for intuition, it would be the following: intuition is the art of putting ideas together. What was disconnected becomes connected. What was an unreachable outcome becomes possible.
