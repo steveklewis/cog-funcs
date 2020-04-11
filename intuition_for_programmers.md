@@ -14,24 +14,12 @@ Intuition is a real place. It's the place of ideas, imagination, and abstraction
 
 That power within intuition generates possibilities for creative activities. Without the ability to pose possibilities, creativity would never get going. We would be stuck with the status quo. Luckily, we are not stuck, but we have a stage on which our creativity can play, and that is the sphere of intuition. Intuition is a landscape of its own, with laws of its own, and requiring certain inputs to drive creativity, so that we can get the outputs that we can use in our creative endeavors. Intuition shows up in certain ways, and we need to be able to recognize it when we are and when we are not intuiting. This allows us to decipher when we are in a mode that will encourage creativity. I want to go over the shape of things that go into intuition, the shape of things that come out of intuition, and the terrain of intuition itself.
 
-Intuition is not merely a category, with its own characteristics and definition. It is a real place. It is a landscape with borders and shape. It's not just an amorphous blob from which random thoughts come out of in the process of discovering something new. There is a certain fuzziness to intuition, but it is not a completely night-filled domain.
+Intuition is not merely a category, with its own characteristics and definition. It is a real place. It is a landscape with borders and shape. It's not just an amorphous blob from which random thoughts come out of in the process of discovering something new. It is the space where we put abstract things together. Accordingly, we need to make sure our skills in the realm of intuition are up to par, so that we can best cultivate our chances of being creative.
 
-It's not a place to escape to. It can be used in that way, but that way lies confusion and a complete lack of creative solutions. It's a place to plug in to, to connect the abstract world to the real world, to synthesize creations that haven't been seen before.
-
-One of the difficult things about intuition is its unpredictability. It's not a simple matter of input and output, like a program. It's not a machine where all of its movements can be understood and outlined.
-
-
-
-
-The product of intuition is immediately grasped knowledge. The source of this knowledge is not our eyes, or ears, or any sort of machination that we can break down and analyze. Intuition seems to skip all of that machinery and upload mental connections directly into our minds. Within the sphere of software programming, we experience it primarily as a solution to a problem that comes to us instantly and suddenly. We are stuck on a problem, we go away for a little while, or overnight, and the next thing we know, the solution comes to us, without any serious number crunching and almost, it seems, without effort. Somehow, our mind searches for a solution and appears to skip the actual execution of the search algorithm. It almost seems like we're plugged into a different reality. 
-
-If I were to give a definition for intuition, it would be the following: intuition is the art of putting ideas together. What was disconnected becomes connected. What was an unreachable outcome becomes possible.
-
-These experiences are some of the most rewarding and satisfying experiences we can have as programmers. Without occasional realizations of solutions, programming can get dull and dreary, as we have to grind on a problem. We lose our ability to think quickly and trudge along as our slower, logical mind tries to catch up by verifying the validity of our intuitions, and the consistency of our conclusions against our assumptions. For the most part, these intuitions lie outside of our direct control. But there are things we can do to allow our intuitions to more effectively help us find solutions.
 
 ## The Kinds of Intuition
 
-Carl Jung made a distinction between two kinds of intuition based on an intuition's orientation: extraverted intuitions and introverted intuitions.
+Carl Jung made a distinction between two kinds of intuition based on an intuition's orientation: extraverted intuitions and introverted intuitions. These two categories of intuition are differentiated based on what he called orientation. Orientation describes the attitude of our attention. Our attention is either directed outward, or inward. And this orientation, just by nature of its direction, allows attention to pay attention to different kinds of things within the world of intuition.
 
 ### Introverted Intuition
 
@@ -41,12 +29,12 @@ static, synthesized
 
 ### Extraverted Intuition
 
-Extraverted Intuition is the power of intuition oriented towards an external world. This external world is not physical. It is the abstract stream of consciousness that plays words in your head, reminds you of embarassing things, and shows you solutions to difficult software problems.
+Extraverted Intuition is the power of intuition oriented towards an external world. This external world is not physical. It is the abstract stream of consciousness that plays words in your head, reminds you of embarassing things, and shows you solutions to difficult software problems. What does it mean to be oriented externally? When it comes to intuition, even though the world of intuition is inside my head, it is external to me because it is not me. I can participate in the world of intuition, but I do not have absolute control over it. Thoughts happen. They come in and out of my head, and while I can do some directing of my attention in thinking various thoughts, there are times when it behaves like a world with rules that I have not chosen. That's why it is external to me and can be considered as having an extraverted orientation.
+
 
 dynamic, synthesizing
 
 
-The thing about intuitions is that they are separated from the physical world. There are good things and bad things about that. But they appear to us primarily as abstractions, and so aren't as fully grounded as the facts of sensation.
 
 While we can appreciate the immediacy of intuitions, they can affect us only indirectly. We create systems, based on these abstractions, that are able to push and pull on the physical world.
 
@@ -78,3 +66,8 @@ Priming the Pump of Intuition
 Conclusion
 
 
+These experiences are some of the most rewarding and satisfying experiences we can have as programmers. Without occasional realizations of solutions, programming can get dull and dreary, as we have to grind on a problem. We lose our ability to think quickly and trudge along as our slower, logical mind tries to catch up by verifying the validity of our intuitions, and the consistency of our conclusions against our assumptions. For the most part, these intuitions lie outside of our direct control. But there are things we can do to allow our intuitions to more effectively help us find solutions.
+It's not a place to escape to. It can be used in that way, but that way lies confusion and a complete lack of creative solutions. It's a place to plug in to, to connect the abstract world to the real world, to synthesize creations that haven't been seen before.
+One of the difficult things about intuition is its unpredictability. It's not a simple matter of input and output, like a program. It's not a machine where all of its movements can be understood and outlined.
+The product of intuition is immediately grasped knowledge. The source of this knowledge is not our eyes, or ears, or any sort of machination that we can break down and analyze. Intuition seems to skip all of that machinery and upload mental connections directly into our minds. Within the sphere of software programming, we experience it primarily as a solution to a problem that comes to us instantly and suddenly. We are stuck on a problem, we go away for a little while, or overnight, and the next thing we know, the solution comes to us, without any serious number crunching and almost, it seems, without effort. Somehow, our mind searches for a solution and appears to skip the actual execution of the search algorithm. It almost seems like we're plugged into a different reality. 
+If I were to give a definition for intuition, it would be the following: intuition is the art of putting ideas together. What was disconnected becomes connected. What was an unreachable outcome becomes possible.
