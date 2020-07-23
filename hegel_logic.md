@@ -1,6 +1,6 @@
 # Hegel's Logic: Two Moves from Being to Becoming
 
-Recently, I finished reading Stephen Houlgate's _The Opening of Hegel's Logic_. I would like to run through the two basic logical operations that Hegel uses to derive each category. Once he has established his preliminary definition of Being, he only uses these two logical operations.
+Recently, I finished reading Stephen Houlgate's _The Opening of Hegel's Logic_. After reading it, my understanding of Hegel's project in the Logic is to derive categories that we use, starting with the least-defined, moving towards the most-defined. I would like to run through the two basic logical operations that Hegel uses to derive each category. Once he has established his preliminary definition of Being, he only uses these two logical operations.
 
 ## Hegel's Logical Chess
 
