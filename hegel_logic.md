@@ -1,6 +1,10 @@
 # Hegel's Logic: Two Moves from Being to Becoming
 
-Recently, I finished reading Stephen Houlgate's _The Opening of Hegel's Logic_. After reading it, my understanding of Hegel's project in the Logic is to derive categories that we use, starting with the least-defined, moving towards the most-defined. I would like to run through the two basic logical operations that Hegel uses to derive each category. Once he has established his preliminary definition of Being, he only uses these two logical operations.
+Recently, I finished reading Stephen Houlgate's _The Opening of Hegel's Logic_. I had decided to read it after reading Immanuel Kant's _Critique of Pure Reason_ two years ago and Soren Kierkegaard's _Concluding Unscientific Postscript_. Hegel is the major philosopher sandwhiched in time between the towering genius of Kant and the incisive critique of Kierkegaard. Primarily, Kierkegaard's criticism of systems is aimed at Hegel.
+
+However, the primary reason I decided to learn about Hegel was his project around categories in the Logic. For Kant, categories are extremely important to his own project, but Kant assumes them, and does not try to prove or derive or substantiate the categories themselves. Hegel attempts to do just that.
+
+And so, after reading Houlgate's book on the Logic, my understanding of Hegel's project in the Logic is to derive categories that we use, starting with the least-defined, moving towards the most-defined. I would like to run through the two basic logical operations that Hegel uses to derive each category. Once he has established his preliminary definition of Being, he only uses these two logical operations.
 
 ## Hegel's Logical Chess
 
