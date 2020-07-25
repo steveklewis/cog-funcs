@@ -8,7 +8,7 @@ And so, after reading Houlgate's book on the Logic, my understanding of Hegel's 
 
 ## Hegel's Logical Chess
 
-From what I've gathered, after reading Stephen Houlgate's book, is that Hegel only uses two moves in the Logic. It's like Hegel has challenged himself to a game of Logical Chess and it has a weird chessboard and there are only two pieces. Hegel's first piece is that of the Negater. When it moves to an opponent's piece it negates that piece. If it were chess, it would turn a pawn into a king, or a rook into a bishop. Hegel's second Logical Chess piece is the Observer. It takestwo pieces and observes the connection between the two, creating a third.
+From what I've gathered, after reading Stephen Houlgate's book, is that Hegel only uses two moves in the Logic. It's like Hegel has challenged himself to a game of Logical Chess and it has a weird chessboard and there are only two pieces. Hegel's first piece is that of the Negater. When it moves to an opponent's piece it negates that piece. If it were chess, it would turn a pawn into a king, or a rook into a bishop. Hegel's second Logical Chess piece is the Observer. It takes two pieces and observes the connection between the two, creating a third.
 
 ## The First Move: From Being to Nothing
 
