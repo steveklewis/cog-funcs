@@ -16,9 +16,24 @@ Hegel starts with his most definition of Being: "indeterminate immediacy." Hegel
 
 Therefore, since we have a single operand that Hegel has given us (Being), and we have an operation that only requires one operand (negation), we can execute the first move in Hegel's logic. The negation of Being, is Nothing. What's the opposite of being other than nothing? It seems almost obvious.
 
+## The Origin of Hegel's First Move
+
+Hegel got his first move from Rene Descartes. When discussing the relationship between the infinite and the finite, he poses, that perhaps the idea that we don't have a true, direct understanding of the infinite, but only perceive "... the infinite ...  merely by negating the finite ...." That idea of negation, of moving from one idea to another, is where Hegel got the idea of his first move.
+
+## The Necessity of a Second Move
+
+Now, Hegel could not play his game of Logical Chess for long if he only had one move. He could negate, and thereby take one step forward. But if he negates what he just negated, he will have made one step forward and one step backward. He will arrive back where he came. In order to continue his project, Hegel needs way to move beyond negation. That second operation is observation.
+
 ## The Second Move: From Being and Nothing to Becoming
 
 The first move was that of negation. Now that we have two ideas, Being and Nothing, we need to do something else, and that second move is observing. We need to observe the logical relationship between Being and Nothing. Hegel has already defined Being as indeterminate immediacy. And yet Nothing, even though it is the negation of Being, also has this same structural definition, or lack thereof. The Nothing is also indeterminate immediacy.
 
 Because Being and Nothing have identical structures, even though we know they are different ideas, logically they bleed into one another, because they are equally indeterminate and equally immediate. Our mind's eye tries to hold onto Being, but it is led to Nothing. If we try to focus on Nothing, we are led to ponder Being. Logically, it creates a shimmering effect, as Stephen Houlgate says, or a flickering. By observing Being and Nothing, we have observed a flickering instability in its relationship, and that instability leads us to another concept: Becoming. Becoming is that shimmering, that flickering, that unsettled, ever-changing flux.
 
+## The Meaning of the Second Move
+
+Hegel's project is an attempt to get beyond <a href="https://en.wikipedia.org/wiki/Kant%27s_antinomies">Kant's antinomies</a>, where we are stuck in logical contradictions with no way to decide which one is true. According to Kant, reason alone can not help us navigate our way out of the logical contradictions we come across. Hegel is trying to find a way out of this logical impasse, and so his second move, that of observation, tries to perceive the logical movement implied in the relationship between two categories. Each concept, each category, has a structure, and the relationships between those two structures moves thought naturally to another category. It is like following the natural line of the sealine as we stand on the shore. Our eye wants to follow the shoreline to the horizon. Similarly, when we consider two or more categories, our mind automatically tries to follow the shape of those categories to see what is different, or what is common, or our intuition presents us with a third category, somehow connected to the others.
+
+## The Meaning of Hegel's Two Moves
+
+Hegel is attempting to painstakingly create a system of concepts that naturally lead to each other, by exercising the minimum logical effort to move between the concepts in that system. He is trying, unlike Kant, to not assume certain categories are automatically assumed, and to see where the mind slowly leads as it ponders the concepts before it. In my opinion, it is a fascinating thought experiment, and one that can help us understand how categories work and how to move between them.
