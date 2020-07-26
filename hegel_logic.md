@@ -10,6 +10,10 @@ And so, after reading Houlgate's book on the Logic, my understanding of Hegel's 
 
 From what I've gathered, after reading Stephen Houlgate's book, is that Hegel only uses two moves in the Logic. It's like Hegel has challenged himself to a game of Logical Chess and it has a weird chessboard and there are only two pieces. Hegel's first piece is that of the Negater. When it moves to an opponent's piece it negates that piece. If it were chess, it would turn a pawn into a king, or a rook into a bishop. Hegel's second Logical Chess piece is the Observer. It takes two pieces and observes the connection between the two, creating a third.
 
+## The Starting Point: Being
+
+Why does Hegel start with Being? Well, he needs a starting point for his project. He is attempting to avoid all assumptions and presuppositions in constructing his philosophy. For Hegel, the thought of Being is that minimal starting point. What is the thought that assumes the least about reality and about itself. It is the simple thought of Being. There's no structure, no definition, no color, no shape, nothing that our mind can hold onto as a concrete reality. But we think. We have to think. But we can attempt to start with the smallest possible idea we can find, and for Hegel, like many other philosophers before him, thought begins with the thought of Being.
+
 ## The First Move: From Being to Nothing
 
 Hegel starts with his most definition of Being: "indeterminate immediacy." Hegel attempts to start with the most basic of concepts, and make the smallest logical move possible to build up more complicated ideas. That smallest logical move possible is that of negation. Negation is the simplest logical operation. It takes a single something, and returns the opposite of that something. It's the simplest because all other logical operations require more than one something. For instance, in mathematics, the addition operation requires two operands. In constrast, negation only requires a single operand.
@@ -32,7 +36,11 @@ Because Being and Nothing have identical structures, even though we know they ar
 
 ## The Meaning of the Second Move
 
+To speak of Becoming we must discuss Heraclitus.
+
 Hegel's project is an attempt to get beyond <a href="https://en.wikipedia.org/wiki/Kant%27s_antinomies">Kant's antinomies</a>, where we are stuck in logical contradictions with no way to decide which one is true. According to Kant, reason alone can not help us navigate our way out of the logical contradictions we come across. Hegel is trying to find a way out of this logical impasse, and so his second move, that of observation, tries to perceive the logical movement implied in the relationship between two categories. Each concept, each category, has a structure, and the relationships between those two structures moves thought naturally to another category. It is like following the natural line of the sealine as we stand on the shore. Our eye wants to follow the shoreline to the horizon. Similarly, when we consider two or more categories, our mind automatically tries to follow the shape of those categories to see what is different, or what is common, or our intuition presents us with a third category, somehow connected to the others.
+
+
 
 ## The Meaning of Hegel's Two Moves
 
