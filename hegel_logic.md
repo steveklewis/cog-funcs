@@ -16,7 +16,7 @@ Why does Hegel start with Being? Well, he needs a starting point for his project
 
 ## The First Move: From Being to Nothing
 
-Hegel starts with his most definition of Being: "indeterminate immediacy." Hegel attempts to start with the most basic of concepts, and make the smallest logical move possible to build up more complicated ideas. That smallest logical move possible is that of negation. Negation is the simplest logical operation. It takes a single something, and returns the opposite of that something. It's the simplest because all other logical operations require more than one something. For instance, in mathematics, the addition operation requires two operands. In constrast, negation only requires a single operand.
+Hegel starts with his definition of Being: "indeterminate immediacy." Hegel attempts to start with the most basic of concepts, and make the smallest logical move possible to build up more complicated ideas. That smallest logical move possible is that of negation. Negation is the simplest logical operation. It takes a single something, and returns the opposite of that something. It's the simplest because all other logical operations require more than one something. For instance, in mathematics, the addition operation requires two operands. In constrast, negation only requires a single operand.
 
 Therefore, since we have a single operand that Hegel has given us (Being), and we have an operation that only requires one operand (negation), we can execute the first move in Hegel's logic. The negation of Being, is Nothing. What's the opposite of being other than nothing? It seems almost obvious.
 
