@@ -36,11 +36,7 @@ Because Being and Nothing have identical structures, even though we know they ar
 
 ## The Meaning of the Second Move
 
-To speak of Becoming we must discuss Heraclitus.
-
 Hegel's project is an attempt to get beyond <a href="https://en.wikipedia.org/wiki/Kant%27s_antinomies">Kant's antinomies</a>, where we are stuck in logical contradictions with no way to decide which one is true. According to Kant, reason alone can not help us navigate our way out of the logical contradictions we come across. Hegel is trying to find a way out of this logical impasse, and so his second move, that of observation, tries to perceive the logical movement implied in the relationship between two categories. Each concept, each category, has a structure, and the relationships between those two structures moves thought naturally to another category. It is like following the natural line of the sealine as we stand on the shore. Our eye wants to follow the shoreline to the horizon. Similarly, when we consider two or more categories, our mind automatically tries to follow the shape of those categories to see what is different, or what is common, or our intuition presents us with a third category, somehow connected to the others.
-
-
 
 ## The Meaning of Hegel's Two Moves
 
