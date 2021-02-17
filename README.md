@@ -6,6 +6,9 @@
 
 * [What Are Cognitive Functions](what_cogfuncs.md)
 
+* [Cognitive Functions Are Functional](cog_funcs_are_functional.md)
+
+
 
 Inspired by:
 
