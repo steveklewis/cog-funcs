@@ -35,4 +35,10 @@ In this quadrant, we first get sight of the cognitive function Extraverted Intui
 
 ## The Third Quadrant: Analytical and *a posteriori*
 
-The Third Quadrant is the first one that includes knowledge of the concrete, physical world. Our concepts and definitions are less abstract and can include ideas like "cat" and "dog." 
+The Third Quadrant is the first one that includes knowledge of the concrete, physical world. Our concepts and definitions are less abstract and can include ideas like "cat" and "dog." We aren't actively referencing the material world, but we are remembering what we have encountered, our experiences, the facts of various situations, and bringing that to bear on our concepts and judgments.
+
+In this mode, we are not exercising Introverted Thinking and Introverted Feeling, but their cousins, Extraverted Thinking and Extraverted Feeling. Te and Fe are synthetical in their nature, as they try to combine the the principles we have and the experiences we have encountered. We still have reference to the abstractions that Introverted Intuition brings us, but we add the concrete experiences from Introverted Sensing.
+
+## The Fourth Quadrant: Synthetical and *a posteriori*
+
+Here, finally, we come to the realm where we can actually do science. Science combines all of our experiences and principles and attempts to discover rules about how the contrete world follows abstract laws.
