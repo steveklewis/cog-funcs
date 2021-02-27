@@ -14,7 +14,7 @@ Kant also distinguishes between something he calls the analytical and the syneth
 | | analytical | synthetical |
 | ---- | --- | --- |
 | *a priori* | Ti, Fi, Ni |  Ti, Fi, Ni, Ne |
-| *a posteriori* | Te, Fe, Ni, Si | Te, Fe, Se, Si, Ni |
+| *a posteriori* | Te, Fe, Ni, Si | Te, Fe, Ni, Si, Se |
 
 
 ## The First Quadrant: Analytical and *a priori*
