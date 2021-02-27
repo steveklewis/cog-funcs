@@ -12,6 +12,8 @@ Kant also distinguishes between something he calls the analytical and the syneth
 
 ## The Kantian Matrix
 
+The Cognitive Functions are a set of categories. It's a way of dividing the world into eight categories. One way to clarify the boundaries of these categories is to slot them into another set of categories. In my interpretation, Jung's Cognitive Functions perfectly fit into a set of categories that Kant uses from the beginning of "The Critique of Pure Reason." In this matrix, along one axis is the analytical and synthetical distinction. Along the other matrix is the *a priori* and *a posteriori* distinction.
+
 | | analytical | synthetical |
 | ---- | --- | --- |
 | *a priori* | Ti, Fi, Ni |  Ti, Fi, Ni, Ne |
