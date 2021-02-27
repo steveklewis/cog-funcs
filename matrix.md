@@ -10,6 +10,7 @@ For Immanuel Kant, one of the major distinctions he tried to make was that betwe
 
 Kant also distinguishes between something he calls the analytical and the synethetical. The analytical are those modes of thought that only reference definitions and nothing outside of those definitions. The synthetical modes of thought bring in concepts or experiences outside of those definitions to add to already-known definitions.
 
+## The Kantian Matrix
 
 | | analytical | synthetical |
 | ---- | --- | --- |
