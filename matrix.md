@@ -4,17 +4,17 @@ In this essay I would like to share a schema that Immanuel Kant first came up wi
 
 ## The Distinction Between *a priori* and *a posteriori*
 
-For Immanuel Kant, one of the major distinctions he tried to make was that between a priori and a posteriori cognitions. Those cognitions that we have without reference to concrete perceptions of the outside world, he termed *a priori*, before experience. Those cognitions that we have that reference the external, physical world, he termed *a posteriori*, after experience.
+For Immanuel Kant, one of the major distinctions he tried to make was that between *a priori* and *a posteriori* cognitions. *a priori* is Latin for "before," and *a posteriori* is Latin for after. Those cognitions that we have without reference to concrete perceptions of the outside world, he termed *a priori*, before experience. Those cognitions that we have that reference the external, physical world, he termed *a posteriori*, after experience.
 
 ## The Distinction Between Analytical and Synthetical
 
-Kant also distinguishes between something he calls the analytical and the synethetical. The analytical are those modes of thought that only reference definitions and nothing outside of those definitions. The synthetical modes of thought bring in concepts or experiences outside of those definitions to add to already-known definitions.
+Kant also distinguishes between something he calls the analytical and the synethetical. The analytical are those modes of thought that only reference definitions and nothing outside of those definitions. An example of an analytical idea would be the number three. We can imagine three things in our mind without having to see three things. The synthetical modes of thought bring in concepts or experiences outside of those definitions to add to already-known definitions. An example of a synthetical idea would be the concept for a tree. We have to have seen a tree to fully imagine how complicated it is.
 
 ## The Kantian Matrix
 
-The Cognitive Functions are a set of categories. It's a way of dividing the world into eight categories. One way to clarify the boundaries of these categories is to slot them into another set of categories. In my interpretation, Jung's Cognitive Functions perfectly fit into a set of categories that Kant marks out from the beginning of "The Critique of Pure Reason." Kant's set of categories can be organized visually into a matrix. In this matrix, along one axis is the analytical and synthetical distinction. Along the other matrix is the *a priori* and *a posteriori* distinction.
+The Cognitive Functions are a set of categories. It's a way of dividing the world into eight categories. One way to clarify the boundaries of these categories is to slot them into another set of categories. In my interpretation, Jung's Cognitive Functions perfectly fit into a set of categories that Kant marks out from the beginning of "The Critique of Pure Reason." Kant's set of categories can be organized visually into a matrix. In this matrix, along one axis is the analytical and synthetical distinction. Along the other matrix is the *a priori* and *a posteriori* distinction. From there we can place each Cognitive Function in its propery category according to Kant's schema:
 
-| | analytical | synthetical |
+| | Analytical | Synthetical |
 | ---- | --- | --- |
 | *a priori* | Ti, Fi, Ni |  Ti, Fi, Ni, Ne |
 | *a posteriori* | Te, Fe, Ni, Si | Te, Fe, Ni, Si, Se |
