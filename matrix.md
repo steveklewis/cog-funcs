@@ -8,5 +8,5 @@
 
 | | analytical | synthetical |
 | ---- | --- | --- |
-| a prior | a |  b |
-| a posteriori | c | d |
+| a priori | Ti, Fi, Ni |  Ti, Fi, Ni, Ne |
+| a posteriori | Te, Fe, Ni, Si | Te, Fe, Se, Si, Ni |
