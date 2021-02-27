@@ -1,6 +1,6 @@
 # The Kantian Matrix for Cognitive Functions
 
-In this essay I would like to share a schema that Immanuel Kant first came up with and used extensively in his first treatise, "The Critique of Pure Reason." I believe that it was foundational to Jung's understanding of Cognitive Functions, since he was, philosophically, a Neo-Kantian. I hope that an explanation of some of Kant's terminology will help to illuminate what Jung was really trying to do when he named the eight Cognitive Functions, and so allow us to find better definitions for the eight categories.
+In this essay I would like to share a schema that Immanuel Kant first came up with and used extensively in his first treatise, "The Critique of Pure Reason." I believe that it was foundational to Jung's understanding of Cognitive Functions, since he was, philosophically, a Neo-Kantian. I hope that an explanation of some of Kant's terminology will help to illuminate what Jung was really trying to do when he named the eight Cognitive Functions, and so allow us to find better definitions for the eight categories. These categories are made up of multiple distinctions, and allow us to navigate the world efficiently and effectively. A single distinction divides the world in two. Distinctions help us make sense of the world. It helps us to figure out where to go up or down, left or right, whether what we do is right or wrong, and whether what we are pursuing is what we want, or what we do not want. Immanuel Kant makes use of some very abstract distinctions as the theoretical foundation for his critique of pure reason.
 
 ## The Distinction Between *a priori* and *a posteriori*
 
@@ -45,3 +45,7 @@ In this mode, we are not exercising Introverted Thinking and Introverted Feeling
 ## The Fourth Quadrant: Synthetical and *a posteriori*
 
 Here, finally, we come to the realm where we can actually do science. Science combines all of our experiences and principles and attempts to discover rules about how the contrete world follows abstract laws.
+
+## Cognitive Functions and the Limits of Our Attention
+
+One of the basic points of Cognitive Functions is to explain how we cannot focus on everything at once. Our mind has limits, and so if we attend to one quadrant, we will necessarily be not as attentive to the other three quadrants. It helps explain why we have strengths and weaknesses. It explains what we love, and the reason why.
