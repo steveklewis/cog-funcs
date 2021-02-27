@@ -12,7 +12,7 @@ Kant also distinguishes between something he calls the analytical and the syneth
 
 ## The Kantian Matrix
 
-The Cognitive Functions are a set of categories. It's a way of dividing the world into eight categories. One way to clarify the boundaries of these categories is to slot them into another set of categories. In my interpretation, Jung's Cognitive Functions perfectly fit into a set of categories that Kant uses from the beginning of "The Critique of Pure Reason." In this matrix, along one axis is the analytical and synthetical distinction. Along the other matrix is the *a priori* and *a posteriori* distinction.
+The Cognitive Functions are a set of categories. It's a way of dividing the world into eight categories. One way to clarify the boundaries of these categories is to slot them into another set of categories. In my interpretation, Jung's Cognitive Functions perfectly fit into a set of categories that Kant marks out from the beginning of "The Critique of Pure Reason." Kant's set of categories can be organized visually into a matrix. In this matrix, along one axis is the analytical and synthetical distinction. Along the other matrix is the *a priori* and *a posteriori* distinction.
 
 | | analytical | synthetical |
 | ---- | --- | --- |
@@ -22,9 +22,9 @@ The Cognitive Functions are a set of categories. It's a way of dividing the worl
 
 ## The First Quadrant: Analytical and *a priori*
 
-In the analytical and *a priori* quadrant, we place the kind of thinking that pretends that all there is, is thinking. It references the kind of thinking Descartes was trying to do when he came up with, "I think, therefore I am." Thoughts are happening, therefore I exist. It is focused on the meanings within the definitions, and does not attempt to reference anything outside of those definitions.
+In the analytical and *a priori* quadrant, the focus of the mind is on the definitions and ideas and concepts themselves. Apart from what they might entail, these are the abstract definitions that make up what we usually think of as abstract thought. This quadrant is also *a priori* because it has no reference to the material world. It focuses on the world of pure abstract definitions, or at least it pretends to. To me, that implies that in this quadrant we can experience Introverted Intuition, as the cognitive function representing abstract ideas, as well as the introverted judging functions, Introverted Thinking and Introverted Feeling. In this kind of thinking, Ti and Ni focus exclusively on the abstractions and attempt to not go outside of those strict definitional boundaries.
 
-This quadrant is also *a priori* because it has to reference to the material world. It focuses on the world of pure abstract definitions, or at least it pretends to. To me, that implies that in this quadrant we can experience Introverted Intuition, as the cognitive function representing abstract ideas, as well as the introverted judging functions, Introverted Thinking and Introverted Feeling. In this kind of thinking, Ti and Ni focus exclusively on the abstractions and attempt to not go outside of those strict logical boundaries.
+Kant explains how the first quadrant is indeed "highly important and necessary, they are so, only to arrive at the clearness of conceptions which is a requisite for a sure and extended synthesis." The cognitive functions of Introverted Thinking and Introverted Feeling are a necessary waypoint on the way to actual knowledge about the real world.
 
 The question may arise why Introverted Feeling should be contained in this quadrant. I would argue that Introverted Feeling, in a Kantian sense, would consist of a deontological approach to morality, rather than bringing in any empirical, experiential source of cognition. 
 
