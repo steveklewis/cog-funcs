@@ -7,5 +7,6 @@
 
 
 | | analytical | synthetical |
+| ---- | --- | --- |
 | a prior | a |  b |
 | a posteriori | c | d |
