@@ -44,8 +44,23 @@ In this mode, we are not exercising Introverted Thinking and Introverted Feeling
 
 ## The Fourth Quadrant: Synthetical and *a posteriori*
 
-Here, finally, we come to the realm where we can actually do science. Science combines all of our experiences and principles and attempts to discover rules about how the contrete world follows abstract laws.
+Here, finally, we come to the realm where we can actually do science. Science combines all of our experiences and principles and attempts to discover rules about how the contrete world follows abstract laws. The missing element, up to this point, has been Extraverted Sensing, that cognitive function that gives us our five senses. Without Extraverted Sensing we cannot use the scientific method and verify any of our theoretical predictions.
+
+<!--
+## Cognitive Functions As An Example of Second Quadrant Concepts
+
+### Cognitive Functions as Intuitioned Behaviors
+
+There are many ways to try to define the limits of each Cognitive Function. There are many on Youtube and elsewhere where the definitions of Cognitive Functions are no more than an expression of their ingrained biases towards different kinds of behaviors and attitudes.
+
+### Cognitive Functions as Scientific Behaviors
+
+### Cognitive Functions as Synthetical *a priori* Categories
+
+###
+
 
 ## Cognitive Functions and the Limits of Our Attention
 
 One of the basic points of Cognitive Functions is to explain how we cannot focus on everything at once. Our mind has limits, and so if we attend to one quadrant, we will necessarily be not as attentive to the other three quadrants. It helps explain why we have strengths and weaknesses. It explains what we love, and the reason why.
+-->
