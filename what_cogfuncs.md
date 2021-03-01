@@ -26,6 +26,20 @@ Now, these aren't bad definitions. The people at Personality Hacker are trying t
 
 As you can see, this is more helpful, but also more complex. What I'd like to do is boil down the cognitive functions to the most abstract definition possible so there is less room for miscategorization. So, here we go.
 
+## A Working Definition of Cognitive Functions
+
+For our purposes, I want to put the definitions of Cognitive Functions in terms programmers would immediately understand.
+
+* Introverted Sensing - facts, artifcats
+* Extraverted Sensing - experience
+* Introverted Intuition - abstractions
+* Extraverted Intuition - imagination
+* Extraverted Feeling - collaboration
+* Introverted Feeling - quality
+* Extraverted Thinking - execution
+* Introverted Thinking - correctness
+
+<!--
 ## Cognitive Functions as Relational Categories
 
 Cognitive functions describe relationships, so that we can focus on the relationship, not necessarily on the thing at each end of the relationship. To categorize things isn't really that interesting. It's only when we examine the things in relationships that things truly get interesting. Here they are, in the most abstract form possible:
@@ -53,7 +67,6 @@ Two functions for storing and retrieving knowledge -
 As you can see, these are very, very, very abstract categories. But I believe that abstraction is necessary in order to properly categorize the world within and around us. It is much easier to find your way out of being lost if your categories are as precise as you can get them.
 
 
-<!--
 ### Cognitive Functions as a Higher-Order Logic
 
 As you can see, these are very, very, very abstract categories. They get their power from being abstract. I've really tried to boil away any unnecessary part to get to the essence and power of cognitive functions, so that we can apply them to the field of software development. For now, the definitions above are too abstract to understand without several examples, so let me describe in terms of pathfinding, since that, ultimately, is why we're here:
