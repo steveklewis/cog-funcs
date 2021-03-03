@@ -46,4 +46,4 @@ In this mode, we are not exercising Introverted Thinking and Introverted Feeling
 
 Here, finally, we come to the realm where we can actually do science. Science combines all of our experiences and principles and attempts to discover rules about how the contrete world follows abstract laws. The missing element, up to this point, has been Extraverted Sensing, that cognitive function that gives us our five senses. Without Extraverted Sensing we cannot use the scientific method and verify any of our theoretical predictions.
 
-We need the theoretical frameworks generated in Introverted Thinking and Introverted Feeling, but we aren't able to see if any of it works until 
+We need the theoretical frameworks generated in Introverted Thinking and Introverted Feeling, but we aren't able to see if the working models we construct with Ti and Fi are accurante until our predictions either fail or succeed.
