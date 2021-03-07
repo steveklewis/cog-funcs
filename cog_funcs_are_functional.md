@@ -1,5 +1,7 @@
 # Cognitive Functions Are Functional
 
+> By the word function I understand the unity of the act of arranging diverse representations under one common representation. Immanuel Kant
+
 In this essay I would like to examine the structure of Cognitive Functions. Cognitive Functions, first formulated by Carl Jung. In particular, I would like to clarify the relationship between Judging Functions, and Perceiving Functions. In so doing we should be able to see the inner workings of what makes up a Judging Function and a Perceiving Function. Cognitive Functions are not just categories that allow us to see the patterns within the world. They have a particular relationship to each other, and understanding that relationship allows us to appreciate what they actually do for us.
 
 Cognitive Functions have an important word in their name: function. Cognitive Functions are functional. They behave like functions. What is a function? Let's go back to our basic math:
@@ -92,3 +94,4 @@ Our memories and experiences (Si), the rules and abstractions we have gleaned fr
     "That looks like blue to me" (Se))
 
 Our Judging Functions can take multiple values in as data to help us make the best decisions, to help us make the most accurate representations of the world.
+
