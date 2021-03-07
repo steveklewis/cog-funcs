@@ -17,7 +17,7 @@ The Cognitive Functions are a set of categories. It's a way of dividing the worl
 | | Analytical | Synthetical |
 | ---- | --- | --- |
 | *a priori* | Ti, Fi, Ni |  Ti, Fi, Ni, Ne |
-| *a posteriori* | Te, Fe, Ni, Si | Te, Fe, Ni, Si, Se |
+| *a posteriori* | Nothing | Te, Fe, Ni, Si, Se |
 
 
 ## The First Quadrant: Analytical and *a priori*
@@ -38,11 +38,13 @@ In this quadrant, we first get sight of the cognitive function Extraverted Intui
 
 ## The Third Quadrant: Analytical and *a posteriori*
 
-The Third Quadrant is the first one that includes knowledge of the concrete, physical world. Our concepts and definitions are less abstract and can include ideas like "cat" and "dog." We aren't actively referencing the material world, but we are remembering what we have encountered, our experiences, the facts of various situations, and bringing that to bear on our concepts and judgments.
-
-In this mode, we are not exercising Introverted Thinking and Introverted Feeling, but their cousins, Extraverted Thinking and Extraverted Feeling. Te and Fe are synthetical in their nature, as they try to combine the the principles we have and the experiences we have encountered. We still have reference to the abstractions that Introverted Intuition brings us, but we add the concrete experiences from Introverted Sensing.
+The Third Quadrant, according to Kant, is an impossibility. Something cannot be both analytical and *a posteriori*, and so nothing resides in this quadrant.
 
 ## The Fourth Quadrant: Synthetical and *a posteriori*
+
+The Fourth Quadrant is the first one that includes knowledge of the concrete, physical world. Our concepts and definitions are less abstract and can include ideas like "cat" and "dog." We aren't actively referencing the material world, but we are remembering what we have encountered, our experiences, the facts of various situations, and bringing that to bear on our concepts and judgments.
+
+In this mode, we are not exercising Introverted Thinking and Introverted Feeling, but their cousins, Extraverted Thinking and Extraverted Feeling. Te and Fe are synthetical in their nature, as they try to combine the the principles we have and the experiences we have encountered. We still have reference to the abstractions that Introverted Intuition brings us, but we add the concrete experiences from Introverted Sensing.
 
 Here, finally, we come to the realm where we can actually do science. Science combines all of our experiences and principles and attempts to discover rules about how the contrete world follows abstract laws. The missing element, up to this point, has been Extraverted Sensing, that cognitive function that gives us our five senses. Without Extraverted Sensing we cannot use the scientific method and verify any of our theoretical predictions.
 
