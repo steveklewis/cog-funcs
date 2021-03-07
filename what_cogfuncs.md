@@ -11,7 +11,7 @@ Many people have tried to define Jung's original cognitive functions with more f
 * Extraverted Thinking - "Effectiveness"
 * Introverted Thinking - "Accuracy"
 
-Now, these aren't bad definitions. The people at Personality Hacker are trying to make things easier by finding helpful metaphors for what are very abstract ideas. But it comes at a cost. That cost is a loss of precision when explaining the cognitive functions. That loss of precision can lead us to miscategorize certain things in the wrong congitive function category. So what I'm trying to do is to keep the power and precision of the abstractions, so that a miscategorization doesn't lead us astry. If anything, I'm trying to make things not easier, but more difficult. But I believe you're up to the task.
+Now, these aren't bad definitions. The people at Personality Hacker are trying to make things easier by finding helpful metaphors for what are very abstract ideas. But it comes at a cost. That cost is a loss of precision when explaining the cognitive functions. That loss of precision can lead us to miscategorize certain things in the wrong congitive function category. So what I'm trying to do is to keep the power and precision of the abstractions, so that a miscategorization doesn't lead us astray. If anything, I'm trying to make things not easier, but more difficult. But I believe you're up to the task.
 
 [John Beebe](https://www.amazon.com/Energies-Patterns-Psychological-Type-Beebe/dp/1138922285) has put forward his attempt in a similar vein which outlines each function with three verbs:
 
@@ -38,6 +38,12 @@ For our purposes, I want to put the definitions of Cognitive Functions in terms 
 * Introverted Feeling - quality
 * Extraverted Thinking - execution
 * Introverted Thinking - correctness
+
+If we want to return to Immanuel Kant's definition of a function:
+
+> By the word function I understand the unity of the act of arranging diverse representations under one common representation.
+
+Accordingly, if we have eight functions, what we mean is we have eight different ways of sorting data so we can summarize it and make sense of it. But if we focus on certain kinds of common representations, we necessarily lose sight of some of the other kinds of representing the world. Our attention is limited.
 
 <!--
 ## Cognitive Functions as Relational Categories
