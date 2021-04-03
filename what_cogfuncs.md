@@ -1,6 +1,6 @@
 # What are Cognitive Functions?
 
-Many people have tried to define Jung's original cognitive functions with more familiar and easier terminology. One example of this is Antonia Dodge and Joel Mark Witt from [Personality Hacker](https://personalityhacker.com/nicknames-for-8-jungian-cognitive-functions/). They use these definitions:
+Many people have tried to define Jung's original Cognitive Functions with more familiar and easier terminology. One example of this is Antonia Dodge and Joel Mark Witt from [Personality Hacker](https://personalityhacker.com/nicknames-for-8-jungian-cognitive-functions/). They use these definitions:
 
 * Introverted Sensing - "Memory"
 * Extraverted Sensing - "Sensation"
@@ -47,10 +47,7 @@ Eight categories dividing the world epistemologically.
 
 2. What is a cognitive function?
 
-
-
-3. 
-
+A cognitive function is either a representation of the world, or a way of categorizing those representations.
 
 
 If we want to return to Immanuel Kant's definition of a function:
