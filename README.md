@@ -16,6 +16,7 @@
 
 * [The Nature of Extraverted Thinking and Extraverted Feeling](extraverted_judging.md)
 
+* [Emotions, Feeling, and Cognitive Functions](emotions_si.md)
 
 Inspired by:
 
