@@ -30,7 +30,7 @@ As you can see, this is more helpful, but also more complex. What I'd like to do
 
 For our purposes, I want to put the definitions of Cognitive Functions in terms programmers would immediately understand.
 
-* Introverted Sensing - facts, artifcats
+* Introverted Sensing - facts, artifacts
 * Extraverted Sensing - experience
 * Introverted Intuition - abstractions
 * Extraverted Intuition - imagination
@@ -39,11 +39,27 @@ For our purposes, I want to put the definitions of Cognitive Functions in terms 
 * Extraverted Thinking - execution
 * Introverted Thinking - correctness
 
+Now, I want to distinguish between a few questions:
+
+1. What are cognitive functions?
+
+Eight categories dividing the world epistemologically.
+
+2. What is a cognitive function?
+
+
+
+3. 
+
+
+
 If we want to return to Immanuel Kant's definition of a function:
 
 > By the word function I understand the unity of the act of arranging diverse representations under one common representation.
 
 Accordingly, if we have eight functions, what we mean is we have eight different ways of sorting data so we can summarize it and make sense of it. But if we focus on certain kinds of common representations, we necessarily lose sight of some of the other kinds of representing the world. Our attention is limited.
+
+
 
 <!--
 ## Cognitive Functions as Relational Categories
