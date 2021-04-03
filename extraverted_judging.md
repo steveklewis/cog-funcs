@@ -22,10 +22,10 @@ So a judging function, like Extraverted Feeling or Extraverted Thinking takes in
 
 ## The Synthetical Nature of Extraverted Thinking and Extraverted Thinking
 
-The Extraverted Judging Functions also are what Kant calls synthetical. For Kant, a synthetical process is one that combines principles and experiences to create a prediction about the future. The combination is what makes the Extraverted Judging Functions so powerful, when applied in the world. They combine the rigor of principles and the raw reality of our past and present experiences to make predictions about the future. What Kant calls synthetical, Jung will call Extraverted.
+The Extraverted Judging Functions also are what Kant calls synthetical. For Kant, a synthetical process is one that combines principles and experiences to create a prediction about the future. The combination is what makes the Extraverted Judging Functions so powerful, when applied in the world. They combine the rigor of principles and the raw reality of our past and present experiences to make predictions about the future. The Cognitive Functions that Kant calls synthetical, Jung will call Extraverted and Rational.
 
 
-## Predictive and Synthetical Functions: How the Grammar Works
+## Predictive and Synthetical Functions: How the Syntax Works
 
 As I have tried to explain that [Cognitive Functions are functional](cog_funcs_are_functional.md), Judging Functions accept one or more perceptions and return another perception, where that returned perception is our prediction:
 
@@ -39,5 +39,5 @@ As I have tried to explain that [Cognitive Functions are functional](cog_funcs_a
 
     Se = raw data from the physical world
 
-What makes these Judging Functions synthetical is that we are using the rules dervied from our lived experiences and the data from the external world, and combining them to form our prediction about the world.
+What makes these Judging Functions synthetical is that we are using the rules derived from our lived experiences and the data from the external world, and combining them to form our prediction about the world.
 
