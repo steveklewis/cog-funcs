@@ -26,7 +26,7 @@ Even at the beginning of his Critique of Pure Reason, Kant is talking about what
 
 > [Reason] begins with principles, which cannot be dispensed with in the field of experience, and the truth and sufficiency of which are, at the same time, insured by experience.
 
-This combination of principles and experience, Kant will refer to as synthetical. These kinds of predictive operations of the mind make up what are known as the Extraverted Judging Functions. For Kant, a synthetical process is one that combines principles and experiences to create a prediction about the future. The combination is what makes the Extraverted Judging Functions so powerful, when applied in the world. They combine the rigor of principles and the raw reality of our past and present experiences to make predictions about the future. The Cognitive Functions that Kant calls synthetical, Jung will call Extraverted and Rational.
+This combination of principles and experience, Kant will refer to as synthetical. These kinds of predictive operations of the mind make up what are known as the Extraverted Judging Functions. For Kant, a synthetical process is one that combines principles and experiences to create a prediction about the future. The combination is what makes the Extraverted Judging functions so powerful, when applied in the world. They combine the rigor of principles and the raw reality of our past and present experiences to make predictions about the future. The Cognitive Functions that Kant calls synthetical, Jung will call Extraverted and Rational, but what most nowadays, given the influence of MBTI, know as the Extraverted Judging functions.
 
 
 ## Predictive and Synthetical Functions: How the Syntax Works
