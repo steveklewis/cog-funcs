@@ -10,6 +10,12 @@
 
 * [What Are Cognitive Functions](what_cogfuncs.md)
 
+* [Cognitive Functions Are Dualistic](dualism.md)
+
+* [Cognitive Functions Are Epistemological](cog_funcs_are_epistemological.md)
+
+* [The Nature of Extraverted Thinking and Extraverted Feeling](extraverted_judging.md)
+
 
 Inspired by:
 
