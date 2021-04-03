@@ -39,5 +39,5 @@ As I have tried to explain that [Cognitive Functions are functional](cog_funcs_a
 
     Se = raw data from the physical world
 
-What makes these Judging Functions synthetical is that we are using data from both our lived experiences and from the external world, and combining them to form our prediction about the world.
+What makes these Judging Functions synthetical is that we are using the rules dervied from our lived experiences and the data from the external world, and combining them to form our prediction about the world.
 
