@@ -1,6 +1,10 @@
 # What are Cognitive Functions?
 
-Many people have tried to define Jung's original Cognitive Functions with more familiar and easier terminology. One example of this is Antonia Dodge and Joel Mark Witt from [Personality Hacker](https://personalityhacker.com/nicknames-for-8-jungian-cognitive-functions/). They use these definitions:
+There are two questions involved when we ask, "What are Cognitive Functions?" The first concerns what they are as a whole and what they do, together. The second question involves what each of the eight Cognitive Functions does separately. To answer the first question, I would say that Cognitive Functions draw a picture of the map of the mind. We are not good at everything, and we have our favorite ways of thinkings and approaching the problems of life. That description of the mind makes up what Cognitive Functions are, as a whole.
+
+## What Does Each Cognitive Function Do?
+
+Many people have tried to define Jung's eight original Cognitive Functions with more familiar and easier terminology. One example of this is Antonia Dodge and Joel Mark Witt from [Personality Hacker](https://personalityhacker.com/nicknames-for-8-jungian-cognitive-functions/). They use these definitions:
 
 * Introverted Sensing - "Memory"
 * Extraverted Sensing - "Sensation"
