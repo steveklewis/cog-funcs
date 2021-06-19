@@ -18,4 +18,4 @@ Immanuel Kant seems to pick up on an aspect of this when he uses the term "manif
 
 An essential aspect of nature, or any world, the many, or a manifold, is that it unfolds in time. It takes time to look around and get familiar with our surroundings when we step into a new world.
 
-And that is why I find Heraclitus interesting, because he offers us a definition of a world.
+And that is why I find Heraclitus interesting, because he offers us a definition of a world. A world is complex.
