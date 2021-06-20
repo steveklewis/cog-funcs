@@ -4,7 +4,7 @@
 
 ## Heraclitus' Idea of Flux 
 
-There are at least two major interpretations of what this saying means. The first, from Plato, emphasizes the ever-changing nature of reality, sometimes called "flux," in contradistinction to Parmenides' monism that attempts to see the unchanging nature of reality. However, there is another interpretation that seems to balance both the stability of reality and the ever-present change that still occurs:
+There are at least two major interpretations of what this saying means. The first, from Plato, emphasizes the ever-changing nature of reality, sometimes called "flux," in contradistinction to Parmenides' monism that attempts to emphasize the unchanging nature of reality. However, there is another interpretation that seems to balance both the stability of reality and the ever-present change that still occurs:
 
 > If this interpretation is right, the message of the one river fragment, B12, is not that all things are changing so that we cannot encounter them twice, but something much more subtle and profound. It is that some things stay the same only by changing. One kind of long-lasting material reality exists by virtue of constant turnover in its constituent matter. Here constancy and change are not opposed but inextricably connected. [https://plato.stanford.edu/entries/heraclitus](Heraclitus @ Stanford)
 
@@ -18,8 +18,13 @@ Heraclitus is sometimes personified as representing the idea of "the many" as op
 
 Immanuel Kant seems to pick up on an aspect of this when he uses the term "manifold" to describe any sufficiently complicated sphere of knowledge. In our mind, we haven't sorted everything out, but we know it's complex and many-sided, and will take some work to understand.
 
-## Heraclitus and Time as an Essential Aspect of a World
+## Time as an Essential Aspect of a World
 
 An essential aspect of nature, or any world, the many, or a manifold, is that it unfolds in time. It takes time to look around and get familiar with our surroundings when we step into a new world.
+
+## The Independent Character of a World
+
+Another thing that I recognize in Heraclitus' description of the river is that it is outside of our control. It is independent of what we want and need and it requires great effort to get the world to do what we want it to do. We can change the direction of the river if we have enough logs. But at its base, we have very little control over the world. It's just too complicated.
+
 
 And that is why I find Heraclitus interesting, because he offers us a definition of a world. A world is complex.
