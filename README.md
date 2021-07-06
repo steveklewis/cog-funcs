@@ -7,6 +7,7 @@
 * [What Are Cognitive Functions](what_cogfuncs.md)
 
 * [The Theoretical Foundations of Cognitive Functions](foundations.md)
+    * [The Kantian Structure of Perceiving Functions](structure.md)
     * [The Kantian Matrix for Cognitive Functions](matrix.md)
     * [Cognitive Functions Are Functional](cog_funcs_are_functional.md)
 
