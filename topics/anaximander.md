@@ -1,4 +1,4 @@
-* The Philosopher Anaximander Is Interesting 
+* The Philosopher Anaximander is Interesting 
 
 I want to tell you about one of my favorite pieces of philosophy. The oldest official piece of Western philosophy is known as the Anaximander fragment. It is 2500 years old. It is the first actual attempt at philosophical abstraction:
 
