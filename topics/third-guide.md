@@ -1,4 +1,4 @@
-* Dante's Third Guide: Bernard's Theory and Experience of Loving God
+# Dante's Third Guide: Bernard's Theory and Experience of Loving God
 
 Dante, as the pilgrim in the Divine Comedy, in his journey toward seeing God at the end of the Paradiso, finds himself guided by three historical figure. First, Virgil leads him through hell to the top of Purgatory. Beatrice appears as his second guide and explains things as they move through Paradiso. Near the end of Paradiso, Beatrice vanishes and St. Bernard of Clairvaux spends only a few cantos with Dante before the end of the poem.
   Who was Bernard? There are many ways to get to know Bernard of Clairvaux. But primarily I want to focus on his thought, moreso than his biography. Thomas Merton has a good idea of how best to get to know Bernard:
@@ -22,7 +22,7 @@ When I first read this schema it struck me intuitively true, both theoretically 
 
 To become who we truly are in God, we learn to love God more and love ourselves less.
 
-** God And Self
+## God And Self
 
 Stiegman draws our attention to the tension contained within the four degrees:
 
@@ -30,11 +30,11 @@ Stiegman draws our attention to the tension contained within the four degrees:
 
 It is a simplification of our experience, but it captures a good bit of what is so hard about learning to love God. It's not a switch we flip off and on. It's a journey that takes a while, with multiple painful steps.
 
-** Objects of Love and Reasons for Love
+## Objects of Love and Reasons for Love
 
 Bernard, in _On Loving God_, juxtaposes self and God. But he does it in such a way as to introduce nuance and a progression from self to God. First, there are self and God as objects. The object of our love can be self, or it can be God. Yet love is not so simple. We can love the right things for the wrong reasons. And we can love the wrong things for the right reasons. So he presents us with two reasons as well: the reason of self, of selfishness, and the reason of God, of the right reason. This allows Bernard to present us with four degrees of loving, as we can combine the objects and reasons of love in four different ways. I will now examine the four degrees in some detail.
 
-** The First Degree - Loving self for the sake of oneself
+## The First Degree - Loving self for the sake of oneself
 
 In the first degree of love, we rely on ourselves, because it is all we know, but it is an illusory pursuit, because we don't know the right path automatically:
 
@@ -44,13 +44,13 @@ Saint Bernard even uses the image of the circle to describe the aimlessness of t
 
 > The wicked, therefore, walk around in circles, naturally wanting whatever will satisfy their desires, yet foolishly rejecting that which would lead them to their true end, which is not in consumption but in consummation. (Stiegman, p. 22)
 
-** The Second Degree - Loving God for self's sake
+## The Second Degree - Loving God for self's sake
 
 Through our struggles in this life, we try to depend on God and turn to him in our need:
 
 > If man's tribulations, however, grow in frequency and as a result he frequently turns to God and is frequently freed by God, must he not end, though he had a heart of stone in a breast of iron, by realizing that it is God's grace which frees him and come to love God not for his own advantage but for the sake of God? (Stiegman, p.27-8)
 
-** The Third Degree - Loving God for God's sake
+## The Third Degree - Loving God for God's sake
 
 In the third degree of love we learn to not only love the correct object, but love that correct object for the right reasons. Emero Stiegman explains what he thinks Bernard is trying to say in this move to the third degree:
 
@@ -62,13 +62,13 @@ Bernard also explains another aspect of what is going on here:
 
 We not only come to love God, but our desire for what is good is satisfied as we see that God is good.
 
-** The Fourth Degree - Loving Self for God's sake
+## The Fourth Degree - Loving Self for God's sake
 
 This last degree is rarely experienced, if ever experienced in this life:
 
 > I do not think that can take place for sure until word is fulfilled: "Love the Lord your God with all your heart, all your soul, and all your strength," until the heart does not have to think of the body and the soul no longer has to give it life and feeling as in this life. (Stiegman, p. 31)
 
-** Dante and the Four Degrees of Love
+## Dante and the Four Degrees of Love
 
 I truly feel like Dante was trying to tell us something in choosing Bernard as his third guide, and I will argue that there are three major transformations in the Divine Comedy, and they correspond with the three guides that lead Dante to the eventual vision of God:
 
@@ -79,7 +79,7 @@ I truly feel like Dante was trying to tell us something in choosing Bernard as h
 
 For the purposes of this essay, I want to cover Virgil and Beatrice as guides, but primarily I want to focus on Bernard as a rational lover of God. He loves God for the right reasons.
 
-** Dante's First Transformation
+## Dante's First Transformation
 
 If we examine the beginning and the end of the Divine Comedy, a stark contrast emerges. At the end, Dante sees God. But at the beginning, Dante can only see himself and the dangers that surround him. Two objects, worthy of our attention: God and self, self and God. One could go as far as to say that Dante, as we come to the beginning of the Divine Comedy, without a guide, has been misguided, and has gotten lost in the dark wood. He is lost in all the possibilities of how to be, and doesn't even see the love of God as a proper object. In contradistinction, by the end of the Divine Comedy, he has found multiple guides and has learned to love God. So what is the thing that changes, between the first canto, and the last canto? It would appear that the object of Dante's love has moved from self, towards God. And that would be correct. But I believe there is more going on here.
 
@@ -97,7 +97,7 @@ After reading those lines, I have to conclude Dante almost certainly read _On Lo
 
 Dante's beastly desires have been quelled, and his mind is free to wander ahead. While his bodily desires aren't raging, his mind still wanders. He is still searching for satisfaction, which he won't finally realize until the vision of God at the end of Paradiso.
 
-** Dante's Second Transformation
+## Dante's Second Transformation
 
 In the third stage, Dante is declared to have self-mastery: his will has been purified. He does not have perfect knowledge of God, but he no longer loves other things more than God. This is represented by Bernard's third stage, loving self for God's sake. We see Virgil declare Dante master of himself:
 
@@ -108,7 +108,7 @@ In the third stage, Dante is declared to have self-mastery: his will has been pu
 
 God now loves God for God's sake. All of his self-directed love has been redirected towards God, and he is free to enter Paradiso with Beatrice.
 
-** Dante's Third Transformation
+## Dante's Third Transformation
 
 Dante's final transformation occus as Beatrice leaves Dante's side and Saint Bernard appears. Before we get to the argument, let's summarize what Bernard does in Dante's narrative. By the time Bernard arrives, Dante and Beatrice have already made it to the hightest sphere, the Empyrean. Dante turns to Beatrice but she is gone, and in her place stands Bernard. He says:
 
