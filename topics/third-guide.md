@@ -1,11 +1,12 @@
 # Dante's Third Guide: Bernard's Theory and Experience of Loving God
 
-Dante, as the pilgrim in the Divine Comedy, in his journey toward seeing God at the end of the Paradiso, finds himself guided by three historical figure. First, Virgil leads him through hell to the top of Purgatory. Beatrice appears as his second guide and explains things as they move through Paradiso. Near the end of Paradiso, Beatrice vanishes and St. Bernard of Clairvaux spends only a few cantos with Dante before the end of the poem.
-  Who was Bernard? There are many ways to get to know Bernard of Clairvaux. But primarily I want to focus on his thought, moreso than his biography. Thomas Merton has a good idea of how best to get to know Bernard:
+Dante, as the pilgrim in the Divine Comedy, in his journey toward seeing God at the end of the Paradiso, finds himself guided by three historical figure. First, Virgil leads him through hell to the top of Purgatory. Beatrice appears as his second guide and explains things as they move through Paradiso. Near the end of Paradiso, Beatrice vanishes and St. Bernard of Clairvaux spends only a few cantos with Dante before the end of the poem. As we close the Paradiso, a question still lingers: Who was Bernard? Unless we are already familiar with him, or are familiar with his biography but not his work, we won't know what has just happened in the final cantos of the narrative. There are many ways to get to know Bernard of Clairvaux. But primarily I want to focus on his thought, moreso than his biography. Thomas Merton has a good idea of how best to get to know Bernard:
 
 > More than any other single work of his, [_On Loving God_] gives the deepest understanding of his thought... (Stiegman, p. 45)
 
-In order to better understand the thought of Bernard, we should examine his work, _On Loving God_. In doing so, I believe that we will eventually see why Dante chose Bernard of Clairvaux as his third guide. To me, the most striking part of Bernard's _On Loving God_ is his description of the four degrees of loving God, where we gradually and slowly learn to love God:
+In order to better understand the thought of Bernard, we should examine his work, _On Loving God_. I will argue that Dante used at least two ideas from _On Loving God_. First, the four degrees of love are used as the schema for choosing Dante's guides. Secondly, Bernard's image of the circle will be directly used as the most recognizable feature of the Divine Comedy.
+
+First, we will examine Bernard's four degrees of love. In doing so, I believe that we will eventually see why Dante chose Bernard of Clairvaux as his third guide. Emero Stiegman explains why the four degrees are so interesting:
 
 > Bernard's four degrees of loving God is an original construct, brilliant in its simplicity, comprehensiveness, and experiential plausibility; we first love ourselves for our own sake, then God for our sake, then God for God's own sake, and finally ourselves only for God. (Stiegman, p. 51)
 
@@ -70,7 +71,7 @@ This last degree is rarely experienced, if ever experienced in this life:
 
 ## Dante and the Four Degrees of Love
 
-I truly feel like Dante was trying to tell us something in choosing Bernard as his third guide, and I will argue that there are three major transformations in the Divine Comedy, and they correspond with the three guides that lead Dante to the eventual vision of God:
+Now that we understand the basic structure of the four degrees of love, we can begin to see how Dante used the four degrees to choose his three guides. I will argue that there are three major transformations in the Divine Comedy, and they correspond with the three guides that lead Dante to the eventual vision of God:
 
 1. Loving self for the sake of oneself. (Dante at the beginning of Canto 1 of the Inferno)
 2. Loving God for the sake of oneself. (Dante at the end of Canto 1 of the Inferno)
