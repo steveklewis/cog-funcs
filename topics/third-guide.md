@@ -41,10 +41,6 @@ In the first degree of love, we rely on ourselves, because it is all we know, bu
 
 > The self-reliant drive to develop possibilities of an illusory self ends in a wasted life. (Stiegman, p. 76)
 
-Saint Bernard even uses the image of the circle to describe the aimlessness of those in the first degree:
-
-> The wicked, therefore, walk around in circles, naturally wanting whatever will satisfy their desires, yet foolishly rejecting that which would lead them to their true end, which is not in consumption but in consummation. (Stiegman, p. 22)
-
 ## The Second Degree - Loving God for self's sake
 
 Through our struggles in this life, we try to depend on God and turn to him in our need:
@@ -68,6 +64,17 @@ We not only come to love God, but our desire for what is good is satisfied as we
 This last degree is rarely experienced, if ever experienced in this life:
 
 > I do not think that can take place for sure until word is fulfilled: "Love the Lord your God with all your heart, all your soul, and all your strength," until the heart does not have to think of the body and the soul no longer has to give it life and feeling as in this life. (Stiegman, p. 31)
+
+## Bernard's Circle
+
+Saint Bernard even uses the image of the circle to describe the aimlessness of those in the first degree:
+
+> The wicked, therefore, walk around in circles, naturally wanting whatever will satisfy their desires, yet foolishly rejecting that which would lead them to their true end, which is not in consumption but in consummation. (Stiegman, p. 22)
+
+
+
+## Dante and the Circle
+
 
 ## Dante and the Four Degrees of Love
 
