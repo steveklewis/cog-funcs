@@ -67,14 +67,15 @@ This last degree is rarely experienced, if ever experienced in this life:
 
 ## Bernard's Circle
 
-Saint Bernard even uses the image of the circle to describe the aimlessness of those in the first degree:
+One of the most stunning sentences to read as a lover of Dante has to do with his image of the circle that describes the aimlessness of those in the first degree:
 
-> The wicked, therefore, walk around in circles, naturally wanting whatever will satisfy their desires, yet foolishly rejecting that which would lead them to their true end, which is not in consumption but in consummation. (Stiegman, p. 22)
+> The wicked, therefore, walk around in circles, naturally wanting whatever will satisfy their desires, yet foolishly rejecting that which would lead them to their true end, which is not in consumption but in consummation. (Bernard, p. 22)
 
 
 
 ## Dante and the Circle
 
+I believe that Dante's primary inspiration for the Divine Comedy itself was Bernard image of the circle. It presents all sorts of interesting questions for a narrative. How does one get out of the circle? 
 
 ## Dante and the Four Degrees of Love
 
