@@ -1,4 +1,4 @@
-# Dante's Third Guide: Bernard's Theory and Experience of Loving God
+# Dante's Fourth Guide: Bernard's Theory and Experience of Loving God
 
 Dante, as the pilgrim in the Divine Comedy, in his journey toward seeing God at the end of the Paradiso, finds himself guided by three historical figure. First, Virgil leads him through hell to the top of Purgatory. Beatrice appears as his second guide and explains things as they move through Paradiso. Near the end of Paradiso, Beatrice vanishes and St. Bernard of Clairvaux spends only a few cantos with Dante before the end of the poem. As we close the Paradiso, a question still lingers: Who was Bernard? Unless we are already familiar with him, or are familiar with his biography but not his work, we won't know what has just happened in the final cantos of the narrative. There are many ways to get to know Bernard of Clairvaux. But primarily I want to focus on his thought, moreso than his biography. Thomas Merton has a good idea of how best to get to know Bernard:
 
@@ -75,16 +75,25 @@ One of the most stunning sentences to read as a lover of Dante has to do with hi
 
 ## Dante and the Circle
 
+
+
 I believe that Dante's primary inspiration for the Divine Comedy itself was Bernard image of the circle. It presents all sorts of interesting questions for a narrative. How does one get out of the circle? 
 
 ## Dante and the Four Degrees of Love
 
-Now that we understand the basic structure of the four degrees of love, we can begin to see how Dante used the four degrees to choose his three guides. I will argue that there are three major transformations in the Divine Comedy, and they correspond with the three guides that lead Dante to the eventual vision of God:
+Now that we understand the basic structure of the four degrees of love, we can begin to look to see how Dante might have used it, as I suppose. It's easy to find groupings of three: Inferno, Purgatorio, and Paradiso, and groupings of seven: the seven terraces of Purgatorio, but it is not immediately obvious what four things could be grouped together to inform the basic narrative of the Divine Comedy. I would like to argue that the four degrees of love correspond to the four guides found within the narrative. One might object that Dante only had three guides: Virgil, Beatrice, and Bernard. However, the fourth guide is the first guide, when Dante could be guided only by himself, which got him into trouble. Therefore, the four guides are:
 
-1. Loving self for the sake of oneself. (Dante at the beginning of Canto 1 of the Inferno)
-2. Loving God for the sake of oneself. (Dante at the end of Canto 1 of the Inferno)
-3. Loving self for God's sake. (Dante at the top of Mount Purgatory)
-4. Loving God for God's sake. (Dante in the final canto of the Paradiso)
+1. Dante
+2. Virgil
+3. Beatrice
+4. Bernard
+
+Now we can begin to see how Dante used the four degrees to choose his three guides. I will argue that there are three major transformations in the Divine Comedy, and they correspond with the three guides that lead Dante to the eventual vision of God:
+
+1. Loving self for the sake of oneself. (Dante at the beginning of Canto 1 of the Inferno, with Dante as his own guide)
+2. Loving God for the sake of oneself. (Dante at the end of Canto 1 of the Inferno, with Virgil as guide)
+3. Loving self for God's sake. (Dante at the top of Mount Purgatory, with Beatrice as guide)
+4. Loving God for God's sake. (Dante in the final canto of the Paradiso, with Bernard as guide)
 
 For the purposes of this essay, I want to cover Virgil and Beatrice as guides, but primarily I want to focus on Bernard as a rational lover of God. He loves God for the right reasons.
 
