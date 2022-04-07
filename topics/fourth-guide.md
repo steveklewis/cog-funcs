@@ -1,4 +1,4 @@
-# Dante's Fourth Guide: Bernard's Theory and Experience of Loving God
+# Dante's Fourth Guide: Saint Bernard and the Power of Abstraction
 
 Dante, as the pilgrim in the Divine Comedy, in his journey toward seeing God at the end of the Paradiso, finds himself guided by three historical figure. First, Virgil leads him through hell to the top of Purgatory. Beatrice appears as his second guide and explains things as they move through Paradiso. Near the end of Paradiso, Beatrice vanishes and St. Bernard of Clairvaux spends only a few cantos with Dante before the end of the poem. As we close the Paradiso, a question still lingers: Who was Bernard? Unless we are already familiar with him, or are familiar with his biography but not his work, we won't know what has just happened in the final cantos of the narrative. There are many ways to get to know Bernard of Clairvaux. But primarily I want to focus on his thought, moreso than his biography. Thomas Merton has a good idea of how best to get to know Bernard:
 
@@ -71,13 +71,14 @@ One of the most stunning sentences to read as a lover of Dante has to do with hi
 
 > The wicked, therefore, walk around in circles, naturally wanting whatever will satisfy their desires, yet foolishly rejecting that which would lead them to their true end, which is not in consumption but in consummation. (Bernard, p. 22)
 
+For Bernard, the image of the circle signifies being lost, being stuck in desire and consumption, not having a worthwhile purpose or goal, and an explicit rejection of a path that would lead out of the circle.
 
+Examine the nature of Bernard's circle
 
 ## Dante and the Circle
 
 
-
-I believe that Dante's primary inspiration for the Divine Comedy itself was Bernard image of the circle. It presents all sorts of interesting questions for a narrative. How does one get out of the circle? 
+I believe that Dante's primary inspiration for the Divine Comedy itself was Bernard image of the circle. It presents all sorts of interesting questions for a narrative. How does one get out of the circle? It is interesting to see how Dante the writer answers this question, because his answer is that of a person. A person must guide you out of your circle. It's not enough to know what to do or how to do it, you have to have a guide to walk you through it as you go through the process.
 
 ## Dante and the Four Degrees of Love
 
