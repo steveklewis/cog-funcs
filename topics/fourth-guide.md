@@ -73,7 +73,9 @@ One of the most stunning sentences to read as a lover of Dante has to do with hi
 
 For Bernard, the image of the circle signifies being lost, being stuck in desire and consumption, not having a worthwhile purpose or goal, and an explicit rejection of a path that would lead out of the circle.
 
-Examine the nature of Bernard's circle
+> The desire to experience all things first is like a vicious circle, it goes on forever. The just man is not like that. Hearing about the evil conduct of those inside the circle (for many follow the wide road which leads to death), he prefers the royal road which turns neither to the right nor to the left. (Bernard, p. 23)
+
+Bernard compares those stuck in the circle with those who follow the direct path to God. Those who pursue the reward of God Himself will eventually see God. And that is the choice that we have to make, according to Bernard. Either find ourselves stuck in the circle, or find our way to seeing God.
 
 ## Dante and the Circle
 
