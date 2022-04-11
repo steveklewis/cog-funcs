@@ -65,6 +65,10 @@ This last degree is rarely experienced, if ever experienced in this life:
 
 > I do not think that can take place for sure until word is fulfilled: "Love the Lord your God with all your heart, all your soul, and all your strength," until the heart does not have to think of the body and the soul no longer has to give it life and feeling as in this life. (Stiegman, p. 31)
 
+## Bernard's Ladder
+
+As we can see, Bernard uses these degrees as a way to express some sort of progression on the way to loving God. It is reminiscent of other ladders found in the church fathers, such as St. John of the Ladder, in _Ladder of Divine Ascent_. Whereas St. John's ladder has 30 steps, St. Bernard's only has four. Bernard does not use the image of the ladder, but that is effectively what is going on. Dante will pick up this idea of progression and use it in the Divine Comedy, as we shall see.
+
 ## Bernard's Circle
 
 One of the most stunning sentences to read as a lover of Dante has to do with his image of the circle that describes the aimlessness of those in the first degree:
@@ -77,10 +81,11 @@ For Bernard, the image of the circle signifies being lost, being stuck in desire
 
 Bernard compares those stuck in the circle with those who follow the direct path to God. Those who pursue the reward of God Himself will eventually see God. And that is the choice that we have to make, according to Bernard. Either find ourselves stuck in the circle, or find our way to seeing God.
 
-## Dante and the Circle
+## Dante's Circle and Dante's Spiral
 
+I would like to argue that Dante takes Bernard's image of the circle and he adds an extra dimension to it. He turns it into a spiral, such that one can move in a downward direction along the circle, or move in an upward direction along the circle. Dante combines Bernard's image of the circle with the ladder-like system of progression through hell, purgatory, and paradise to trace his journey in the shape of a spiral. First he spirals down into hell, and then he spirals upwards towards the Empyrean.
 
-I believe that Dante's primary inspiration for the Divine Comedy itself was Bernard image of the circle. It presents all sorts of interesting questions for a narrative. How does one get out of the circle? It is interesting to see how Dante the writer answers this question, because his answer is that of a person. A person must guide you out of your circle. It's not enough to know what to do or how to do it, you have to have a guide to walk you through it as you go through the process.
+The cirular journey presents all sorts of interesting questions for a narrative. How does one get out of the circle? It is interesting to see how Dante the writer answers this question, because his answer is simple: a person. A person must guide you out of your circle. It's not enough to know what to do or how to do it, you have to have a guide to walk you through it as you go through the process. In Dante's narrative, the major difference between those who experience the afterlife as a circle and those who experience the afterlife as a spiral is the question of whether they had a guide or not. Those that had a guide found a way to ask for help from God. Those that did not have a guide found themselves lost and wandering one of the circles of the Inferno.
 
 ## Dante and the Four Degrees of Love
 
