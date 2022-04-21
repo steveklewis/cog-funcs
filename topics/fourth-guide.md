@@ -1,12 +1,12 @@
-# Dante's Fourth Guide: Saint Bernard and the Power of Abstraction
+# Dante's Fourth Guide: Saint Bernard as Primary Inspiration
 
 Dante, as the pilgrim in the Divine Comedy, in his journey toward seeing God at the end of the Paradiso, finds himself guided by three historical figure. First, Virgil leads him through hell to the top of Purgatory. Beatrice appears as his second guide and explains things as they move through Paradiso. Near the end of Paradiso, Beatrice vanishes and St. Bernard of Clairvaux spends only a few cantos with Dante before the end of the poem. As we close the Paradiso, a question still lingers: Who was Bernard? Unless we are already familiar with him, or are familiar with his biography but not his work, we won't know what has just happened in the final cantos of the narrative. There are many ways to get to know Bernard of Clairvaux. But primarily I want to focus on his thought, moreso than his biography. Thomas Merton has a good idea of how best to get to know Bernard:
 
 > More than any other single work of his, [_On Loving God_] gives the deepest understanding of his thought... (Stiegman, p. 45)
 
-In order to better understand the thought of Bernard, we should examine his work, _On Loving God_. I will argue that Dante used at least two ideas from _On Loving God_. First, the four degrees of love are used as the schema for choosing Dante's guides. Secondly, Bernard's image of the circle will be directly used as the most recognizable feature of the Divine Comedy.
+In order to better understand the thought of Bernard, we should examine his work, _On Loving God_. I will argue that Dante used at least two ideas from _On Loving God_. First, the four degrees of love are used as the schema for choosing Dante's guides. Secondly, Bernard's image of the circle will be directly used as the most recognizable feature of the Divine Comedy. I will argue that because of these two ideas, St. Bernard is Dante's primary inspiration and the inspiration for the most recognizable features of the Divine Comedy.
 
-First, we will examine Bernard's four degrees of love. In doing so, I believe that we will eventually see why Dante chose Bernard of Clairvaux as his third guide. Emero Stiegman explains why the four degrees are so interesting:
+First, we will examine Bernard's four degrees of love. In doing so, I believe that we will eventually see why Dante chose Bernard of Clairvaux as his fourth guide. Emero Stiegman explains why the four degrees are so interesting:
 
 > Bernard's four degrees of loving God is an original construct, brilliant in its simplicity, comprehensiveness, and experiential plausibility; we first love ourselves for our own sake, then God for our sake, then God for God's own sake, and finally ourselves only for God. (Stiegman, p. 51)
 
@@ -17,11 +17,11 @@ We find this schema outlined in _On Loving God_:
 3. Loving God for God's sake.
 4. Loving self for God's sake.
 
-When I first read this schema it struck me intuitively true, both theoretically and experientially. I found it so simple, yet original and powerful. Emero Stiegman explains why this simple abstraction feels so powerful:
+When I first read this schema it struck me as intuitively true, both theoretically and experientially. I found it so simple, yet original and powerful. Emero Stiegman explains why this simple abstraction feels so powerful:
 
 > The four degrees are a graphic intellectualization of the character of love in its metamorphosis within human awareness. They form an abstract schema drawn up to assist in the understanding of a mysteriously simple and paradoxically difficult truth: love, as a movement from within is the very action of God drawing us out of ourselves toward God, in whom all are loved; this movement is given, unexacted, to the free creature made in God's image. (Stiegman, p. 152)
 
-To become who we truly are in God, we learn to love God more and love ourselves less.
+To become who we truly are in God, we learn to love God more and love less selfishly.
 
 ## God And Self
 
@@ -159,8 +159,11 @@ Bernard then instructs Dante to look upwards towards Mary, the Queen of Heaven. 
 
 As we can see from the narrative, Bernard's primary function is to pray to the Mother of God at the end, so that Dante can see God. This seems to imply that something hapens to Dante to further purify his vision or his heart, so that he can see God. One can recall Jesus saying in the Beatitudes, "Blessed are the pure in heart, for they shall see God." I would like to suggest that Dante gains a more pure love for God at the end of the Paradiso, and that Bernard's four degrees found in _On Loving God_ can illuminate the change that occurs within Dante. On my reading, Dante finally loves God for God's sake, that is, he loves God for the right reasons, for God as a person, and not for what God can reward. This final transformation corresponds with Bernard's final degree of love in _On Loving God_, that of loving oneself for God's sake. 
 
+I would also like to suggest that, by the end of the Purgatorio, we have come to know Bernard of Clairvaux through his abstractions that Dante has used throughout the narrative. We know St. Bernard by walking through circles, and we know St. Bernard by climbing his ladder. Without his contributions, Dante's Divine Comedy might look very different.
 
 
+### Citations
 
+Longfellow, Henry Wadsworth, and Dante Alighieri. Purgatorio. Wilder Publications, 2011.
 
-
+Clairvaux, Saint Bernard O. F. On Loving God. With Analytical Commentary by Emero Stiegman.
