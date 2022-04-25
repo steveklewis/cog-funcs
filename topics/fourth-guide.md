@@ -146,7 +146,7 @@ In the third stage, Dante is declared to have self-mastery: his will has been pu
 
 God now loves God for God's sake. All of his self-directed love has been redirected towards God, and he is free to enter Paradiso with Beatrice.
 
-### Dante's Third Transformation: Consumation
+### Dante's Third Transformation: Consummation
 
 Dante's final transformation occus as Beatrice leaves Dante's side and Saint Bernard appears. Before we get to the argument, let's summarize what Bernard does in Dante's narrative. By the time Bernard arrives, Dante and Beatrice have already made it to the hightest sphere, the Empyrean. Dante turns to Beatrice but she is gone, and in her place stands Bernard. He says:
 
