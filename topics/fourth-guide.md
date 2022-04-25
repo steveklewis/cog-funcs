@@ -74,7 +74,7 @@ This last degree is rarely experienced, if ever experienced in this life:
 
 > I do not think that can take place for sure until word is fulfilled: "Love the Lord your God with all your heart, all your soul, and all your strength," until the heart does not have to think of the body and the soul no longer has to give it life and feeling as in this life. (Stiegman, p. 31)
 
-## Bernard's Ladder
+### Bernard's Ladder
 
 As we can see, Bernard uses these degrees as a way to express some sort of progression on the way to loving God. It is reminiscent of other ladders found in the church fathers, such as St. John of the Ladder, in _Ladder of Divine Ascent_. Whereas St. John's ladder has 30 steps, St. Bernard's only has four. Bernard does not use the image of the ladder, but that is effectively what is going on. Dante will pick up this idea of progression and use it in the Divine Comedy, as we shall see.
 
