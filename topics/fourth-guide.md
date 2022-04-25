@@ -32,7 +32,7 @@ When I first read this schema it struck me as intuitively true, both theoretical
 
 To become who we truly are in God, we learn to love God more and love less selfishly.
 
-## God And Self
+### God And Self
 
 Stiegman draws our attention to the tension contained within the four degrees:
 
@@ -40,23 +40,23 @@ Stiegman draws our attention to the tension contained within the four degrees:
 
 It is a simplification of our experience, but it captures a good bit of what is so hard about learning to love God. It's not a switch we flip off and on. It's a journey that takes a while, with multiple painful steps.
 
-## Objects of Love and Reasons for Love
+### Objects of Love and Reasons for Love
 
 Bernard, in _On Loving God_, juxtaposes self and God. But he does it in such a way as to introduce nuance and a progression from self to God. First, there are self and God as objects. The object of our love can be self, or it can be God. Yet love is not so simple. We can love the right things for the wrong reasons. And we can love the wrong things for the right reasons. So he presents us with two reasons as well: the reason of self, of selfishness, and the reason of God, of the right reason. This allows Bernard to present us with four degrees of loving, as we can combine the objects and reasons of love in four different ways. I will now examine the four degrees in some detail.
 
-## The First Degree - Loving self for the sake of oneself
+### The First Degree - Loving self for the sake of oneself
 
 In the first degree of love, we rely on ourselves, because it is all we know, but it is an illusory pursuit, because we don't know the right path automatically:
 
 > The self-reliant drive to develop possibilities of an illusory self ends in a wasted life. (Stiegman, p. 76)
 
-## The Second Degree - Loving God for self's sake
+### The Second Degree - Loving God for self's sake
 
 Through our struggles in this life, we try to depend on God and turn to him in our need:
 
 > If man's tribulations, however, grow in frequency and as a result he frequently turns to God and is frequently freed by God, must he not end, though he had a heart of stone in a breast of iron, by realizing that it is God's grace which frees him and come to love God not for his own advantage but for the sake of God? (Stiegman, p.27-8)
 
-## The Third Degree - Loving God for God's sake
+### The Third Degree - Loving God for God's sake
 
 In the third degree of love we learn to not only love the correct object, but love that correct object for the right reasons. Emero Stiegman explains what he thinks Bernard is trying to say in this move to the third degree:
 
@@ -68,7 +68,7 @@ Bernard also explains another aspect of what is going on here:
 
 We not only come to love God, but our desire for what is good is satisfied as we see that God is good.
 
-## The Fourth Degree - Loving Self for God's sake
+### The Fourth Degree - Loving Self for God's sake
 
 This last degree is rarely experienced, if ever experienced in this life:
 
