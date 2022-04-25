@@ -1,8 +1,8 @@
 Outline:
 
 * [Bernard's Four Degrees](#bernards-four-degrees)
-** [God and Self](#god-and-self)
-** [Objects of Love and Reasons for Love](#objects-of-love-and-reasons-for-love)
+    * [God and Self](#god-and-self)
+    * [Objects of Love and Reasons for Love](#objects-of-love-and-reasons-for-love)
 
 
 # Dante's Fourth Guide: Saint Bernard as Primary Inspiration
