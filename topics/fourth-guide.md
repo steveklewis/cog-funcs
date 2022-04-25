@@ -114,7 +114,7 @@ Now we can begin to see how Dante used the four degrees to choose his three guid
 
 For the purposes of this essay, I want to cover Virgil and Beatrice as guides, but primarily I want to focus on Bernard as a rational lover of God. He loves God for the right reasons.
 
-## Dante's First Transformation: Following
+### Dante's First Transformation: Following
 
 If we examine the beginning and the end of the Divine Comedy, a stark contrast emerges. At the end, Dante sees God. But at the beginning, Dante can only see himself and the dangers that surround him. Two objects, worthy of our attention: God and self, self and God. One could go as far as to say that Dante, as we come to the beginning of the Divine Comedy, without a guide, has been misguided, and has gotten lost in the dark wood. He is lost in all the possibilities of how to be, and doesn't even see the love of God as a proper object. In contradistinction, by the end of the Divine Comedy, he has found multiple guides and has learned to love God. So what is the thing that changes, between the first canto, and the last canto? It would appear that the object of Dante's love has moved from self, towards God. And that would be correct. But I believe there is more going on here.
 
@@ -132,7 +132,7 @@ After reading those lines, I have to conclude Dante almost certainly read _On Lo
 
 Dante's beastly desires have been quelled, and his mind is free to wander ahead. While his bodily desires aren't raging, his mind still wanders. He is still searching for satisfaction, which he won't finally realize until the vision of God at the end of Paradiso.
 
-## Dante's Second Transformation: Self-Mastery
+### Dante's Second Transformation: Self-Mastery
 
 In the third stage, Dante is declared to have self-mastery: his will has been purified. He does not have perfect knowledge of God, but he no longer loves other things more than God. This is represented by Bernard's third stage, loving self for God's sake. We see Virgil declare Dante master of himself:
 
@@ -143,7 +143,7 @@ In the third stage, Dante is declared to have self-mastery: his will has been pu
 
 God now loves God for God's sake. All of his self-directed love has been redirected towards God, and he is free to enter Paradiso with Beatrice.
 
-## Dante's Third Transformation: Consumation
+### Dante's Third Transformation: Consumation
 
 Dante's final transformation occus as Beatrice leaves Dante's side and Saint Bernard appears. Before we get to the argument, let's summarize what Bernard does in Dante's narrative. By the time Bernard arrives, Dante and Beatrice have already made it to the hightest sphere, the Empyrean. Dante turns to Beatrice but she is gone, and in her place stands Bernard. He says:
 
