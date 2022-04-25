@@ -1,11 +1,12 @@
 Outline:
 
-* [Bernard's Four Degrees](#bernards-four-degrees)
+1. [Bernard's Four Degrees](#bernards-four-degrees)
     * [God and Self](#god-and-self)
     * [Objects of Love and Reasons for Love](#objects-of-love-and-reasons-for-love)
+1. [Bernard's Circle](#bernards-circle)
+1. [Dante's Circle and Dante's Spiral](#dantes-circle-and-dantes-spiral)
+1. [Dante and the Four Degrees of Love](#dante-and-the-four-degrees-of-love)
 
-
-# Dante's Fourth Guide: Saint Bernard as Primary Inspiration
 
 Dante, as the pilgrim in the Divine Comedy, in his journey toward seeing God at the end of the Paradiso, finds himself guided by three historical figure. First, Virgil leads him through hell to the top of Purgatory. Beatrice appears as his second guide and explains things as they move through Paradiso. Near the end of Paradiso, Beatrice vanishes and St. Bernard of Clairvaux spends only a few cantos with Dante before the end of the poem. As we close the Paradiso, a question still lingers: Who was Bernard? Unless we are already familiar with him, or are familiar with his biography but not his work, we won't know what has just happened in the final cantos of the narrative. There are many ways to get to know Bernard of Clairvaux. But primarily I want to focus on his thought, moreso than his biography. Thomas Merton has a good idea of how best to get to know Bernard:
 
