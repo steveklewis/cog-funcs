@@ -1,3 +1,5 @@
+# Dante's Fourth Guide: St. Bernard and the Structure of the Divine Comedy
+
 Outline:
 
 1. [Bernard's Four Degrees](#bernards-four-degrees)
