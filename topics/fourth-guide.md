@@ -181,7 +181,7 @@ As we can see from the narrative, Bernard's primary function is to pray to the M
 
 ## Knowing Bernard
 
-By the end of the Paradiso, we have come to know Bernard of Clairvaux through his abstractions that Dante has used throughout the narrative. We know St. Bernard by walking through circles, and we know St. Bernard by climbing his ladder. Without his contributions, Dante's Divine Comedy might look very different.
+By the end of the Paradiso, we have come to know Bernard of Clairvaux through his abstractions that Dante has used throughout the narrative. We know St. Bernard by walking around circles, and we know St. Bernard by finding spiritual guides to help us climb his ladder. Without his contributions, Dante's Divine Comedy would look very different.
 
 ### Citations
 
