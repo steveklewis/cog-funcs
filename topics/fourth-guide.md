@@ -13,7 +13,7 @@ Outline:
 1. [Bernard's Circle](#bernards-circle)
 1. [Dante's Circle and Dante's Spiral](#dantes-circle-and-dantes-spiral)
 1. [Dante and the Four Degrees of Love](#dante-and-the-four-degrees-of-love)
-    * [Dante's First Transformation: Following](#dantes-first-transformation-following)
+    * [Dante's First Transformation: Following](#dantes-first-transformation-out-of-the-circle)
     * [Dante's Second Transformation: Self-Mastery](#dantes-second-transformation-self-mastery)
     * [Dante's Third Transformation: Consummation](#dantes-third-transformation-consummation)
 
@@ -124,7 +124,7 @@ Now we can begin to see how Dante used the four degrees to choose his three guid
 
 For the purposes of this essay, I want to cover Virgil and Beatrice as guides, but primarily I want to focus on Bernard as a rational lover of God. He loves God for the right reasons.
 
-### Dante's First Transformation: Following
+### Dante's First Transformation: Out of the Circle
 
 If we examine the beginning and the end of the Divine Comedy, a stark contrast emerges. At the end, Dante sees God. But at the beginning, Dante can only see himself and the dangers that surround him. Two objects, worthy of our attention: God and self, self and God. One could go as far as to say that Dante, as we come to the beginning of the Divine Comedy, without a guide, has been misguided, and has gotten lost in the dark wood. He is lost in all the possibilities of how to be, and doesn't even see the love of God as a proper object. In contradistinction, by the end of the Divine Comedy, he has found multiple guides and has learned to love God. So what is the thing that changes, between the first canto, and the last canto? It would appear that the object of Dante's love has moved from self, towards God. And that would be correct. But I believe there is more going on here.
 
