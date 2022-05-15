@@ -15,3 +15,5 @@ This attention that we have towards the things that are actual allows us to acco
 ## The Artifacts of Software Development
 
 Why does this matter to the life of software development? Well, partly, we get to know the codebases that we spend time with. We see all of it nooks and crannies, and we get more adept at changing it, fixing it, accepting its limitations, but trying to push it forward as a successful project.
+
+> The internal sense, by means of which the mind contemplates itself or its internal state, gives, indeed, no intuition of the soul as an object; yet there is nevertheless a determinate form, under which alone the contemplation of our internal state is possible, so that all which relates to the inward determinations of the mind is represented in relations of time. (CPR, Of Space, Metaphysical Exposition of this Conception)
