@@ -20,7 +20,7 @@ While not mentioning Bernard or Dante, Kant picks up on a similar hopeless and c
 
 This lack of certainty is the same conundrum as that found in Bernard of Clairvaux. Almost all paths, almost all solutions, are less than optimal. On top of this lack of certainty Kant adds a lack of unity, and a lack of order in the conclusions about reality. The fundamental spontaneity of our understanding, when it comes to dealing with abstractions, makes it difficult to ensure that our logical operations end with something unified, orderly, and certain.
 
-> Transcendental philosophy has the advantage, and moreover the duty, of searching for its conceptions according to a principle; because these conceptions spring pure and unmixed out of the understanding as an absolute unity, and therefore must be connection with each other according to one conception or idea. A conception of this kind, however, furnishes us with a ready prepared rule, by which its proper place may be assigned to every pure conception of the understanding and the completeness of the system of all be determined *a priori*--both which would have been dependent on mere choice or chance.
+> Transcendental philosophy has the advantage, and moreover the duty, of searching for its conceptions according to a principle; because these conceptions spring pure and unmixed out of the understanding as an absolute unity, and therefore must be connected with each other according to one conception or idea. A conception of this kind, however, furnishes us with a ready prepared rule, by which its proper place may be assigned to every pure conception of the understanding and the completeness of the system of all be determined *a priori*--both which would have been dependent on mere choice or chance.
 
 Here Kant explains how his approach is different and how it leads to more certainty.
 
@@ -41,9 +41,11 @@ Here Kant explains how his approach is different and how it leads to more certai
 
 > For geometrical principles are always apodeictic, that is, united with the consciousness of their necessity, as: "Space has only three dimensions."
 
+> The reader, then, must be quite convinced of the absolute necessity of a transcendental deduction, before taking a single step in the field of pure reason; because otherwise he goes to work blindly, and after he has wandered about in all directions, returns to the state of utter ignorance from which he started. (Deduction Paragraph Nine)
+
 ** The Universality of Reason
 
 
 ** The Holiness of Reason
 
-
+> But you must draw yourself back and train more, while you're still young, in a gymnastic that seems useless and which the many call 'idle talk.' If you don't, the truth will escape you. Parmenidies, 135d
