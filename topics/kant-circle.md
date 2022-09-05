@@ -16,7 +16,13 @@ Bernard implies that the mind can search, and find truth, if the body can be tam
 
 While not mentioning Bernard or Dante, Kant picks up on a similar hopeless and circular philosophical journey, and attempts to place the philosopical search on a more direct route.
 
+> This path—the only one now remaining—has been entered upon by me; and I flatter myself that I have, in this way, discovered the cause of—and consequently the mode of removing—all the errors which have hitherto set reason at variance with itself, in the sphere of non-empirical thought. CPR, First Preface
+
+
+
+
 > When we call into play a faculty of cognition, different conceptions manifest themselves according to the different circumstances, and make known this faculty, and assemble themselves into a more or less extensive collection, according to the time or penetration that has been applied to the consideration of them. Where this process, conducted more or less mechanically, so to speak, will end, cannot be determined with certainty. Besides, the conceptions which we  discover in this haphazard manner present themselves by no means in order and systematic unity, but are at last coupled together only according to resemblances to each other, and arranged in series, according to the quantity of their content, from the simpler to the more complex--series which are anything but systematic, thought not altogether without a certain kind of method in their construction.
+
 
 This lack of certainty is the same conundrum as that found in Bernard of Clairvaux. Almost all paths, almost all solutions, are less than optimal. On top of this lack of certainty Kant adds a lack of unity, and a lack of order in the conclusions about reality. The fundamental spontaneity of our understanding, when it comes to dealing with abstractions, makes it difficult to ensure that our logical operations end with something unified, orderly, and certain.
 
@@ -49,3 +55,11 @@ Here Kant explains how his approach is different and how it leads to more certai
 ** The Holiness of Reason
 
 > But you must draw yourself back and train more, while you're still young, in a gymnastic that seems useless and which the many call 'idle talk.' If you don't, the truth will escape you. Parmenidies, 135d
+
+> ... all attempts at an empirical deduction, in regard to pure *a priori* conceptions, are vain, and can only be made by one who does not understand the altogether peculiar nature of these cognitions. p. 83
+
+> The reader, then, must be quite convinced of the absolute necessity of a transcendental deduction, before taking a single step in the field of pure reason; because otherwise he goes to work blindly, and after he has wandered about in all directions, returns to the state of utter ignorance from which he started. p. 83
+
+
+
+> Unless we pay particular attention to this requirement, our proofs, instead of pursuing the straight path indicated by reason, follow the tortuous road of mere subjective association. B815, p. 398
